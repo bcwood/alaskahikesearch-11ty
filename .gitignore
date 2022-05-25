@@ -1,3 +1,6 @@
 _site/
 node_modules/
 package-lock.json
+css/style.css
+css/style.css.map
+js/maps.js
