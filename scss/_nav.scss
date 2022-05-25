@@ -1,0 +1,125 @@
+.navbar-inverse {
+    background-color: #333;
+    border: none;
+}
+
+.navbar-brand {
+    font-family: $heading-font;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a,
+.navbar a:hover {
+    color: #fff !important;
+}
+
+.navbar-brand:hover,
+.navbar-brand a:hover {
+    text-decoration: none;
+}
+
+.sub-nav {
+    background-color: $light-background-color;
+    height: auto;
+    padding: 0;
+}
+
+.navbar .menu-icon {
+    cursor: pointer;
+    padding: 10px 6px;
+    position: absolute;
+    right: 10px;
+    top: -50px;
+    user-select: none;
+
+    .navicon {
+        background: #fff;
+        display: block;
+        height: 2px;
+        position: relative;
+        transition: background .2s ease-out;
+        width: 18px;
+    }
+
+    .navicon:before,
+    .navicon:after {
+        background: #fff;
+        content: '';
+        display: block;
+        height: 100%;
+        position: absolute;
+        transition: all .2s ease-out;
+        width: 100%;
+    }
+
+    .navicon:before {
+        top: 5px;
+    }
+
+    .navicon:after {
+        top: -5px;
+    }
+}
+
+.navbar .menu-btn {
+    display: none;
+}
+
+.navbar .menu-btn:checked ~ .menu {
+    display: block;
+}
+
+.navbar .menu-btn:checked ~ .menu-icon .navicon {
+    background: transparent;
+}
+
+.navbar .menu-btn:checked ~ .menu-icon .navicon:before {
+    transform: rotate(-45deg);
+}
+
+.navbar .menu-btn:checked ~ .menu-icon .navicon:after {
+    transform: rotate(45deg);
+}
+
+.navbar .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.navbar .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+    top: 0;
+}
+
+.navbar .menu {
+    display: none;    
+
+    li a.nav-link {
+        color: #444 !important;
+        padding: 10px 14px;
+        text-decoration: none;
+    }
+
+    li a.active,
+    li a:hover {
+        background-color: $highlight-color;
+        color: #ffffff !important;
+    }
+}
+
+/* MEDIA QUERIES */
+@media (min-width: 576px) {
+    .navbar .container {
+        max-width: 1200px;
+    }
+
+    .navbar-brand {
+        font-size: 3.0em;
+    }
+
+    .navbar .menu {
+        display: block;
+    }
+
+    .navbar .menu-icon {
+        display: none;
+    }
+}

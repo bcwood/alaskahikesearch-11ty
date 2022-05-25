@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Alaska Hike Search &ndash; Find Your Next Adventure</title>
+        
+        {% include 'head.njk' %}
+        {% block header %}{% endblock %}
+    </head>
+    <body class="home">
+        {% include 'navbar.njk' %}
+
+        {% block content %}
+            {{ content | safe }}
+        {% endblock %}
+
+        {% include 'foot.njk' %}
+        {% block footer %}{% endblock %}
+    </body>
+</html>

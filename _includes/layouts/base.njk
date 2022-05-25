@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{{ title }} &ndash; Alaska Hike Search</title>
+
+        {% include 'head.njk' %}
+        {% block header %}{% endblock %}
+    </head>
+    <body>
+        {% include 'navbar.njk' %}
+
+        {% block content %}
+            {{ content | safe }}
+        {% endblock %}
+
+        {% include 'foot.njk' %}
+        {% block footer %}{% endblock %}
+    </body>
+</html>

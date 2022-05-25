@@ -1,0 +1,23 @@
+---
+title: Search
+permalink: "hikes/search/index.html"
+layout: "layouts/page.njk"
+---
+<div class="row">
+	<div class="col-sm-6">
+		<form id="searchform" method="get" action="/hikes/search">
+            <div class="form-group">
+                <label for="q" class="control-label">Try searching for a trail name or other keywords</label>
+                <input type="text" name="q" id="q" class="form-control" placeholder="Search for a hike..." />
+            </div>
+            <button type="submit" class="btn btn-success">Search</button>
+        </form>
+	</div>
+</div>
+
+<div class="row searchresults">
+    <div class="col-12">
+        <script async src="https://cse.google.com/cse.js?cx=001390666871438458158:dp5xksao6yy"></script>
+        <div class="gcse-searchresults-only"></div>
+    </div>
+</div>

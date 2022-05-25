@@ -1,0 +1,14 @@
+---
+permalink: /select-hike.html
+eleventyExcludeFromCollections: true
+---
+<!DOCTYPE html>
+<html>
+<body>
+    <script type="text/javascript">
+        var urlParams = new URLSearchParams(window.location.search);
+        var hike = urlParams.get('hike');
+        window.location.replace("/hikes/" + hike);
+    </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+---
+permalink: /index.html
+---
+{% extends "layouts/home.njk" %}
+
+{% block content %}
+    <div class="cover">
+        <h2 class="cover-heading">Find Your Next Adventure</h2>
+        <form class="select-hike-form" action="/select-hike.html" method="get">
+            <select name="hike" id="hike" class="form-control">
+                <option>Select a hike...</option>
+                
+                {%- for hike in collections.hikesSorted %}
+                    <option value="{{ hike.data.slug }}">{{ hike.data.title }}</option>
+                {%- endfor %}
+            </select>
+            <button type="submit" class="btn btn-success">Go!</button>
+        </form>
+
+        <div id="map" class="map-home"></div>
+    </div>
+{% endblock %}
+
+{% block footer %}
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js"></script>
+    <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css" />
+    <script type="text/javascript" src="/js/maps.min.js?v=20220416"></script>
+    <script type="text/javascript">
+        map_home();
+    </script>
+{% endblock %}

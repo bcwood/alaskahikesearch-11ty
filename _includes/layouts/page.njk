@@ -1,0 +1,11 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+    <div class="page container-xl {{ page.fileSlug }}">
+        <h1>{{ title }}</h1>
+
+        {{ content | safe }}
+
+        {% include 'footer.njk' %}
+    </div>    
+{% endblock %}

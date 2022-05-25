@@ -1,0 +1,19 @@
+﻿.map-home {
+    height: 300px;
+    margin-top: 40px;
+    width: 100%;
+
+    @media (min-width: 768px) {
+        height: 600px;
+    }
+}
+
+.map-embed {
+    height: 300px;
+    width: 100%;
+}
+
+.mapboxgl-popup {
+    max-width: 400px;
+    text-shadow: none;
+}

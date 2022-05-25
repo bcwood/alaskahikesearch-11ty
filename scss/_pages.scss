@@ -1,0 +1,52 @@
+.page {
+    background-color: #fff;
+    /*    box-shadow: 0 4px 6px 8px rgba(0, 0, 0, 0.4);*/
+    padding-top: 20px;
+
+    h1 {
+        font-size: 2.4em;
+
+        @media (min-width: 768px) {
+            font-size: 3.0em;
+        }
+    }
+}
+
+.page.search .searchresults {
+    margin-top: 30px;
+}
+
+.page.education #edu-menu {
+    background-color: $light-background-color;
+    font-size: 1.0em;
+    float: right;
+    list-style-type: none;
+    margin-left: 15px;
+    padding: 10px;
+
+    ul {
+        list-style-type: disc;
+        margin-left: 25px;
+        padding: 0;
+    }
+}
+
+.page.parks .park {
+    border-top: 4px dotted $light-border-color;
+    padding: 30px 0;
+}
+
+.page.recommended {
+    .row {
+        margin-bottom: 20px;
+    }
+
+    h3 {
+        font-size: 1.4em;
+        padding-top: 10px;
+    }
+
+    img {
+        height: 200px;
+    }
+}

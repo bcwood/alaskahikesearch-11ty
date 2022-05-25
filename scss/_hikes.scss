@@ -1,0 +1,82 @@
+.hike {
+    .description {
+        margin-top: 30px;
+
+        p {
+            line-height: 1.5em;
+        }
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    .gallery dl {
+        float: left;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+
+    .gallery a img {
+        border: 4px solid #BBB;
+        border-radius: 2px;
+    }
+
+    .gallery a:hover img {
+        border: 4px solid $highlight-color;
+    }
+}
+
+.hike-banner {
+    height: 200px;
+    background-position: 50% 30%;
+    background-size: cover;
+    margin: -20px -15px 0 -15px;
+    padding: 0;
+
+    @media (min-width: 768px) {
+        height: 300px;
+    }
+}
+
+.hike-header {
+    background-color: $light-background-color;
+    margin: 0 -15px;
+    padding: 5px 15px !important;
+
+    h1 {
+        font-size: 2.0em;
+        font-family: $heading-font;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+
+        @media (min-width: 768px) {
+            font-size: 2.5em;
+        }
+    }
+
+    .park {
+        font-size: 1.1em;
+    }
+}
+
+.hike-section {
+    clear: both;
+    margin-top: 30px;
+}
+
+.hike-meta {
+    margin-top: 30px;
+
+    .row {
+        background-color: $light-background-color;
+        border-bottom: 1px solid #dddddd;
+        padding: 15px 0;
+    }
+
+    .fas {
+        color: $highlight-color;
+        width: 25px;
+    }
+}

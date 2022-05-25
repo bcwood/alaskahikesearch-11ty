@@ -1,0 +1,190 @@
+{% extends "layouts/base.njk" %}
+{% block header %}
+    <script src="https://kit.fontawesome.com/dde1b15fe1.js" crossorigin="anonymous"></script>
+{% endblock %}
+
+{% block content %}
+    <div class="page container-xl hike">
+        <div class="row hike-banner" style="background-image: url('/img/hikes/{{ bannerImage }}.jpg')"></div>
+        
+        <div class="row hike-header">
+            <h1>{{ title }}</h1>
+            {% if park | length %}
+                <a href="~/parks/{{ park | slugify }}" class="park">{{ park }}</a>
+            {% endif %}
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 order-2 order-md-1">
+                <div class="hike-section description">
+                    <h2>Description</h2>
+                    {{ content | safe }}
+                </div>
+
+                {% if attachments | length %}
+                    <div class="hike-section gallery">
+                        <h2>Photos</h2>
+                        <div>
+                            {% for photo in attachments %}
+                                <dl>
+                                    <dt>
+                                        <a href="/img/hikes/{{ photo.slug }}.jpg">
+                                            <img src="/img/hikes/{{ photo.slug }}-150.jpg" alt="{{ photo.description }}" />
+                                        </a>
+                                    </dt>
+                                </dl>
+                            {% endfor %}
+                        </div>
+                    </div>
+                {% endif %}
+
+                <div class="hike-section comments">
+                    <h2>Comments on hiking {{ title }}</h2>
+
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function() {
+                            this.page.url = "https://alaskahikesearch.com/hikes/{{ slug }}";
+                            this.page.identifier = "/hikes/{{ slug }}";
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://https-alaskahikesearch-com.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                </div>
+            </div>
+
+            <div class="col-md-4 order-1 order-md-2 hike-meta">
+                <div class="row">
+                    <div class="col-6"><i class="fas fa-star"></i> Rating</div>
+                    <div class="col-6">
+                        <img class="hike-rating" src="/img/rating-{{ rating }}.png" alt="This hike was rated {{ rating }} stars." />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6"><i class="fas fa-tachometer-alt"></i> Difficulty</div>
+                    <div class="col-6">
+                        {{ difficultyRating }}
+                    </div>
+                </div>
+
+                {% if connectedHikes | length %}
+                    <div class="row">
+                        <div class="col-6"><i class="fas fa-map-signs"></i>Connects With</div>
+                        <div class="col-6">
+                            {% for hike in connectedHikes %}
+                                <a href="/hikes/{{ hike | slugify }}">{{ hike }}</a><br />
+                            {% endfor %}
+                        </div>
+                    </div>
+                {% endif %}
+
+                <div class="row">
+                    <div class="col-6"><i class="fas fa-ruler-horizontal"></i> Distance</div>
+                    <div class="col-6">
+                        {% if (milesOneWay | int) == 0 %}
+                            Various distances
+                        {% else %}
+                            {{ milesOneWay }} miles
+                        {% endif %}
+                    </div>
+                </div>  
+
+                {% if elevationGain > 0 %}
+                    <div class="row">
+                        <div class="col-6"><i class="fas fa-mountain"></i> Elevation Gain</div>
+                        <div class="col-6">
+                            {{ elevationGain }} feet
+                        </div>
+                    </div>
+                {% endif %}
+
+                <div class="row">
+                    <div class="col-6"><i class="fas fa-car-side"></i> From Anchorage</div>
+                    <div class="col-6">
+                        {% if (milesFromAnchorage | int) == 0 %}
+                            In town
+                        {% else %}
+                            {{ milesFromAnchorage }} miles
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6"><i class="fas fa-cloud-sun"></i> Season</div>
+                    <div class="col-6">
+                        {{ seasonDescription }}
+                    </div>
+                </div>
+
+                {% if submittedBy | length %}
+                    <div class="row">
+                        <div class="col-6"><i class="fas fa-user"></i> Submitted By</div>
+                        <div class="col-6">
+                            {{ submittedBy }}
+                        </div>
+                    </div>
+                {% endif %}
+
+                {% if trailheads | length %}
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h4>Finding the Trailhead</h4>
+                            <div id="map" class="map-embed"></div>
+                            <noscript>Please enable JavaScript to view the trailhead map.</noscript>
+                        </div>
+                    </div>
+                {% endif %}
+
+                {% if mapFilename | length %}
+                    <div class="row">
+                        <div class="col-12">
+                            <h4>Hike Map</h4>
+
+                            {% if topoFilename | length %}
+                                <a href="/img/topos/{{ mapFilename }}">
+                                    <img src="/img/topos/{{ topoFilename }}" width="350" alt="Map of {{ title }}" />
+                                </a>
+                            {% else %}
+                                <a href="/img/topos/{{ mapFilename }}">
+                                    <img src="/img/topos/{{ mapFilename }}" alt="Map of {{ title }}" />
+                                </a>
+                            {% endif %}
+
+                            {% if gpxFilename | length %}
+                                <br /><a href="/files/gpx/{{ gpxFilename }}">Download GPX</a>
+                            {% endif %}
+                        </div>
+                    </div>
+                {% endif %}
+
+                {% if elevationFilename | length %}
+                    <div class="row">
+                        <div class="col-12">
+                            <h4>Elevation Profile</h4>
+                            <a href="/img/elevation/{{ elevationFilename }}">
+                                <img src="/img/elevation/{{ elevationFilename }}" alt="Elevation profile of {{ title }}" />
+                            </a>
+                        </div>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+
+        {% include 'footer.njk' %}
+    </div>
+{% endblock %}
+
+{% if trailheads | length %}
+    {% block footer %}
+        <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js"></script>
+        <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css" />
+        <script type="text/javascript" src="/js/maps.min.js?v=20220416"></script>
+        <script type="text/javascript">
+            map_{{ slug | replace("-", "") }}()
+        </script>
+    {% endblock %}
+{% endif %}
