@@ -9,7 +9,7 @@ const slugify = require('@sindresorhus/slugify');
 
 module.exports = function(eleventyConfig) {
   // Copy static folders to the output
-  eleventyConfig.addPassthroughCopy({"favicon": "/"});
+  eleventyConfig.addPassthroughCopy({"static-root": "/"});
   eleventyConfig.addPassthroughCopy("files");
   eleventyConfig.addPassthroughCopy("img");
   
