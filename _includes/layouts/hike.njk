@@ -10,7 +10,7 @@
         <div class="row hike-header">
             <h1>{{ title }}</h1>
             {% if park | length %}
-                <a href="~/parks/{{ park | slugify }}" class="park">{{ park }}</a>
+                <a href="/parks/#{{ park | slugify }}" class="park">{{ park }}</a>
             {% endif %}
         </div>
 
