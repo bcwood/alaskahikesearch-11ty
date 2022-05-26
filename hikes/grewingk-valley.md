@@ -5,8 +5,7 @@ submittedBy: ''
 rating: 5
 difficultyRating: Difficult
 difficultyDescription: very steep elevation on some parts of the trails. If using the tram, it can be physically exerting.  You are far away from help so wilderness safety and first aid knowledge and skills are essential.
-connectedHikes:
-- There are numerous trails in this park. The below 4 trails are the only ones I have done which create a traverse from Halibut Cove to Humpy Creek.
+connectedHikes: []
 milesOneWay: 15.75
 milesFromAnchorage: 225.0
 directionsFromAnchorage: drive south to Homer, then a half hour boat ride to the park. <a href="http://www.dnr.state.ak.us/parks/units/kbay/kbaytaxi.htm">Link here for a list of authorized water taxis</a>.
