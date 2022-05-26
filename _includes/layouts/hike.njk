@@ -23,18 +23,12 @@
 
                 {% if attachments | length %}
                     <div class="hike-section gallery">
-                        <h2>Photos</h2>
-                        <div>
-                            {% for photo in attachments %}
-                                <dl>
-                                    <dt>
-                                        <a href="/img/hikes/{{ photo.slug }}.jpg">
-                                            <img src="/img/hikes/{{ photo.slug }}-150.jpg" alt="{{ photo.description }}" />
-                                        </a>
-                                    </dt>
-                                </dl>
-                            {% endfor %}
-                        </div>
+                        <h2>Photos</h2>                        
+                        {%- for photo in attachments %}
+                            <a href="/img/hikes/{{ photo.slug }}.jpg">
+                                <img src="/img/hikes/{{ photo.slug }}-150.jpg" alt="{{ photo.description }}" />
+                            </a>
+                        {%- endfor %}
                     </div>
                 {% endif %}
 
