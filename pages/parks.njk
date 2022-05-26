@@ -14,14 +14,14 @@ layout: "layouts/page.njk"
 	not mentioned are not worth your time.
 </p>
 
-{%- for park in collections.parksSorted %}
+{%- for park in collections.parks | sort(attribute='data.title') %}
 	<div class="park">
 		<h2 id="{{ park.data.title | slugify }}">{{ park.data.title }}</h2>
 		{{ park.templateContent | safe }}
 
 		<h3>Hikes Listed on this Site:</h3>
 		<ul>
-			{%- for hike in collections[park.data.title | slugify] %}
+			{%- for hike in collections[park.data.title | slugify] | sort(attribute='data.title') %}
 				<li><a href="/hikes/{{ hike.fileSlug }}">{{ hike.data.title }}</a></li>
 			{%- endfor %}
 		</ul>

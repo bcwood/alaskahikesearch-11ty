@@ -10,7 +10,7 @@ permalink: /index.html
             <select name="hike" id="hike" class="form-control">
                 <option>Select a hike...</option>
                 
-                {%- for hike in collections.hikesSorted %}
+                {%- for hike in collections.hikes | sort(attribute='data.title') %}
                     <option value="{{ hike.fileSlug }}">{{ hike.data.title }}</option>
                 {%- endfor %}
             </select>
