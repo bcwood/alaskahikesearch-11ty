@@ -184,7 +184,7 @@
         <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css" />
         <script type="text/javascript" src="/js/maps.min.js?v=20220416"></script>
         <script type="text/javascript">
-            map_{{ slug | replace("-", "") }}()
+            map_{{ title | slugify | replace("-", "") }}()
         </script>
     {% endblock %}
 {% endif %}
