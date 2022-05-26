@@ -132,7 +132,7 @@
                 {% if trailheads | length %}
                     <div class="row">
                         <div class="col-sm-12">
-                            <h4>Finding the Trailhead</h4>
+                            <h2>Finding the Trailhead</h2>
                             <div id="map" class="map-embed"></div>
                             <noscript>Please enable JavaScript to view the trailhead map.</noscript>
                         </div>
@@ -142,7 +142,7 @@
                 {% if mapFilename | length %}
                     <div class="row">
                         <div class="col-12">
-                            <h4>Hike Map</h4>
+                            <h2>Hike Map</h2>
 
                             {% if topoFilename | length %}
                                 <a href="/img/topos/{{ mapFilename }}">
@@ -164,7 +164,7 @@
                 {% if elevationFilename | length %}
                     <div class="row">
                         <div class="col-12">
-                            <h4>Elevation Profile</h4>
+                            <h2>Elevation Profile</h2>
                             <a href="/img/elevation/{{ elevationFilename }}">
                                 <img src="/img/elevation/{{ elevationFilename }}" alt="Elevation profile of {{ title }}" />
                             </a>
