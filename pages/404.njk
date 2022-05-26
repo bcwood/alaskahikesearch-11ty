@@ -1,0 +1,31 @@
+---
+title: Page Not Found
+permalink: "/404.html"
+layout: "layouts/page.njk"
+---
+
+<p>
+	<em>This is not the page you're looking for...</em>
+</p>
+<p>
+	<img src="/img/404.jpg" alt="Obi Wan Kenobi using Jedi mind tricks" title="These are not the droids you're looking for..." class="frame" />
+</p>
+<p>
+	We're sorry, but the requested page could not be found.
+</p>
+<div class="row">
+	<div class="col-sm-6">
+		<form id="searchform" method="get" action="/hikes/search">
+            <div class="form-group">
+                <label for="q" class="control-label">Try searching for a trail name or other keywords</label>
+                <input type="text" name="q" id="q" class="form-control" placeholder="Search for a hike..." />
+            </div>
+            <button type="submit" class="btn btn-success">Search</button>
+        </form>
+	</div>
+</div>
+<p>
+	<br />
+	If you <em>still</em> can't find what you're looking for, would you be oh-so-kind as to
+	<a href="/contact">send me an email</a> and let me know, so I can fix the problem? Thanks!
+</p>
