@@ -27,7 +27,7 @@ attachments:
 - slug: victor-creek-5
   description: Avalanche. Photo by Egore's Keepers.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 The trail follows the bluff along the steep canyon walls looking down into the powerful, milky-blueness of Victor Creek. You never see this one listed in the books, and there is very little parking, so it gets very little traffic. Even so, the trail is very well-maintained. Lots of blueberries in fall, flowers in summer. 

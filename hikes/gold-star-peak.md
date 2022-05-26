@@ -37,7 +37,7 @@ trailheads:
 - name: Eklutna Road Trailhead
   latitude: 61.4478723
   longitude: -149.2518729
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Gold Star Peak was dedicated in 2018 to honor the families who have lost a loved one while serving in the military. This mountain can easily be seen from the Matanuska-Susitna Veterans Memorial. For more about the history of the mountain visit the [official Gold Star Peak website](https://www.goldstarpeak.org).

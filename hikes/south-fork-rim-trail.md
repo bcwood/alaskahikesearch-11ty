@@ -36,7 +36,7 @@ trailheads:
 - name: Prospect Heights Trailhead
   latitude: 61.1389031
   longitude: -149.7108881
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Basically, this trail is a shorter, fairly level trail on the edge of a somewhat steep valley carved by the South Fork of Campbell Creek. It offers a nice "walk in the park" hike, with good views, and minimal elevation gain.

@@ -43,7 +43,7 @@ trailheads:
 - name: Eklutna Lake Trailhead
   latitude: 61.4093816
   longitude: -149.1355825
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I'll have to redo this hike because I really messed it up. 

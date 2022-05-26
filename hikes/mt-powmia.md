@@ -45,7 +45,7 @@ trailheads:
 - name: Eklutna Road Trailhead
   latitude: 61.4478723
   longitude: -149.2518729
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Mount POW/MIA is a mountain that was dedicated in November of 1999 to any military personnel that have ever been determined as a Prisoner of War or been Missing In Action. This mountain can easily be seen from the Matanuska-Susitna Veterans Memorial. There is a plaque for the mountain there as well. It is the largest and tallest living military monument. For more about the history of the mountain visit: [http://en.wikipedia.org/wiki/Mount_POW/MIA](http://en.wikipedia.org/wiki/Mount_POW/MIA)

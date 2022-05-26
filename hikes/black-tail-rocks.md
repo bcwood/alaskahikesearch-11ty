@@ -41,7 +41,7 @@ trailheads:
 - name: Mt. Baldy Trailhead
   latitude: 61.3380357
   longitude: -149.5116133
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 After Dan submitted [Baldy](http://alaskahikesearch.com/hikes/mt-baldy/ "Mt. Baldy") to me last year, I've been itching to check it out and proceed further on to the other mountains nearby. I finally had a chance last weekend to check some out.

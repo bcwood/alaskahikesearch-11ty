@@ -49,7 +49,7 @@ trailheads:
 - name: Johnson Pass Trailhead (South)
   latitude: 60.5039132
   longitude: -149.438165
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 *7/11/03: After finally getting the chance to at least hike to Johnson Lake from the North Trailhead, this page has been entirely rewritten.*

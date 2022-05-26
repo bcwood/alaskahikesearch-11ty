@@ -55,7 +55,7 @@ trailheads:
 - name: South Fork Trailhead
   latitude: 61.2327938
   longitude: -149.4561918
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 One of my favorite places to go! Very convenient to Anchorage and one of the most accessible ways to get into the backcountry. The trail starts over a ridge then descends into the valley. At the end, after climbing over the a slew of rocks and boulders from a long ago slide, are two lakes situated on both sides of a lateral moraine; Eagle Lake, which is a green milky color and Symphony Lake, a rich blue aquamarine color. The contrast in color is amazing and is one of the coolest sites in the park.

@@ -35,9 +35,18 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
   });
 
-  // sort hikes alphabetically for home page drop-down
+  // hikes sorted alphabetically
   eleventyConfig.addCollection("hikesSorted", (collection) =>
     collection.getFilteredByGlob("hikes/*.md").sort((a, b) => {
+        if (a.data.title > b.data.title) return 1;
+        else if (a.data.title < b.data.title) return -1;
+        else return 0;
+    })
+  );
+
+  // parks sorted alphabetically
+  eleventyConfig.addCollection("parksSorted", (collection) =>
+    collection.getFilteredByGlob("parks/*.md").sort((a, b) => {
         if (a.data.title > b.data.title) return 1;
         else if (a.data.title < b.data.title) return -1;
         else return 0;

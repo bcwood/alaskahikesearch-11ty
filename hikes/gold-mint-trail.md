@@ -32,7 +32,7 @@ trailheads:
 - name: Gold Mint Trailhead
   latitude: 61.7787349
   longitude: -149.1963238
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 This is a pretty cool trail. At first I gave it 3 hooves but then I started really remembering this hike. It had been over 2 yrs (I did it in 2000 - wrote this in 2002) and I had to remind myself of all the cool sites that I saw on this trip.

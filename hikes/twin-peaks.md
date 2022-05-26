@@ -46,7 +46,7 @@ trailheads:
 - name: Eklutna Lake Trailhead
   latitude: 61.4093816
   longitude: -149.1355825
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 The trail proper switchbacks steeply uphill offering better and better views of Eklutna Lake. The end of the trail is the second bench. This is a great hike if you're already camping out at Eklutna Lake. Otherwise, I wouldn't make a special trip unless you plan on continuing on the primitive trail.

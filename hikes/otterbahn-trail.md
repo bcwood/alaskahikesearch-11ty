@@ -23,7 +23,7 @@ attachments:
 - slug: otterbahn-trail-3
   description: White Rocks. Photo by Patricia Baum.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kachemak-state-park']
 layout: layouts/hike.njk
 ---
 This is a very easy stroll hike that gives you an excellent glimpse into Kachemak Bay nature. I took this hike in summer though I have read you can ski this in winter - though I can't confirm that.

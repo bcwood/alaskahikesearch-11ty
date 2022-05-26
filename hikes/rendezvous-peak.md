@@ -65,7 +65,7 @@ trailheads:
 - name: South Fork Trailhead
   latitude: 61.2327938
   longitude: -149.4561918
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Great views of Anchorage and the Eagle River Valley. Great view of Denali on a clear day. Can be crowded due to its proximity to Anchorage.

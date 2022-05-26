@@ -27,7 +27,7 @@ attachments:
 - slug: portage-valley-5
   description: Wetlands
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 This is a highly recommended side trip on your way to the Kenai Peninsula or a great way to end your Sunday drive down Turnagain Arm.

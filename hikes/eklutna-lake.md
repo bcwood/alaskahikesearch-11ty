@@ -44,7 +44,7 @@ trailheads:
 - name: Eklutna Lake Trailhead
   latitude: 61.4093816
   longitude: -149.1355825
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Eklutna Lake, the largest lake in the park, is the City of Anchorage's Reservoir. While the trail is no more than an unused road, the lake is beautiful as well as the surrounding landscape. It's a nice place to walk around but if you really want to enjoy the area, bike it! This is one of the all time great places to do it. 

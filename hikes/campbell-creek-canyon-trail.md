@@ -43,7 +43,7 @@ trailheads:
 - name: Basher Trailhead
   latitude: 61.1515809
   longitude: -149.7143492
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 The chief attraction of this hike is Long Lake, aptly described, with great campsites all around it, as well as an incredible landscape created by the previous glacier. At the head of the valley, the leftover moraine and cirque leftover from the previous glacier is quite unique and when I come back, I really want to explore this part of the hike after setting up camp. Better yet, I think it would be cool to actually set up camp there as there is an absolutely beautiful tarn.

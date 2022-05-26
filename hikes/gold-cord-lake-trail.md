@@ -30,7 +30,7 @@ trailheads:
 - name: Independence Mine Trailhead
   latitude: 61.7770085
   longitude: -149.2789063
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 I did this hike with the Mat-Su Meetup group on a Thursday evening in July 2009 so we were pretty much alone at the top. The trail is easy to follow and in wonderful condition. Even the boulder field now has easy to follow steps to manage the 500 foot elevation gain. There is an old sod cabin along the trail and of course, a pristine lake at the top. Marmots chirping will drive the dogs nuts.

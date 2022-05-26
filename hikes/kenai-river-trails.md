@@ -31,7 +31,7 @@ attachments:
 - slug: kenai-river-trails-6
   description: Mallards take off
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kenai-national-wildlife-refuge']
 layout: layouts/hike.njk
 ---
 *This Hike was totally rewritten on September 16, 2006 *

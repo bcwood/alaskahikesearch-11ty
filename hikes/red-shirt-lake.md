@@ -28,7 +28,7 @@ trailheads:
 - name: Red Shirt Lake Trailhead
   latitude: 61.6670768
   longitude: -150.1413254
-tags: hikes
+tags: ['hikes', 'nancy-lake-state-recreation-area']
 layout: layouts/hike.njk
 ---
 The trail starts at South Rolly Lake Campground Parking Lot. With your back to South Rolly Lake there is a dirt road with a gate. The trail starts just before the gate and to your left. This trail is dry and mostly all forested with a few minor swamps just off the trail.

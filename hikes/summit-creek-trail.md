@@ -60,7 +60,7 @@ attachments:
 - slug: summit-creek-trail-7
   description: Entering the 2nd valley
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 I’ve seen this trail on my National Geographic Map for years now but have never seen any information on it anywhere; neither on the Chugach National Forest Website, nor any guidebook. A quick search on Google turns up a few paragraphs in a Kenai local paper. I assumed it must not be well maintained and was probably only used by hunters. I imagined endless bushwhacking and constant stressing over bears. I called the ranger station and they told me it was maintained but didn’t have much to say. I finally decided to try it and if it sucked, I would head out and go down the road to Devil’s Pass. Well, survey says: this is a great hike! I liked this trail much better than Devil’s Pass as it gives me more and quicker of what I want in an Alaska hike; endless tundra. While the beginning of the trail has sections with tall grass, there is no bushwhacking and the trail is obvious and easy to navigate. 

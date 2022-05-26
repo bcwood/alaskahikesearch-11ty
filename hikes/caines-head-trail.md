@@ -59,7 +59,7 @@ trailheads:
 - name: Caines Head Trailhead
   latitude: 60.0682518
   longitude: -149.4426372
-tags: hikes
+tags: ['hikes', 'caines-head-recreation-area']
 layout: layouts/hike.njk
 ---
 One of my favorite hikes in the Kenai Peninsula! Most of the hike is along a rock strewn beach that you can only hike during low tide. While not a truly an Alaska wilderness experience, the hike has so much variety, I highly recommend it.

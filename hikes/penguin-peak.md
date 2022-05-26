@@ -32,7 +32,7 @@ attachments:
 - slug: penguin-peak-7
   description: Summit register and cairn. Photo by Paul Koecher.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I followed the book *"50 Hikes in Alaska's Chugach State Park"*, hike #43, two summers ago with my friends Will and Julie, on a nice July day. Penguin gets a huge snow load and still had snow covering the actual peak. I stopped at the microwave relay station on the upper ridge. I have heard the [avalanche danger](http://alaskahikesearch.com/education/#avalanche) is huge in the winter, so I would not attempt until June. You park down Konikson road, in Bird, right after the old Bird Creek parking area. After briefly following the old jeep road for about a half mile you take a right (follow the book's instructions) and then start heading up, steeply, then very steeply. The trail is rough, and in a tunnel through thick brush for awhile. 

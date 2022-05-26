@@ -52,7 +52,7 @@ trailheads:
 - name: Mount Marathon
   latitude: 60.1040114
   longitude: -149.4510515
-tags: hikes
+tags: ['hikes', 'kenai-fjords-national-park']
 layout: layouts/hike.njk
 ---
 One of the guidebooks that described this trail made this a very confusing hike and I would have been better off looking more at the map than the trail description. Let me see if I can make this less confusing.

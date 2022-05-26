@@ -19,7 +19,7 @@ gpxFilename:
 bannerImage: horseshoe-lake-trail1
 attachments: []
 trailheads: []
-tags: hikes
+tags: ['hikes', 'denali-national-park']
 layout: layouts/hike.njk
 ---
 The best view of the "horseshoe" shape of the lake is seen from a lookout about a mile in. This was a pleasant & convenient hike, accessed from the visitors center. We saw people of all ages on the trail.

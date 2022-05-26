@@ -52,7 +52,7 @@ attachments:
 - slug: grewingk-valley-17
   description: Eagle at Humpy Creek
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kachemak-state-park']
 layout: layouts/hike.njk
 ---
 ***NOTE:** the first time I did this hike, in 1999, it was a disaster. Older and wiser, I redid this hike July 2004. Subsequently, this hike has been rewritten to reflect the new information.*

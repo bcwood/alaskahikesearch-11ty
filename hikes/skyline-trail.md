@@ -35,7 +35,7 @@ attachments:
 - slug: skyline-trail-4
   description: Valley. Photo by Ben Klein.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kenai-national-wildlife-refuge']
 layout: layouts/hike.njk
 ---
 This trail is located on the Sterling Highway near Cooper Landing. (I'm surprised this hike wasn't already listed, since it's fairly popular)

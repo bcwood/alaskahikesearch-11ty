@@ -36,7 +36,7 @@ trailheads:
 - name: Peter's Creek Trailhead
   latitude: 61.3973067
   longitude: -149.4125785
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 The trailhead to this route provides access to [Bear Mountain](./bear-mountain) and Mt. Eklutna. You can either climb up and over Bear Mountain and then continue to Mt. Eklutna, or head straight to Mt. Eklutna via the [Peter's Creek Trail](./peters-creek-trail). That trail leads along an old roadbed that can be steep and muddy in sections, then follow it up to the left until you reach the saddle. Mt. Eklutna is the mountain up to the right.

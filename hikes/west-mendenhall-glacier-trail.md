@@ -38,7 +38,7 @@ trailheads:
 - name: West Mendenhall Glacier Trailhead
   latitude: 58.4256107
   longitude: -134.5839964
-tags: hikes
+tags: ['hikes', 'tongass-national-forest']
 layout: layouts/hike.njk
 ---
 *Note from the webmaster: technically this is too far away from Anchorage (greater than a 4 hour car ride) to grant inclusion on this site but since many visitors to my site would be interested, it seemed appropriate to publish and have available.*

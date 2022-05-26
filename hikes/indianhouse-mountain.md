@@ -42,7 +42,7 @@ trailheads:
 - name: Indianhouse Mountain Trailhead
   latitude: 60.9836178
   longitude: -149.5422241
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This is a very steep climb, not for the faint of heart! But the payoff is some fabulous views of Turnagain Arm, and definitely well worth the effort! When I hiked it, it took me 3 hours to climb the 3 miles to the summit.

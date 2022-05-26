@@ -67,7 +67,7 @@ trailheads:
 - name: South Fork Trailhead
   latitude: 61.2327938
   longitude: -149.4561918
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I had known about this hike for about 3 years before I ventured over from my usual route to [Eagle and Symphony Lakes](http://alaskahikesearch.com/hikes/eagle-and-symphony-lakes/ "Eagle and Symphony Lakes"). The lakes are such a great destination and it seemed like a waste to sidetrack to what I thought was a basic, seen it before, glacial valley. But since I started this site, I decided to do it so I could add to the number of hikes already online.

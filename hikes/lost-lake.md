@@ -60,7 +60,7 @@ trailheads:
 - name: Lost Lake Trailhead (Bear Creek)
   latitude: 60.1724475
   longitude: -149.4111181
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 This gets a high rating for the destination and not necessarily the actual hike. **But Boy! What a Destination!** An incredibly shaped lake surrounded by chasms and small tarns; two glaciers to the east and one to the west and part of the creek rushing along a deep stone chasm. This has to be one of the best places to camp in Alaska. This place rates high on my list for this simple reason.

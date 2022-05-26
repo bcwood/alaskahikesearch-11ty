@@ -40,7 +40,7 @@ trailheads:
 - name: Bird to Gird Trailhead
   latitude: 60.9452122
   longitude: -149.1771283
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Driving down the Seward Highway around Turnagain Arm is one of most scenic drives in the world. But better than driving is biking it. At this time, about a 1/3 of the ride is actual bike trail and about 2/3 is the fairly wide shoulder of the highway. The section into Girdwood is the old part of the highway up on the mountain ridge and is closed to motor vehicles. The first time I biked this, it was one of the most awe inspiring things in my life. If you have the time, I totally recommend this as an activity. 

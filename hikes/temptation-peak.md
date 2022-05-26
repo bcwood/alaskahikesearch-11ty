@@ -51,7 +51,7 @@ trailheads:
 - name: Snow Hawk Trailhead
   latitude: 61.2253661
   longitude: -149.6512922
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Once you get on this small trail, stay to the right initially (there's yet another fork right after you get on the trail...go right). From this point on, follow the *extremely small* yellow "Trail" signs that have been placed on trees as well as the little ribbons.

@@ -29,7 +29,7 @@ attachments:
 - slug: hidden-creek-trail-6
   description: View from Skilak Lake Loop
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kenai-national-wildlife-refuge']
 layout: layouts/hike.njk
 ---
 And yet another incident where I only did a hike because of this website and I found a real gem that I would have missed. I figured since this trail was only 1 1/2 miles in a very used recreation area, I thought it would be boring and ugly. The 1st part certainly was pretty regular and somewhat unattractive due to a controlled burn back in the 90’s where blackened narrow tree trunks spread out in front of you.

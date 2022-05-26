@@ -40,7 +40,7 @@ trailheads:
 - name: Bird Ridge Trailhead
   latitude: 60.978935
   longitude: -149.4799335
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This is a really great hike! It was so cool to get aerial views of places that I've hiked at ground level: Turnagain Arm, Indian Valley, Ship Lake Valley, and Bird Creek. The scenery is incredible and stunning, but boy, you are really going to have to work to get at them. The first 3 miles are very tough. Up and up and up. You see a ridge and think you're almost there. Then you get to that ridge and there's another.

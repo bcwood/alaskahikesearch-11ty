@@ -47,7 +47,7 @@ trailheads:
 - name: Mile Hi Trailhead
   latitude: 61.3135182
   longitude: -149.4651135
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 When they named this mountain, I don't think they were referring to the mountain itself, rather than the view. It's amazing and 360°. It gives you a real sense of the Eagle River area of the Chugach State Park, including the [Baldy](http://alaskahikesearch.com/hikes/mt-baldy/ "Mt. Baldy")-[Blacktail](http://alaskahikesearch.com/hikes/black-tail-rocks/ "Black Tail Rocks")-Vista range, the [North Fork of Eagle River](http://alaskahikesearch.com/hikes/eagle-river/ "Eagle River") (and it's glacier source at the end), the entrance to the South Fork, and the [Gordon Lyons](http://alaskahikesearch.com/hikes/mt-gordon-lyons/ "Mt. Gordon Lyons")-[Rendezvous](http://alaskahikesearch.com/hikes/rendezvous-peak/) range. In addition, you can get a great view of the town of Eagle River, Knik Arm, and I suspect on a clear day, Denali and the Alaska Range.

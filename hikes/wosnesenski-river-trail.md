@@ -39,7 +39,7 @@ attachments:
 - slug: wosnesenski-river-trail-10
   description: Poot Peak. Photo by Dorothy Melambianakis.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kachemak-state-park']
 layout: layouts/hike.njk
 ---
 *I'm about to trash this trail and I do it with a heavy heart. I feel bad because I know that the Park is doing the best they can with limited resources. All trail work is being done with volunteers and it is a major uphill battle with all the dead spruce due to the the spruce bark beetle infestation. I need to be honest for visitors, but for residents, let this be a call to us to make our state government give more to our parks. With oil at $60+ a barrel, now is the time to upgrade!*

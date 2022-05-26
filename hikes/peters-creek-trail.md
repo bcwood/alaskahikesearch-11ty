@@ -28,7 +28,7 @@ trailheads:
 - name: Peter's Creek Trailhead
   latitude: 61.3973067
   longitude: -149.4125785
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 The Peter's Creek Trailhead is the starting point for both [Bear Mountain](./bear-mountain) and [Mt. Eklutna](./mt-eklutna), but you can also stay low and follow the trail along the creek. The first few miles of the trail follows along an old roadbed that can be steep and muddy in sections. After that, the trail meanders for many miles up the valley, but mostly peters out after about 6 miles.

@@ -34,7 +34,7 @@ trailheads:
 - name: Mt. Baldy Trailhead
   latitude: 61.3380357
   longitude: -149.5116133
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Baldy is a popular day hike overlooking Eagle River. Baldy is appropriately named; the top is a round, bare mountaintop. The trail starts from a parking lot at the base. A radio antenna is located just a few hundred feet or so from the start of the trail. From there it winds through trees and scrub until it eventually reaches the real base of the mountain. Once above the plant growth, it starts to climb moderately through somewhat rocky terrain. From the top, one can see a good view of Eagle River Valley and the surrounding mountains.

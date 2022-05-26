@@ -35,7 +35,7 @@ trailheads:
 - name: Alyeska Trailhead
   latitude: 60.9697352
   longitude: -149.0952829
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 Strikes against it-- It's basically level, so no challenge. The forest is thick, so unless you really love that kind scenery it gets old. At the resort end it's all disgustingly "Disney-fied" for the tourists.

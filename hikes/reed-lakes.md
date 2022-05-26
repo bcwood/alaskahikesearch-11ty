@@ -81,7 +81,7 @@ trailheads:
 - name: Reed Lakes Trailhead
   latitude: 61.8041865
   longitude: -149.2027134
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 The first part of the hike is very easy (flat, wide trail), then after a couple of miles or so it goes up pretty steeply (there are switchbacks). Next you have "the boulder scramble". It is a filled with [healthy sized boulders that you have to navigate](http://alaskahikesearch.com/education/#scree). Not too hard, but not recommended for dogs or kids. Then, after a brief period of flatness, it climbs once more and you see Lower Reed Lake for the first time. There are more campsites here than Upper Reed Lake, but if you're feeling motivated, it's worth the climb.

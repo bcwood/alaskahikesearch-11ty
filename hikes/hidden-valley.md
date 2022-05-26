@@ -53,7 +53,7 @@ trailheads:
 - name: Glen Alps Trailhead
   latitude: 61.1030702
   longitude: -149.6831682
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This is an easy place to get to with lots of places to explore and wander about. Hidden Valley is a gently sloping glacial valley with really cool rock formations. A creek with lush greenery runs through the middle. 

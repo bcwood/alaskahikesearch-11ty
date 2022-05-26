@@ -29,7 +29,7 @@ trailheads:
 - name: Arctic Valley Trailhead
   latitude: 61.2467223
   longitude: -149.53491
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This is a great hike for after work, especially for someone living on the east side, or for someone who just got in to town and wants a quick overview. Most people hiking in the Arctic Valley head to Rendezvous Peak so you'll also get a little more solitude heading left instead of right when you get to the saddle.

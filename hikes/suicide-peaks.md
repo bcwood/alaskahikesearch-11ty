@@ -44,7 +44,7 @@ trailheads:
 - name: Falls Creek Trailhead
   latitude: 60.9840998
   longitude: -149.5762637
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 The hike to the Suicide Peaks can be done by either taking the Rabbit Creek trail or McHugh trail.

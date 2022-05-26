@@ -29,7 +29,7 @@ trailheads:
 - name: Arctic Valley Trailhead
   latitude: 61.2467223
   longitude: -149.53491
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 The trail is very muddy and boggy in summer so you can only use this trail in winter. However, it's one of the best winter trails near the city and one of the easiest ways to get into some unspoiled backcountry. The trail is not groomed so either cross country skis or snowshoes are recommended. 

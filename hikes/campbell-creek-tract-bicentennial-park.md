@@ -61,7 +61,7 @@ trailheads:
 - name: Abbott Community Park Trailhead
   latitude: 61.1478876
   longitude: -149.8021602
-tags: hikes
+tags: ['hikes', 'municipality-of-anchorage']
 layout: layouts/hike.njk
 ---
 Unless you're visiting from out of town in the winter and you want to cross country ski or you're just looking to walk around, there's no real reason to check out this BLM tract of land. 

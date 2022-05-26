@@ -38,7 +38,7 @@ trailheads:
 - name: Lower Eagle River Trailhead
   latitude: 61.2969205
   longitude: -149.5339347
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Just as the city of Anchorage has it's system of [greenbelt trails](http://alaskahikesearch.com/hikes/anchorage-greenbelt-trails/ "Anchorage Greenbelt Trails"), so does Eagle River, a small town just up the road on the Glenn Highway. For the first couple of miles, the trail stays near the river then follows along the lower ridge lines of the mountain. Most of the trail is among spruce and aspen with intermittent views of the mountains and the river. 

@@ -46,7 +46,7 @@ trailheads:
 - name: Gull Rock Trail
   latitude: 60.9257762
   longitude: -149.6645777
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 The thing I like most about this hike is the destination - a tall cliff with beautiful views of Cook Inlet and Turnagain Arm. The trail is mainly underneath canopy of spruce and aspen with intermittent views of the Arm.

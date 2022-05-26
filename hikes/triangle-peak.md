@@ -39,7 +39,7 @@ trailheads:
 - name: South Fork Trailhead
   latitude: 61.2327938
   longitude: -149.4561918
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Triangle peak is located at the head of the Symphony Lake valley, and to access the route described in "50 Hikes" you will need to use the [Eagle / Symphony Lake Trail](http://alaskahikesearch.com/hikes/eagle-and-symphony-lakes/ "Eagle and Symphony Lakes"), which is 6 miles already. We did this as a backpacking trip up to Symphony Lake and we trucked along the trail to the lake from the trailhead making it in just under 3 hours. We set up camp, took in the scenery, and looked at what we were up against.

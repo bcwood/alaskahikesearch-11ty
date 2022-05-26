@@ -27,7 +27,7 @@ attachments:
 - slug: craigie-creek-trail-5
   description: Photo by Molly Bee.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 The Craigie Creek Road which leads to this trail is not that great but an easy hike to the trail beginning. This road would be good for mountain biking but you may have to leave the bike once you get near the Pass. Along the way you will see and old cabin/mine site, a waterfall, and along the trail another very old cabin, lots of beaver damns, and many blueberries in season. The actual trail to Dog Sled Pass is maybe a quarter of a mile but you will have to walk the old road depending on how far you feel your vehicle can get you. At the top of the pass there is Schrock Lake and a really nice views ahead and back down the valley. There is lots of room for exploring once up by the lake.

@@ -42,7 +42,7 @@ trailheads:
 - name: Ptarmigan Valley Trailhead
   latitude: 61.3902249
   longitude: -149.470132
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 A wide double track trail until tree line used for all multi-use minus ATV and bike. At tree line, the trail converts to single track with very tall stands of grasses, fireweed and cow parsnip. The trail follows Parks Creek and tops out near the hill marked 1775' on the map, then descends back down into the Little Peter's Creek drainage before ascending some more along the creek.

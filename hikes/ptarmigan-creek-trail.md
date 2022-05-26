@@ -34,7 +34,7 @@ attachments:
 - slug: ptarmigan-creek-trail-8
   description: Camp on cliff.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 A nice "no hassle" hike along a beautiful aquamarine lake. I like to do this trail early in the season when I'm dealing with some stress and I just want to get "out there". Views include two small glaciers on the mountain on the north side of the lake. The trail starts at the Ptarmigan Creek Campground and can be traveled as a day hike if so inclined. This is a perfect trip for beginning backpackers or people with children. It also makes a nice preseason hike. 

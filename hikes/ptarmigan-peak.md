@@ -39,7 +39,7 @@ trailheads:
 - name: Prospect Heights Trailhead
   latitude: 61.1389031
   longitude: -149.7108881
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This is a great hard day hike for somebody in moderate shape who is not afraid of [loose rock and scrambling](http://alaskahikesearch.com/education/#scree). The book, *50 Hikes in Chugach State Park*, gives good directions, but I will add some info:

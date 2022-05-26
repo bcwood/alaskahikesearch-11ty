@@ -31,7 +31,7 @@ trailheads:
 - name: Lazy Mountain Trailhead
   latitude: 61.611346
   longitude: -149.0160302
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 Began this hike at the McRoberts Creek Trailhead, then take the left fork and follow the trail up to Lazy Mountain. From Lazy Mtn, I traversed the ridgeline to Matanuska Peak. The trail becomes faint as the approach up Mat Peak begins but the route is straight forward. I came out on the McRoberts trail, which follows the valley floor.

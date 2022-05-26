@@ -47,7 +47,7 @@ trailheads:
 - name: Caines Head Trailhead
   latitude: 60.0682518
   longitude: -149.4426372
-tags: hikes
+tags: ['hikes', 'caines-head-recreation-area']
 layout: layouts/hike.njk
 ---
 Let me first say that in my opinion the Alpine Trail is the most under-rated and under-used hike in the peninsula. I spent the entire summer volunteering as trail crew out at Caines Head and this was by far the best kept secret. I also had the opportunity to backpack throughout the peninsula on my time off and would best compare this hike to Lost Lake.

@@ -48,7 +48,7 @@ trailheads:
 - name: Eklutna Lake Trailhead
   latitude: 61.4093816
   longitude: -149.1355825
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This wasn't high on my list but I had a Sunday free and wanted to get it on the site. I always thought it was the poor man's Twin Peaks and that there wasn't much to it.

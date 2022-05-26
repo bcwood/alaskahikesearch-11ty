@@ -48,7 +48,7 @@ trailheads:
 - name: Glen Alps Trailhead
   latitude: 61.1030702
   longitude: -149.6831682
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 One of my all time favorite places to backpack!, a perfect example of a glacial valley. It looks like a giant dipped its finger down the valley as if it were licking the frosting off a birthday cake. I'm so into this place! Space does not allow me to praise all the great things I love about this place.

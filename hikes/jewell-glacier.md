@@ -35,7 +35,7 @@ trailheads:
 - name: Crow Pass Trailhead
   latitude: 61.0281201
   longitude: -149.1161674
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 I've been to Crow Pass about 5 times and it is indeed a great hike but on my way to Raven Glacier for a day hike, I was curious about Jewell Glacier and wanted to take a look. For those who know Crow Pass, it's the glacier on the right before you come to Crystal Lake.

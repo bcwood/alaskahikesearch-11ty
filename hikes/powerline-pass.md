@@ -50,7 +50,7 @@ trailheads:
 - name: Prospect Heights Trailhead
   latitude: 61.1389031
   longitude: -149.7108881
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Powerline Pass is basically a beat up dirt service road where the power line crosses over the Chugach Mountains. The main section goes through the Glen Alps where many wonderful hikes can be found (see below). While the scenery along this road is very beautiful, the dirt road and power line can really detract from it. However, it's a great mountain bike trail, and in the winter, a great cross country skiing trail. Going over the actual Pass is quite exhilarating as the trail narrows up a steep ridge.

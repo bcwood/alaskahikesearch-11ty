@@ -45,7 +45,7 @@ trailheads:
 - name: Potter Trailhead
   latitude: 61.0480013
   longitude: -149.7922744
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I wouldn't recommend this trail for the visitor. You're too close to the highway and it doesn't feel like a true "Alaska Wilderness" hike. 

@@ -34,7 +34,7 @@ trailheads:
 - name: Eagle River Nature Center
   latitude: 61.2342489
   longitude: -149.2711197
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I've been hiking the Eagle River Trail since I first moved here in 2000 and I've seen the trail signs for this route just as long but never bothered to do this trail. I was hiking the Eagle River Trail on Thanksgiving (2007) and there was a group of noisy people that I wanted to get away from and veered off to finally do the Dew Mound Trail.

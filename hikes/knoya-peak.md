@@ -52,7 +52,7 @@ trailheads:
 - name: Klutina Trailhead
   latitude: 61.1809226
   longitude: -149.7212225
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I've been wanting to explore this area all summer of 2006 but the Chugach Gods were against me. Memorial Day weekend, I backpacked to Long Lake with the intention of base camping and doing all 4 peaks. Unfortunately, the wind was fierce and it just wasn't safe to be up there. I tried to do a long day hike in August, but was rewarded with fog as thick as pea soup. Visibility was so bad, I actually became disoriented as to where my actual location was.

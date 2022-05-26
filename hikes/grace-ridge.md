@@ -37,7 +37,7 @@ attachments:
 - slug: grace-ridge-10
   description: Bay View. Photo by Bill Walker.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kachemak-state-park']
 layout: layouts/hike.njk
 ---
 On a sunny or high-overcast day, this hike provides wonderful views of the mountains, glaciers, bays, fjords and islands in this area of Kachemak Bay State Park.

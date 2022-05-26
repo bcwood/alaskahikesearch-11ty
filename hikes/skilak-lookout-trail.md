@@ -35,7 +35,7 @@ attachments:
 - slug: skilak-lookout-trail-9
   description: Lake and Kenai River
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kenai-national-wildlife-refuge']
 layout: layouts/hike.njk
 ---
 It seems a general rule of thumb that the best views hiking are on the trails that take the most work. This is one trail that breaks the rules. While the elevation does increase, it's very gradual and there are only a few short steep sections. Anybody in reasonable shape can handle it, so there's no excuse. You can get this view from an overlook off the road, but it's so much better from the lookout.

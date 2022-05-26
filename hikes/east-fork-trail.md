@@ -39,7 +39,7 @@ trailheads:
 - name: Eklutna Lake Trailhead
   latitude: 61.4093816
   longitude: -149.1355825
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I've always wanted to do this trail but I never wanted to deal with the 10.5 miles on the Lakeside Trail to get there. Last week (July, 2008) I was finally motivated. I left right after work and camped out on the riverbed just before the bridge where the trailhead is.

@@ -51,7 +51,7 @@ attachments:
 - slug: reflections-lake17
   description: Photo by Christina Rick
 trailheads: []
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 On the trail, don't pass up Lake Overlook, it provides an awesome view of the lake, benches are there, to relax, and there are some great photo ops.

@@ -29,7 +29,7 @@ trailheads:
 - name: Reed Lakes Trailhead
   latitude: 61.8041865
   longitude: -149.2027134
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 With decent weather, this has all the trappings of one of those singularly memorable experiences one can have. Traversing glaciers in an Alpine wonderland with spectacular views the whole way is a wonderful way to spend 3 (or more) days.

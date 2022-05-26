@@ -35,7 +35,7 @@ trailheads:
 - name: Upper Troublesome Creek Trailhead
   latitude: 62.630615
   longitude: -150.2281732
-tags: hikes
+tags: ['hikes', 'denali-state-park']
 layout: layouts/hike.njk
 ---
 *Note from July 15, 2005: I've been calling the Troublesome Creek Trail the Curry Ridge Trail since I first published Kesugi Ridge. I was mistaken. Even though this trail runs near it, it is not. Someday there will be a spur trail to the ridge but it would be bushwhacking at this stage.*

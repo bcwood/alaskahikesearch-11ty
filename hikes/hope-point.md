@@ -46,7 +46,7 @@ trailheads:
 - name: Gull Rock Trail
   latitude: 60.9257762
   longitude: -149.6645777
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 This is one tough hike. If it were any more steep, you'd be Batman and Robin climbing up a building. They didn't even have the courtesy to put in switchbacks. But if you're in shape and up for the challenge, I highly recommend this hike for its excellent views of Turnagain Arm, the city of Hope and Resurrection Valley, and as you get to the top, the Kenai and Chugach Mountains. You'll also get a faint view of Anchorage across the Arm. 

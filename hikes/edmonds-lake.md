@@ -19,7 +19,7 @@ gpxFilename:
 bannerImage: edmonds-lake
 attachments: []
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I believe this series of trails is meant more for cross country skiing as one trail suggestion actually routes over Edmonds Lake (that, and the trail is a bit muddy still even in mid May 2015 when we did this hike. I'm guessing there is always some mud)

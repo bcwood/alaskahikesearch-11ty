@@ -87,7 +87,7 @@ trailheads:
 - name: Upper Troublesome Creek Trailhead
   latitude: 62.630615
   longitude: -150.2281732
-tags: hikes
+tags: ['hikes', 'denali-state-park']
 layout: layouts/hike.njk
 ---
 **THIS HIKE IS INCREDIBLE!!!**

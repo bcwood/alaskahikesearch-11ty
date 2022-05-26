@@ -46,7 +46,7 @@ trailheads:
 - name: Exit Glacier Trailhead
   latitude: 60.1844102
   longitude: -149.65303
-tags: hikes
+tags: ['hikes', 'kenai-fjords-national-park']
 layout: layouts/hike.njk
 ---
 ***One of the best day hikes in Alaska!***

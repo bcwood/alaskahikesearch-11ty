@@ -28,7 +28,7 @@ trailheads:
 - name: Alyeska Trailhead
   latitude: 60.9697352
   longitude: -149.0952829
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 This trail starts at the base of the tram at Mt Alyeska ski resort in Girdwood. The beginning of the trail is well marked and wide and is actually a service road. The trail starts up a slope skiers know as the Autobahn. The first 3/4 mile is a gentle uphill of the service road. The trail then begins to climb through several boggy areas. When I hiked it the ground was frozen. I imagine it can be a bit muddy when thawed. About the middle 3/4 mile if the trail is where most of the elevation gain occurs. This section is through alders and was well cleared with good footing. Above the alders the trail switchbacks very nicely with grand views of Girdwood valley the entire time. When the trail nears the summit, it mysteriously begins to switchback somewhat downhill, a couple times. This causes some frustration and, unfortunately, some hikers will be tempted to leave the trail and hike the alpine to the summit. The switchbacks eventually lead comfortably to the summit.

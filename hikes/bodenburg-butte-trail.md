@@ -40,7 +40,7 @@ trailheads:
 - name: Butte Trailhead
   latitude: 61.5416977
   longitude: -149.0540993
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 The trail is in the Butte (we went up the Sanvik Family Trail) just around the corner from Palmer so it is not remote. We met 2 other hikers on the trail, but it was November and cold out. At the top of the Butte I measured the temp at 37 degrees and Palmer was at about 10 degrees when we left for the trail. Only about 4 inches of snow on November 5, 2006. See page 129 of the *55 Ways to the Wildness in Southcentral Alaska* book for directions for Sanvik's Trailhead near the Reindeer Farm ($3 for parking) and another newer trailhead on Mothershead Road (parking is a short walk to the trailhead). Both trailheads are off Bodenburg Loop Road.

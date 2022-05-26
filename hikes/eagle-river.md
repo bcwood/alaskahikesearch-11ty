@@ -48,7 +48,7 @@ trailheads:
 - name: Eagle River Nature Center
   latitude: 61.2342489
   longitude: -149.2711197
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 During the off season, I really like this place because you can walk along the braided riverbed and camp out on it. When there’s been a lot of snow, it is a very accessible way to the backcountry. It’s also a great fall backpacking trip for the golden leafed aspen in the area.

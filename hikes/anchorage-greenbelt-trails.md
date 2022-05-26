@@ -40,7 +40,7 @@ trailheads:
 - name: Westchester Lagoon Trailhead
   latitude: 61.2086613
   longitude: -149.9228354
-tags: hikes
+tags: ['hikes', 'municipality-of-anchorage']
 layout: layouts/hike.njk
 ---
 One of best things about living in Anchorage is its multiple stretches of undeveloped areas with paved and unpaved trails running through them. Many of the trails go through tunnels underneath roads, so for long periods of time there are no worries of motorized traffic. The chance for seeing moose is very high and scenery goes from small ponds, creeks, and spruce forests to open fields, parks, and neighborhoods. In the winter, people use these trails for cross country skiing. 11 miles of trail are lit up for winter use (and with only 5 hours of sunlight in the middle of winter, it's surely welcome).

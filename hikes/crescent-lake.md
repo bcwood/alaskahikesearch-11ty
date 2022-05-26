@@ -49,7 +49,7 @@ trailheads:
 - name: Carter Lake Trailhead
   latitude: 60.5075241
   longitude: -149.4448204
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 In 2000, the first time I did this trail, I did it too soon in the season. It took me 2 hours to go 2 miles as I kept sinking thigh deep into the snow. I was able to find one bare patch of ground near the lake to set up my tent. The lake (this is early June we're talking about) was frozen solid. Four years later, with no snow on top, I redid this hike and it was definitely worth the second chance. 

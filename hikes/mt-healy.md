@@ -19,7 +19,7 @@ gpxFilename:
 bannerImage: mt-healy
 attachments: []
 trailheads: []
-tags: hikes
+tags: ['hikes', 'denali-national-park']
 layout: layouts/hike.njk
 ---
 One of the few actual trails in the park. If you're not going to actually backpack, it's worth the day hike for great views of the park and the main valley. The top has some interesting landscape features to it.

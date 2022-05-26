@@ -30,7 +30,7 @@ trailheads:
 - name: Matanuska Glacier Trailhead
   latitude: 61.7779049
   longitude: -147.7658421
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 This isn't a true hike per se, but if you want to explore a glacier without having to rent a guide and be attached to someone with a rope, this is the place.

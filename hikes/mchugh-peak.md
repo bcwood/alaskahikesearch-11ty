@@ -42,7 +42,7 @@ trailheads:
 - name: McHugh Creek Trailhead
   latitude: 61.0179272
   longitude: -149.7315773
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I hiked McHugh Peak, for the second time in four years, on an evening in early August 2004. Nice weather. No wind except at the very top. However, the weather is unpredictable here. Technically this is a side trip from the already submitted Rabbit Lake Trail from McHugh Park along Turnagain Arm, a few minutes from the Anchorage suburbs. As that trip describes, the first few turns are confusing, and making matters worst, there are vandalized signs as well. Read that trail description for more info.

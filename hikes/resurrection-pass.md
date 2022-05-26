@@ -73,7 +73,7 @@ trailheads:
 - name: Resurrection Pass Trailhead (North)
   latitude: 60.8698073
   longitude: -149.6300699
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 First off, I haven't done the whole trail. I have gone in about 7 miles for a winter hike to Caribou Cabin, but the little I've seen makes me want to do the whole thing.

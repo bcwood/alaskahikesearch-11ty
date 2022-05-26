@@ -34,7 +34,7 @@ attachments:
 - slug: nancy-lake-7
   description: Sunset
 trailheads: []
-tags: hikes
+tags: ['hikes', 'nancy-lake-state-recreation-area']
 layout: layouts/hike.njk
 ---
 For the long and dark winter up here, Nancy Lake is a godsend. The park consists of numerous lakes close to one another that can be hiked over when frozen. There are small trails that are blazed in between for easy navigating. In the summer, you can canoe/kayak and portage between the lakes (which is beyond the scope of this website).

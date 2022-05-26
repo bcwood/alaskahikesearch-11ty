@@ -41,7 +41,7 @@ trailheads:
 - name: Ermine Hill Trailhead
   latitude: 62.8274689
   longitude: -149.9035288
-tags: hikes
+tags: ['hikes', 'denali-state-park']
 layout: layouts/hike.njk
 ---
 My original plan was to do Kesugi Ridge and add Upper Troublesome Creek for a 4 night/5 day trek. For the website, I was going to camp near the intersection of Kesugi Ridge and Ermine Hill and quickly head down to the highway and back up so I could give definitive information on the trail. However, the weather was horrible and instead I just did this as a day hike. Unfortunately, since it was a crappy day, I didn't get to see Denali (your chances are 30% on any give day - don't say I didn't warn you) but it was a nice pleasant hike nonetheless.

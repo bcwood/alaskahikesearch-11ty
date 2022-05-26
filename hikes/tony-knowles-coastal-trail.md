@@ -43,7 +43,7 @@ trailheads:
 - name: Kincaid Trailhead
   latitude: 61.1534379
   longitude: -150.0556243
-tags: hikes
+tags: ['hikes', 'municipality-of-anchorage']
 layout: layouts/hike.njk
 ---
 Anchorage has some of the nicest city trails in the world and the Tony Knowles Coastal Trail is its crown jewel. While I'm counting this as a hike, I recommend renting a bike for this. 

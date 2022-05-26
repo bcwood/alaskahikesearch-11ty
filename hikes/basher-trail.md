@@ -32,7 +32,7 @@ trailheads:
 - name: Basher Trailhead
   latitude: 61.1515809
   longitude: -149.7143492
-tags: hikes
+tags: ['hikes', 'municipality-of-anchorage']
 layout: layouts/hike.njk
 ---
 One of my biggest complaints about living on the east side of Anchorage is the irony that we live so close to many of the best hikes in Chugach State Park yet have the hardest time getting to them. Getting to the trailheads of Wolverine, Near Point, and Williwaw entails either bushwhacking and taking obscure paths to the Prospect Heights Trail or driving all the way to South Anchorage to get to its trailhead, a not very welcoming prospect during rush hour.

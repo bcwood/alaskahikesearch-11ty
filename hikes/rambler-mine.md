@@ -38,7 +38,7 @@ trailheads:
 - name: Rambler Mine Trailhead
   latitude: 62.3871207
   longitude: -143.0065322
-tags: hikes
+tags: ['hikes', 'wrangell-st-elias-national-park']
 layout: layouts/hike.njk
 ---
 The Wrangell-St. Elias National Park is one of the most primitive parks in the world with some stunning scenery that can only be reached by bush planes. Its' chief attraction is also its' detriment to many people who can't afford the cost of flying to many of these destinations. 

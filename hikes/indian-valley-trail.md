@@ -43,7 +43,7 @@ attachments:
 - slug: indian-valley-trail-10
   description: Looking up at the mountains towering above
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 I hate this trail! I'm sure there are people who will disagree with me but I don't care. The three times I've done it have been absolutely miserable. I won't even use it to get to Ship Lake Valley which is one of my all time favorite places to be in the Chugach.

@@ -32,7 +32,7 @@ trailheads:
 - name: Peter's Creek Trailhead
   latitude: 61.3973067
   longitude: -149.4125785
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Bear Mountain towers over Mirror Lake in the Peter's Creek area. It is a relatively short but steep hike. The trail sees a steady stream of locals eager to visit the peak towering so dramatically above their community. The peak affords some fantastic views of the surrounding area.

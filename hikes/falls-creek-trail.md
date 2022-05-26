@@ -40,7 +40,7 @@ trailheads:
 - name: Falls Creek Trailhead
   latitude: 60.9840998
   longitude: -149.5762637
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This is a good early season hike and a great workout. The bottom of the trail is very narrow and wooded with views of the raging Falls Creek as you head up. Toward the top, above tree line, you'll get great views of Turnagain Arm. The trail ends with an alpine lake in a nice glacier carved bowl. It's pretty cool to go from canopied woods into rocky tundra.

@@ -56,7 +56,7 @@ trailheads:
 - name: Lost Lake Trailhead (Bear Creek)
   latitude: 60.1724475
   longitude: -149.4111181
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 I’ve been trying for the last few years to check out the area west of the lake. The guidebooks mention that it is actually possible to hike to Coopers Landing from here but I was more interested in checking out the glacier visible from Lost Lake since it seemed so easy to get to. Well! I finally had a full day to go exploring and this is a magical place. 

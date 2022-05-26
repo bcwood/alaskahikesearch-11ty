@@ -23,7 +23,7 @@ attachments:
 - slug: vagt-lake-4
   description: Trail Lake
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 I've seen this trail on my *National Geographic Map of Chugach National Forest* but I've never seen it mentioned in any guidebook. In the interest of this website, one Sunday morning after visiting Lost Lake, I decided to check it out.

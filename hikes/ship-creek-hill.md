@@ -20,7 +20,7 @@ gpxFilename:
 bannerImage: ship-creek-hill-1
 attachments: []
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 To get here you must hike part of Snowhawk Creek Trail starting on Ft Richardson. From there follow the trail past the first cabin. The hill is aprox. 1 1/2 miles past where you can observe 2 hills to the left. From there it's off trail. You will need to descend to the creek and into the saddle between the two hills. This is a fairly easy hike up the saddle and along the south eastern side. If you wish to prolong the hike like I did you can also hike to the other peak about 1 mile south across the saddle. Being off the main trail and on Ft Richardson means very few people in the area and none were observed anywhere around the hill.

@@ -21,7 +21,7 @@ attachments:
 - slug: captain-cook-beach-trail-1
   description: Beach
 trailheads: []
-tags: hikes
+tags: ['hikes', 'captain-cook-recreation-area']
 layout: layouts/hike.njk
 ---
 I wouldn't make a special trip to get here but if you're in the area, it's definitely worth a look-see. Take a short hike along the beach with an unobstructed view of the Cook Inlet. At low tide, the feeling is almost eerie and desolate. There are great views of the Alaska Range.

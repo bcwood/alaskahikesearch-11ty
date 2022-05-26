@@ -48,7 +48,7 @@ trailheads:
 - name: Glen Alps Trailhead
   latitude: 61.1030702
   longitude: -149.6831682
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Most people use this as a thru hike to get to Williwaw Lakes but it makes a fine day hike and overnighter in its own right. The climb up to the saddle of O'Malley is a bit tough, but once you get up there, the terrain and landscape features are very unique and spectacular, and worth the effort. First on the menu is a glacial valley that literally is almost as flat and wide as a football field. In the fall, it is a colorful mosaic of rock and scrub. *Note: Some people call this area the Ballpark.*

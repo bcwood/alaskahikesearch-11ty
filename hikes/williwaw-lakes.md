@@ -43,7 +43,7 @@ trailheads:
 - name: Prospect Heights Trailhead
   latitude: 61.1389031
   longitude: -149.7108881
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 While it is one of the more popular backpack trips for Anchorage residents, don't let the fear of no solitude sway you. With over nine lakes, including 1 in its own cul-de-sac and 2 inside a mountain pass, there are plenty of spots to call your own. The scenery is incredible with abundant waterfalls, mountain peaks, and lakes everywhere, all connected by a cascading creek. Good chance of viewing dall sheep, coyotes, fox, and various waterfowl.

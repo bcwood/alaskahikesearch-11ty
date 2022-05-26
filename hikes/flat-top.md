@@ -32,7 +32,7 @@ trailheads:
 - name: Glen Alps Trailhead
   latitude: 61.1030702
   longitude: -149.6831682
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 One of the most popular day hikes for residents of Anchorage. During the summer, many of us climb it as a cardio workout. 

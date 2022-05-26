@@ -35,7 +35,7 @@ attachments:
 - slug: north-fork9
   description: Photo by Tina Rick.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 At the river, the views and photo ops are awesome!

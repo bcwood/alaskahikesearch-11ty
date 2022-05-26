@@ -27,7 +27,7 @@ trailheads:
 - name: Bird Ridge Trailhead
   latitude: 60.978935
   longitude: -149.4799335
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This could be a pretty good hike once you get away from the roads and onto the trail. The problem is finding it! What was once a mining area, the first part of the valley is literally criss-crossed with dirt roads. These roads have no markers or trail directions, and many dead end into the river. While a great adventure of fun for mountain bikers, it's an extremely frustrating experience for backpackers.

@@ -70,7 +70,7 @@ trailheads:
 - name: Crow Pass Trailhead
   latitude: 61.0281201
   longitude: -149.1161674
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 What was once part of the historic Iditarod Trail, this ranks as some of the best scenery in the area. Some of the incredible and varied sights that await you on this hike include mine ruins from long ago, a rock chasm waterfall, Crystal Lake, Raven Gorge, and awesome Raven Glacier and its massive cascades. This is truly an Alaskan hike and if your main objective coming up here is the hiking, definitely put this on your list! 

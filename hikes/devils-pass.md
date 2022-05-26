@@ -60,7 +60,7 @@ trailheads:
 - name: Devils Pass Trailhead
   latitude: 60.5600339
   longitude: -149.581797
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 The weekend when I did this hike, it was one of those Alaskan, weird weather days. It would go from drizzly and cold to warm and dry within minutes and kept changing back and forth all day. Sometimes I was out sitting on the tundra; five minutes later I was in my tent under the sleeping bag. Still, it was a really great hike and it was one of the most scenic and enjoyable new trails that I've done in awhile.

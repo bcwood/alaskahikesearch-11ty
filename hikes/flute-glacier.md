@@ -47,7 +47,7 @@ trailheads:
 - name: South Fork Trailhead
   latitude: 61.2327938
   longitude: -149.4561918
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Easy walk to Eagle Lake, then skirt left-hand side of lake for about two miles - there is a small trail. You'll criss-cross the stream for the easiest walking. Proceed up steep scree slope, connect with trail that takes you into the canyon. Proceed up canyon about two miles until you reach toe of Flute Glacier. This glacier is crevassed and only part of it is safe to travel on without glacier training and equipment. A route up Eagle Peak is available from this location at toe of glacier.

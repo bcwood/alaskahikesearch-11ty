@@ -23,7 +23,7 @@ attachments:
 - slug: nelchina-valley-2
   description: View from Muskeg
 trailheads: []
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 You won't find this in any guidebook as this whole section is mainly ATV/Snowmobile trails but there is no reason why they should get exclusive right to all this great scenery.

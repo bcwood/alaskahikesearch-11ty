@@ -49,7 +49,7 @@ trailheads:
 - name: Basher Trailhead
   latitude: 61.1515809
   longitude: -149.7143492
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 f you don't have enough time and/or energy to do Wolverine, Near Point is a fine hike to get some good views of the area including Anchorage, the Alaska Range, Denali, Mt. Susitna (Sleeping Lady), Wolverine Peak and Canyon Creek. It makes a great hike right after work if you live in Anchorage. If you're visiting, make the extra effort and hike Wolverine. 

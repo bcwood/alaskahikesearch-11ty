@@ -40,7 +40,7 @@ trailheads:
 - name: Portage Pass Trailhead
   latitude: 60.7746023
   longitude: -148.7342028
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 The first mile or so of the trail is mostly nondescript and steep. The trail is wide but lined by alder and some pine making the scenery not much to look at. Once you get above the alders, you get some fantastic views looking back towards Whittier.

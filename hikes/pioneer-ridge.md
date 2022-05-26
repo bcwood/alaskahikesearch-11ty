@@ -27,7 +27,7 @@ attachments:
 - slug: pioneer-ridge-5
   description: Upper Pioneer Ridge. Photo by Ross Timm.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Please use the book "*50 hikes in Alaska's Chugach State Park*" for reference with this description.

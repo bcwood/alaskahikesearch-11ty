@@ -27,7 +27,7 @@ attachments:
 - slug: fuller-lakes-5
   description: Upper Lake
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kenai-national-wildlife-refuge']
 layout: layouts/hike.njk
 ---
 *Before I begin my description, I should let you know that my judgment on this hike may be clouded due to the fact that my damn (at least on this day) dog rubbed into a dead fish in the parking lot and stunk to high heaven. I was really pissed at her and we did the hike real quick so I could get to Soldotna and buy some vinegar to wash it out.*

@@ -34,7 +34,7 @@ trailheads:
 - name: Alyeska Trailhead
   latitude: 60.9697352
   longitude: -149.0952829
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 This hike is a great one for a visitor to do rather than Flattop. For one, you get the drive to Girdwood. Second, you get great views, a good hike with varying levels of steepness, and a interesting juxtaposition of ski-lift technology, history, and rugged outdoors. Third, you get to mingle with fine diners and tourists on the tram chalet's deck (ok-- not always a bonus). Fourth- you have a bathroom and a tram down! Great for guests to see it all! Oh yeah-- you have Chair 5 to get a burger, beer, and/or pizza on the bottom.

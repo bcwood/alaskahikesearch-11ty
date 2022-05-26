@@ -25,7 +25,7 @@ trailheads:
 - name: Rainbow Trailhead
   latitude: 60.9999982
   longitude: -149.640578
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Rainbow Parking area is between [McHugh](http://alaskahikesearch.com/hikes/mchugh-trail-rabbit-lake/ "McHugh Trail / Rabbit Lake") and [Falls Creek](http://alaskahikesearch.com/hikes/falls-creek-trail/ "Falls Creek Trail"). Trail starts at north end of parking lot. You will walk along the Turnagain Trail for a while (maybe a mile) until you get to its highest point. At this point you will be on the crest of the ridge and you should see a faint trail leading up the ridge on your right. There are actually two of these trails -- either one gets you on the ridge. It is a little steep, especially at first -- so don't be shy about using the cottonwood trees for leverage! Once on the ridge, the trail is pretty well marked and at the top of the ridge you pretty much get cliffed out -- but the trail veers off to the right, along the base of some pretty steep walls. Be aware that there are a lot of game trails so it can be easy to get off the right trail if you aren't paying attention. Once you go a few hundred yards, the steep cliff gives way to a broad bowl, which is pretty much loose scree with a few outcrops of solid rock. I prefer walking on solid rock over scree (at least uphill...) so I kind of hopscotch from rock exposure to rock exposure. Stay towards the middle of the bowl and keep going until you gain the ridge at the head of the bowl. Just a little scrambling gets you there. From there, it is a delightful ridge walk (the peak is to your left) with a nice view of South Suicide and Turnagain Arm. You'll know you reached the summit when you can't go any higher!

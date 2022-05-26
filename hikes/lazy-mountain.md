@@ -31,7 +31,7 @@ trailheads:
 - name: Lazy Mountain Trailhead
   latitude: 61.611346
   longitude: -149.0160302
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 Lazy mountain, near the city of Palmer, makes for a fine day hike. From the parking lot at the base, the trail ascends rapidly through dense foliage over a well-trod path. The trail continues straight up the mountain for a good length, with occasional steps built right into the path. A third or so of the way up, a bench is reached. After this, the trail becomes slightly less steep, and the landscape changes from forest to rocky tundra. Another bench is located just below the real top of Lazy mountain. From the final vantage point, one can see nearby Matanuska Peak, as well as Pioneer Peak and Twin Peaks to the west.

@@ -38,7 +38,7 @@ trailheads:
 - name: Byron Glacier Trailhead
   latitude: 60.7736707
   longitude: -148.8460476
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 Byron Glacier is a jewel! The views are awesome, and the trail is easy! Definitely a must see!

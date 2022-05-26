@@ -50,7 +50,7 @@ trailheads:
 - name: Basher Trailhead
   latitude: 61.1515809
   longitude: -149.7143492
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This is a great day hike and the view at the peak (one of highest in the park) is spectacular. Going 360 degrees, you can see: Canyon Valley, Williwaw Valley, O'Malley, Flat Top, the Chugach Mountains, the Kenai Mountains, the Anchorage Bowl, Cook Inlet, Mt. Susitna (Sleeping Lady), the Alaska Range, and the Talkeetna Mountains.

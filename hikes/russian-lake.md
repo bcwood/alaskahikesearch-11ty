@@ -38,7 +38,7 @@ attachments:
 - slug: russian-lake-10
   description: Star on break
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 A friend and I were all set to do the whole traverse Memorial Day 2001 but there was still a ton of snow and after 2 miles of serious [post holing](http://alaskahikesearch.com/education/#post-holing) on the Cooper Landing side, we hightailed it to [Caines Head](http://alaskahikesearch.com/hikes/caines-head-trail/ "Caines Head Trail") instead. Flash forward to Memorial Day 2003 and I finally finished what I started.

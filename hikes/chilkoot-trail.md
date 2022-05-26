@@ -32,7 +32,7 @@ trailheads:
 - name: Chilkoot Trail Trailhead
   latitude: 59.511806
   longitude: -135.3466516
-tags: hikes
+tags: ['hikes', 'klondike-gold-rush-national-historical-park']
 layout: layouts/hike.njk
 ---
 *Note from the webmaster: technically this is too far away from Anchorage (greater than a 4 hour car ride) to grant inclusion on this site but since many visitors to my site would be interested, it seemed appropriate to publish and have available.*

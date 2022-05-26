@@ -13,3 +13,17 @@ layout: "layouts/page.njk"
 	submitted to the site. This list should not be considered conclusive nor should you assume that hikes
 	not mentioned are not worth your time.
 </p>
+
+{%- for park in collections.parksSorted %}
+	<div class="park">
+		<h2 id="{{ park.data.title | slugify }}">{{ park.data.title }}</h2>
+		{{ park.templateContent | safe }}
+
+		<h3>Hikes Listed on this Site:</h3>
+		<ul>
+			{%- for hike in collections[park.data.title | slugify] %}
+				<li><a href="/hikes/{{ hike.data.slug }}">{{ hike.data.title }}</a></li>
+			{%- endfor %}
+		</ul>
+	</div>
+{%- endfor %}

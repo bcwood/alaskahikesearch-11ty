@@ -48,7 +48,7 @@ trailheads:
 - name: Reed Lakes Trailhead
   latitude: 61.8041865
   longitude: -149.2027134
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 This is a great valley situated within the Hatcher Pass area. The road to it is pretty rough on vehicles. However, the road makes a pretty easy hike to the actual valley itself.

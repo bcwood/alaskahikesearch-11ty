@@ -45,7 +45,7 @@ trailheads:
 - name: South Fork Trailhead
   latitude: 61.2327938
   longitude: -149.4561918
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 The namesake peak of the Eagle River Valley, jagged and imposing Eagle Peak penetrates nearly 7,000' above sea level into the Chugach sky. On a day with good visibility, few summits can take you higher and provide a more rewarding challenge without the need for climbing equipment so close to Anchorage. At the summit, you won't believe where your own two feet have taken you as you look far below at Eagle and Symphony Lakes - nearly a vertical mile below!

@@ -50,7 +50,7 @@ trailheads:
 - name: Reed Lakes Trailhead
   latitude: 61.8041865
   longitude: -149.2027134
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 We took this hike as an overnight trip to the mine with a side trip to the glacier. The area just above the mine is very flat and a good place for camping. There is plenty of room for exploration, with a mine entrance on the hillside and a hanging valley with a lake in it.

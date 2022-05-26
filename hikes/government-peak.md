@@ -25,7 +25,7 @@ attachments:
 - slug: government-peak-2
   description: Photo by Philip Walters.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 July 12, 2005 - I hiked a total of 5 hours to reach the summit of Government Peak and back. I started my hike from the parking lot at mile 17 on Hatchers Pass Road, which is on the right about 2.5 miles past the Gold Mint Trail trailhead and the Mother Lode Lodge. This year they started a parking fee of $5.00 a day to pay for recent road improvements and new campsites. From the parking lot, I headed southeast across the road to find a partly overgrown trail that leads down the embankment on the other side to an old cabin and then to Fish Hook Creek. I followed the trail down the creek short distance until I saw pink flagging on the far side that marked a wide and shallow ford.

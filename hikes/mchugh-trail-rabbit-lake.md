@@ -53,7 +53,7 @@ trailheads:
 - name: Rabbit Lake Trailhead
   latitude: 61.0795745
   longitude: -149.6780712
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This is probably one of Alaska's most stunning glacially carved valleys. The elevation lines of changing ecosystems is quite clear on this trail. Once you get above the spruce forest, there are great views of Turnagain Arm. You'll then wind through willow and scrub. As you head south, up the chute, there is less and less vegetation and eventually it is just rocky tundra scrub. The McHugh Creek runs down the middle and is quite dramatic in some sections. At the end is Rabbit Lake as your final reward. There is a good chance of seeing eagles, hawks, moose, and ptarmigan on this trail.

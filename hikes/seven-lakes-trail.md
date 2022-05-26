@@ -31,7 +31,7 @@ attachments:
 - slug: seven-lakes-trail-6
   description: Kelly Lake
 trailheads: []
-tags: hikes
+tags: ['hikes', 'kenai-national-wildlife-refuge']
 layout: layouts/hike.njk
 ---
 First off, a little truth in advertising; this is really only a 4 lakes tour. The trail was cut off due to Skilak Lake Road being built and there were 3 others north of the road. From north to south the 4 lakes are; Kelly, Hikers, Hidden, and Engineer. When I did this trail I hiked it south to north since where I camped was closer to the southern trailhead. 

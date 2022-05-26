@@ -22,7 +22,7 @@ trailheads:
 - name: Fishhook Trailhead
   latitude: 61.7669796
   longitude: -149.2654427
-tags: hikes
+tags: ['hikes', 'matanuska-valley']
 layout: layouts/hike.njk
 ---
 I had always wanted to climb this mountain, it always seemed easy from the road. Although it ended up not being too easy, it was certainly not too challenging, and it has some great views. Almost all of the popular Hatcher Pass areas can be seen from the top, so it was quite a sight.

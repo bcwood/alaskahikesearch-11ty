@@ -43,7 +43,7 @@ trailheads:
 - name: Bird Ridge Trailhead
   latitude: 60.978935
   longitude: -149.4799335
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 This isn't a trail proper which is very surprising considering how accessible this is and all the great scenery and exploration options.

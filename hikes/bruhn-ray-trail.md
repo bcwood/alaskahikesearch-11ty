@@ -19,7 +19,7 @@ gpxFilename:
 bannerImage: bruhn-ray-trail-1
 attachments: []
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 I was camping Friday night at Granite Creek, just before the Hope Junction on the Seward Highway. My plan was to backpack Devil's Pass but when I woke up, it was gray and freezing and I wasn't sure if I could light a fire up there so I decided to bag it and do a day hike instead. 

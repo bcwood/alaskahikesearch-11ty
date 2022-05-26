@@ -47,7 +47,7 @@ attachments:
 - slug: bonanza-mine-trail-13
   description: Glacier valley. Photo by Ross Timm.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'wrangell--st-elias-national-park']
 layout: layouts/hike.njk
 ---
 This is a great hike up into the mountains above Kennicott. It combines amazing views, including views of the Kennicott and Root Glaciers, with the opportunity to see some of the mining history of the area.

@@ -39,7 +39,7 @@ trailheads:
 - name: Basher Trailhead
   latitude: 61.1515809
   longitude: -149.7143492
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Tanaina Lake Hike is a wonderful way to see two beautiful valleys in the Chugach Mountains. You have the North Fork Campbell Creek Valley on the right and Snowhawk Valley on the left. You can take the Prospect Heights Trail to Near Point, then cross the North Fork Campbell Creek Valley to the north and gain access to the ridgeline that will take you to Knoya and T'Kishla, but I would recommend a different route. Crossing the North Fork Campbell Creek Valley is a whole lot of bushwhacking that you don't need to do, and you also don't have to pay for parking. You will be crossing onto the Military portion of the Chugach Mountain Range, so I would recommend calling the Fort Richardson Military Police, 907-284-0823, to check and make sure that there are not going to be any Military Exercises going on. I did find some MRE packages up there, so I figure that they do some training in that area...because I know that all of us would not leave any trash behind!

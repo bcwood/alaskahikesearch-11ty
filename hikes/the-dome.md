@@ -36,7 +36,7 @@ attachments:
 - slug: dome-7
   description: Wolverine Peak. Photo by Ross Timm.
 trailheads: []
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 The trail has lots of spruce bark kills, which is opening up the views a bit. The gradual trail goes through the trees and some grassy meadows then finally starts to climb steeply until you get to the lookout below The Dome proper. From here you can just trudge up to The Dome, following along an old, very eroded jeep trail. The "top", or The Dome, is actually just an extension of the front ranges, leading to bigger and better things. It would make a nice alpine campsite, or a picnic area. Its appearance is like a large, mellow Flattop with more tundra than rocks, and less people typically than at Flattop or Near Point. The elevation at the Dome is about the same as Near Point.

@@ -24,7 +24,7 @@ trailheads:
 - name: Thunderbird Falls
   latitude: 61.4491375
   longitude: -149.3703505
-tags: hikes
+tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
 Short, easy hike to a small waterfall - that's about it.

@@ -40,7 +40,7 @@ trailheads:
 - name: Crow Pass Trailhead
   latitude: 61.0281201
   longitude: -149.1161674
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 Grizzly Bear Lake hike has been listed in Shepherd and Wozniak's book, *50 Hikes in Alaska's Chugach State Park*. Their description of the trail is accurate with one possible understatement regarding the steepness of the north side of Paradise Pass. It can be a little tricky, but if you take your time and choose your route carefully, it can be done by most anyone with decent scrambling skills. Once over the pass, it is a very pleasant and straightforward journey to the Lake. More on that in a moment...

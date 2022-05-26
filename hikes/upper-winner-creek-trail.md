@@ -59,7 +59,7 @@ trailheads:
 - name: Alyeska Trailhead
   latitude: 60.9697352
   longitude: -149.0952829
-tags: hikes
+tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
 This hike begins at the traditional trailhead of the Winner Creek Trail below the Alyeska Tram. For a little variation, you could park on Crow Pass Road and hike in via the hand tram. Regardless, the new and improved Upper Winner Creek Trail is a jewel. It contours the valley along the South side of the creek for approximately 8 miles of outstanding views and level tread. This trail starts in the heavy old-growth rainforest, contours up into thinner hemlock forest and cleared alders, meanders through a delightful cottonwood alluvial fan, busts out onto an open alpine slope, and climbs over an alpine pass that will make you feel like you're in the Highlands of Scotland. The trail continues down the valley to the upper Twenty-mile River for a pakboat float out to the Seward Highway. It apparently peters out about a mile from the actual river, so be prepared for a bushwhack section. I haven't done the float yet so I can't comment on it, though it gets rave reviews from those who have. The photos look a bit splashy with some tricky maneuvering ;probably a bit on the challenging side and definitely on the cold side. 
