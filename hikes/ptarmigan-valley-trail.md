@@ -1,6 +1,5 @@
 ---
 title: Ptarmigan Valley Trail
-slug: ptarmigan-valley-trail
 park: Chugach State Park
 submittedBy: Grimace
 rating: 3

@@ -1,6 +1,5 @@
 ---
 title: East Fork Trail
-slug: east-fork-trail
 park: Chugach State Park
 submittedBy: 
 rating: 3

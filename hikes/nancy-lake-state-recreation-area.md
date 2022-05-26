@@ -1,6 +1,5 @@
 ---
 title: Nancy Lake State Recreation Area
-slug: nancy-lake-state-recreation-area
 park: Nancy Lake State Recreation Area
 submittedBy: ''
 rating: 3

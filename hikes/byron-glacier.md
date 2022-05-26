@@ -1,6 +1,5 @@
 ---
 title: Byron Glacier
-slug: byron-glacier
 park: Chugach National Forest
 submittedBy: Tina Rick
 rating: 5

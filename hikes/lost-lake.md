@@ -1,6 +1,5 @@
 ---
 title: Lost Lake
-slug: lost-lake
 park: Chugach National Forest
 submittedBy: 
 rating: 4

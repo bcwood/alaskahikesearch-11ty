@@ -1,6 +1,5 @@
 ---
 title: Tony Knowles Coastal Trail
-slug: tony-knowles-coastal-trail
 park: Municipality of Anchorage
 submittedBy: 
 rating: 3

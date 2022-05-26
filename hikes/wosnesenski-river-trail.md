@@ -1,6 +1,5 @@
 ---
 title: Wosnesenski River Trail
-slug: wosnesenski-river-trail
 park: Kachemak State Park
 submittedBy: ''
 rating: 2

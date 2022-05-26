@@ -1,6 +1,5 @@
 ---
 title: Harp Mountain
-slug: harp-mountain
 park: Chugach State Park
 submittedBy: Evan Fisher
 rating: 4

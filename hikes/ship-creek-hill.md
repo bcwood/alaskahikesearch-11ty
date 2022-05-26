@@ -1,6 +1,5 @@
 ---
 title: Ship Creek Hill
-slug: ship-creek-hill
 park: Chugach State Park
 submittedBy: Matt T.
 rating: 3

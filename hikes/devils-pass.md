@@ -1,6 +1,5 @@
 ---
 title: Devil's Pass
-slug: devils-pass
 park: Chugach National Forest
 submittedBy: 
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Mt. Marathon
-slug: mt-marathon
 park: Kenai Fjords National Park
 submittedBy: ''
 rating: 3

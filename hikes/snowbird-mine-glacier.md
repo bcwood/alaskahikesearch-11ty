@@ -1,6 +1,5 @@
 ---
 title: Snowbird Mine & Glacier
-slug: snowbird-mine-glacier
 park: Matanuska Valley
 submittedBy: Louise Williams
 rating: 4

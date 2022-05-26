@@ -1,6 +1,5 @@
 ---
 title: Otterbahn Trail
-slug: otterbahn-trail
 park: Kachemak State Park
 submittedBy: Patricia Baum
 rating: 3

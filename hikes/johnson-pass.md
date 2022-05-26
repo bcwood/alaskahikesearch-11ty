@@ -1,6 +1,5 @@
 ---
 title: Johnson Pass
-slug: johnson-pass
 park: Chugach National Forest
 submittedBy: ''
 rating: 3

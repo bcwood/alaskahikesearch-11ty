@@ -1,6 +1,5 @@
 ---
 title: Portage Valley
-slug: portage-valley
 park: Chugach National Forest
 submittedBy: ''
 rating: 3

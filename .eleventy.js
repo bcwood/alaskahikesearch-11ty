@@ -5,6 +5,7 @@ const markdownIt = require("markdown-it");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const cleanCSS = require("clean-css");
 const { minify } = require("terser");
+const slugify = require('@sindresorhus/slugify');
 
 module.exports = function(eleventyConfig) {
   // Copy static folders to the output
@@ -28,6 +29,19 @@ module.exports = function(eleventyConfig) {
       // Fail gracefully.
       callback(null, code);
     }
+  });
+  
+  // get reference to built-in `slugify` filter.
+  const slugifyFn = eleventyConfig.getFilter("slugify");
+
+  // customize slugify generation
+  eleventyConfig.addFilter("slugify", function (value, opts) {
+    opts = Object.assign({
+      customReplacements: [
+        ["'", ""]
+      ],
+    }, opts);
+    return slugifyFn(value, opts);
   });
   
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string

@@ -1,6 +1,5 @@
 ---
 title: April Bowl / Hatch Peak
-slug: april-bowl-hatch-peak
 park: Matanuska Valley
 submittedBy: Eric Tarbert
 rating: 5

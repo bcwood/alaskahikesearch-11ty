@@ -1,6 +1,5 @@
 ---
 title: Exit Glacier & Harding Icefield
-slug: exit-glacier-and-harding-icefield
 park: Kenai Fjords National Park
 submittedBy: 
 rating: 5

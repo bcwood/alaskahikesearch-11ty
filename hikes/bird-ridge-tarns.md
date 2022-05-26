@@ -1,6 +1,5 @@
 ---
 title: Bird Ridge Tarns
-slug: bird-ridge-tarns
 park: Chugach State Park
 submittedBy: 
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Campbell Creek Canyon Trail
-slug: campbell-creek-canyon-trail
 park: Chugach State Park
 submittedBy: 
 rating: 3

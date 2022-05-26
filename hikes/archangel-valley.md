@@ -1,6 +1,5 @@
 ---
 title: Archangel Valley
-slug: archangel-valley
 park: Matanuska Valley
 submittedBy: Kelsey Gray
 rating: 3

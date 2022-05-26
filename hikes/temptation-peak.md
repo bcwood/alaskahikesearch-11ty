@@ -1,6 +1,5 @@
 ---
 title: Temptation Peak
-slug: temptation-peak
 park: Chugach State Park
 submittedBy: Paul "Kegger" Koecher
 rating: 4

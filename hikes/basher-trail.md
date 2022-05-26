@@ -1,6 +1,5 @@
 ---
 title: Basher Trail
-slug: basher-trail
 park: Municipality of Anchorage
 submittedBy: 
 rating: 2

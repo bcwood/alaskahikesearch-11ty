@@ -1,6 +1,5 @@
 ---
 title: Nelchina Valley
-slug: nelchina-valley
 park: Matanuska Valley
 submittedBy: ''
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Winner Creek
-slug: winner-creek
 park: Chugach National Forest
 submittedBy: Jacob and April Champness
 rating: 3

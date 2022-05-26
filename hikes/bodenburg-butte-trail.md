@@ -1,6 +1,5 @@
 ---
 title: Bodenburg Butte Trail
-slug: bodenburg-butte-trail
 park: Matanuska Valley
 submittedBy: Linda Bee (<a href="http://www.meetup.com/The-Mat-Su-Hiking-Meetup-Group/">The Mat-Su Hiking Meetup Group</a>)
 rating: 4

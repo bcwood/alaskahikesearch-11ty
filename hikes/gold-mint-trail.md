@@ -1,6 +1,5 @@
 ---
 title: Gold Mint Trail
-slug: gold-mint-trail
 park: Matanuska Valley
 submittedBy: 
 rating: 4

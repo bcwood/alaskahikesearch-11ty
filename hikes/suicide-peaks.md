@@ -1,6 +1,5 @@
 ---
 title: Suicide Peaks
-slug: suicide-peaks
 park: Chugach State Park
 submittedBy: Clint Helander (Alaska Outdoor Club)
 rating: 5

@@ -1,6 +1,5 @@
 ---
 title: West Mendenhall Glacier Trail
-slug: west-mendenhall-glacier-trail
 park: Tongass National Forest
 submittedBy: Turner Vail
 rating: 4

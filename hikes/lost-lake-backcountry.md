@@ -1,6 +1,5 @@
 ---
 title: Lost Lake Backcountry
-slug: lost-lake-backcountry
 park: Chugach National Forest
 submittedBy: ''
 rating: 4

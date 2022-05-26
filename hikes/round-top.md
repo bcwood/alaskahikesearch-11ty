@@ -1,6 +1,5 @@
 ---
 title: Round Top
-slug: round-top
 park: Chugach State Park
 submittedBy: <a href='http://adventurers.meetup.com/109/'>Anchorage Adventurer's Meetup Group</a>
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Eagle Peak
-slug: eagle-peak
 park: Chugach State Park
 submittedBy: Keith Weinhold
 rating: 5

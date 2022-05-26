@@ -1,6 +1,5 @@
 ---
 title: Rendezvous Peak
-slug: rendezvous-peak
 park: Chugach State Park
 submittedBy: Tim Moser
 rating: 2

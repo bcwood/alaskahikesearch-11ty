@@ -1,6 +1,5 @@
 ---
 title: Eagle River North Fork
-slug: eagle-river-north-fork
 park: Chugach State Park
 submittedBy: Tina Rick
 rating: 4

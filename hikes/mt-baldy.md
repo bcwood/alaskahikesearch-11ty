@@ -1,6 +1,5 @@
 ---
 title: Mt. Baldy
-slug: mt-baldy
 park: Chugach State Park
 submittedBy: Dan F. (<a href="http://www.aktrailhead.com/">AKTrailhead.com</a>)
 rating: 3

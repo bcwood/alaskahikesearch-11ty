@@ -1,6 +1,5 @@
 ---
 title: Bonanza Mine Trail
-slug: bonanza-mine-trail
 park: Wrangell - St. Elias National Park
 submittedBy: Jon B.
 rating: 4

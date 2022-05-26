@@ -1,6 +1,5 @@
 ---
 title: Government Peak
-slug: government-peak
 park: Matanuska Valley
 submittedBy: Chris Moore
 rating: 3

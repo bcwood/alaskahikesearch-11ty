@@ -1,6 +1,5 @@
 ---
 title: Seward Highway / Turnagain Arm
-slug: seward-highway-turnagain-arm
 park: Chugach State Park
 submittedBy: ''
 rating: 2

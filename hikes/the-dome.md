@@ -1,6 +1,5 @@
 ---
 title: The Dome
-slug: the-dome
 park: Chugach State Park
 submittedBy: Ross Timm
 rating: 3

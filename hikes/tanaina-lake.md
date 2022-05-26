@@ -1,6 +1,5 @@
 ---
 title: Tanaina Lake
-slug: tanaina-lake
 park: Chugach State Park
 submittedBy: Tony Lutes
 rating: 5

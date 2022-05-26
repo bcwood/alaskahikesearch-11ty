@@ -1,6 +1,5 @@
 ---
 title: Eagle and Symphony Lakes
-slug: eagle-and-symphony-lakes
 park: Chugach State Park
 submittedBy: 
 rating: 4

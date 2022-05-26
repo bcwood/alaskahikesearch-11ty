@@ -1,6 +1,5 @@
 ---
 title: Campbell Creek Tract - Bicentennial Park
-slug: campbell-creek-tract-bicentennial-park
 park: Municipality of Anchorage
 submittedBy: 
 rating: 2

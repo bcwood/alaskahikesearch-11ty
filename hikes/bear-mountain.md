@@ -1,6 +1,5 @@
 ---
 title: Bear Mountain
-slug: bear-mountain
 park: Chugach State Park
 submittedBy: 
 rating: 3

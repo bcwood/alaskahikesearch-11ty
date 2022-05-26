@@ -1,6 +1,5 @@
 ---
 title: Caines Head Alpine Trail
-slug: caines-head-alpine-trail
 park: Caines Head Recreation Area
 submittedBy: Phil Beske
 rating: 5

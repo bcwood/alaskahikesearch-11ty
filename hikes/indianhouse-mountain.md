@@ -1,6 +1,5 @@
 ---
 title: Indianhouse Mountain
-slug: indianhouse-mountain
 park: Chugach State Park
 submittedBy: 
 rating: 4

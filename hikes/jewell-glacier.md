@@ -1,6 +1,5 @@
 ---
 title: Jewell Glacier
-slug: jewell-glacier
 park: Chugach National Forest
 submittedBy: ''
 rating: 4

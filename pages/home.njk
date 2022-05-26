@@ -11,7 +11,7 @@ permalink: /index.html
                 <option>Select a hike...</option>
                 
                 {%- for hike in collections.hikesSorted %}
-                    <option value="{{ hike.data.slug }}">{{ hike.data.title }}</option>
+                    <option value="{{ hike.fileSlug }}">{{ hike.data.title }}</option>
                 {%- endfor %}
             </select>
             <button type="submit" class="btn btn-success">Go!</button>

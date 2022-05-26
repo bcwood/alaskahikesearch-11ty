@@ -1,6 +1,5 @@
 ---
 title: China Poot Lake Trail
-slug: china-poot-lake-trail
 park: Kachemak State Park
 submittedBy: 
 rating: 2

@@ -1,6 +1,5 @@
 ---
 title: T'Kishla Peak
-slug: tkishla-peak
 park: Chugach State Park
 submittedBy: Rollin Dalpiaz
 rating: 5

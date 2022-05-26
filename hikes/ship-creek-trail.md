@@ -1,6 +1,5 @@
 ---
 title: Ship Creek Trail
-slug: ship-creek-trail
 park: Chugach State Park
 submittedBy: ''
 rating: 3

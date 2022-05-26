@@ -1,6 +1,5 @@
 ---
 title: Crow Pass
-slug: crow-pass
 park: Chugach National Forest
 submittedBy: ''
 rating: 5

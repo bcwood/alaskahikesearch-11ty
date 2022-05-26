@@ -1,6 +1,5 @@
 ---
 title: Mint Valley to Reed Lake
-slug: mint-valley-to-reed-lake
 park: Matanuska Valley
 submittedBy: Matt Lux
 rating: 4

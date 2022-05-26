@@ -1,6 +1,5 @@
 ---
 title: Rambler Mine
-slug: rambler-mine
 park: Wrangell-St. Elias National Park
 submittedBy: 
 rating: 3

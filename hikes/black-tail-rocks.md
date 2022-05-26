@@ -1,6 +1,5 @@
 ---
 title: Black Tail Rocks
-slug: black-tail-rocks
 park: Chugach State Park
 submittedBy: 
 rating: 4

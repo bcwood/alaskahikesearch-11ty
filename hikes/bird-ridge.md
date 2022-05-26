@@ -1,6 +1,5 @@
 ---
 title: Bird Ridge
-slug: bird-ridge
 park: Chugach State Park
 submittedBy: 
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Russian Lake
-slug: russian-lake
 park: Chugach National Forest
 submittedBy: ''
 rating: 3

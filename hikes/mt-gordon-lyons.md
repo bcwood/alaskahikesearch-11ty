@@ -1,6 +1,5 @@
 ---
 title: Mt. Gordon Lyons
-slug: mt-gordon-lyons
 park: Chugach State Park
 submittedBy: 
 rating: 3

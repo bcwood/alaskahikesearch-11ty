@@ -1,6 +1,5 @@
 ---
 title: Flat Top
-slug: flat-top
 park: Chugach State Park
 submittedBy: 
 rating: 3

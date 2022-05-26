@@ -1,6 +1,5 @@
 ---
 title: Captain Cook Beach Trail
-slug: captain-cook-beach-trail
 park: Captain Cook Recreation Area
 submittedBy: 
 rating: 2

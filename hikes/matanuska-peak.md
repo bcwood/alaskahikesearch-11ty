@@ -1,6 +1,5 @@
 ---
 title: Matanuska Peak
-slug: matanuska-peak
 park: Matanuska Valley
 submittedBy: Matt Lux
 rating: 4

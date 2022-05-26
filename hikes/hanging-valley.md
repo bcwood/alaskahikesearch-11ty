@@ -1,6 +1,5 @@
 ---
 title: Hanging Valley
-slug: hanging-valley
 park: Chugach State Park
 submittedBy: 
 rating: 3

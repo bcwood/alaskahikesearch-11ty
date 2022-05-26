@@ -1,6 +1,5 @@
 ---
 title: Bird Creek Trail
-slug: bird-creek-trail
 park: Chugach State Park
 submittedBy: 
 rating: 2

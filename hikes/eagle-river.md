@@ -1,6 +1,5 @@
 ---
 title: Eagle River
-slug: eagle-river
 park: Chugach State Park
 submittedBy: 
 rating: 3

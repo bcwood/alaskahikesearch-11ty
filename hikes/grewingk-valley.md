@@ -1,6 +1,5 @@
 ---
 title: Grewingk Valley
-slug: grewingk-valley
 park: Kachemak State Park
 submittedBy: ''
 rating: 5

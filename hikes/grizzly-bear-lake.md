@@ -1,6 +1,5 @@
 ---
 title: Grizzly Bear Lake
-slug: grizzly-bear-lake
 park: Chugach National Forest
 submittedBy: Martin Olsen
 rating: 4

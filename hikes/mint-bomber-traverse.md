@@ -1,6 +1,5 @@
 ---
 title: Mint Bomber Traverse
-slug: mint-bomber-traverse
 park: Matanuska Valley
 submittedBy: Martin Olsen (<a href='http://akolsens.home.att.net/olsen.html'>The Olsen's Home Page</a>)
 rating: 5

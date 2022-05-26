@@ -1,6 +1,5 @@
 ---
 title: Penguin Peak
-slug: penguin-peak
 park: Chugach State Park
 submittedBy: Ross Timm
 rating: 3

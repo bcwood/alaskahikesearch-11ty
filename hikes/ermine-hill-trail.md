@@ -1,6 +1,5 @@
 ---
 title: Ermine Hill Trail
-slug: ermine-hill-trail
 park: Denali State Park
 submittedBy: 
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Twin Peaks
-slug: twin-peaks
 park: Chugach State Park
 submittedBy: ''
 rating: 3

@@ -1,6 +1,5 @@
 ---
 title: Alyeska North Face
-slug: alyeska-north-face
 park: Chugach National Forest
 submittedBy: Bill Walker
 rating: 3

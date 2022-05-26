@@ -1,6 +1,5 @@
 ---
 title: Hope Point
-slug: hope-point
 park: Chugach National Forest
 submittedBy: ''
 rating: 4

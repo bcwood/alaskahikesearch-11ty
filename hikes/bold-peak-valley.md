@@ -1,6 +1,5 @@
 ---
 title: Bold Peak Valley
-slug: bold-peak-valley
 park: Chugach State Park
 submittedBy: 
 rating: 3

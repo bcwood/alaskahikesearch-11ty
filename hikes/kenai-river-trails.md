@@ -1,6 +1,5 @@
 ---
 title: Kenai River Trails
-slug: kenai-river-trails
 park: Kenai National Wildlife Refuge
 submittedBy: ''
 rating: 2

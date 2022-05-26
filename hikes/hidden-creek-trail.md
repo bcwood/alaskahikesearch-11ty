@@ -1,6 +1,5 @@
 ---
 title: Hidden Creek Trail
-slug: hidden-creek-trail
 park: Kenai National Wildlife Refuge
 submittedBy: ''
 rating: 3

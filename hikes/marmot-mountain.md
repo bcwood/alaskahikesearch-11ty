@@ -1,6 +1,5 @@
 ---
 title: Marmot Mountain
-slug: marmot-mountain
 park: Matanuska Valley
 submittedBy: Eric Tarbert
 rating: 4

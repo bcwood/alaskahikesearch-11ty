@@ -1,6 +1,5 @@
 ---
 title: Ptarmigan Peak
-slug: ptarmigan-peak
 park: Chugach State Park
 submittedBy: Ross Timm
 rating: 3

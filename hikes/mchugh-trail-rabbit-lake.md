@@ -1,6 +1,5 @@
 ---
 title: McHugh Trail / Rabbit Lake
-slug: mchugh-trail-rabbit-lake
 park: Chugach State Park
 submittedBy: 
 rating: 4

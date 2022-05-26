@@ -1,6 +1,5 @@
 ---
 title: Horseshoe Lake Trail
-slug: horseshoe-lake-trail
 park: Denali National Park
 submittedBy: Holly and Wah
 rating: 3

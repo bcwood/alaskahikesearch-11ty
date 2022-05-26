@@ -1,6 +1,5 @@
 ---
 title: Victor Creek
-slug: victor-creek
 park: Chugach National Forest
 submittedBy: Moses
 rating: 3

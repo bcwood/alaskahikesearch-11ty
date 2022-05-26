@@ -1,6 +1,5 @@
 ---
 title: Falls Creek Trail
-slug: falls-creek-trail
 park: Chugach State Park
 submittedBy: 
 rating: 3

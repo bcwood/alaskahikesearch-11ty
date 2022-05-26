@@ -1,6 +1,5 @@
 ---
 title: Red Shirt Lake
-slug: red-shirt-lake
 park: Nancy Lake State Recreation Area
 submittedBy: ''
 rating: 3

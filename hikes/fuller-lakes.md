@@ -1,6 +1,5 @@
 ---
 title: Fuller Lakes
-slug: fuller-lakes
 park: Kenai National Wildlife Refuge
 submittedBy: 
 rating: 2

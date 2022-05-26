@@ -1,6 +1,5 @@
 ---
 title: Flute Glacier
-slug: flute-glacier
 park: Chugach State Park
 submittedBy: Frank Baker
 rating: 3

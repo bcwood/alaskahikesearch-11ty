@@ -1,6 +1,5 @@
 ---
 title: Crescent Lake
-slug: crescent-lake
 park: Chugach National Forest
 submittedBy: 
 rating: 3

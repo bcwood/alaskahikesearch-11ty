@@ -22,7 +22,7 @@ layout: "layouts/page.njk"
 		<h3>Hikes Listed on this Site:</h3>
 		<ul>
 			{%- for hike in collections[park.data.title | slugify] %}
-				<li><a href="/hikes/{{ hike.data.slug }}">{{ hike.data.title }}</a></li>
+				<li><a href="/hikes/{{ hike.fileSlug }}">{{ hike.data.title }}</a></li>
 			{%- endfor %}
 		</ul>
 	</div>

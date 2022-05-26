@@ -1,6 +1,5 @@
 ---
 title: Skilak Lookout Trail
-slug: skilak-lookout-trail
 park: Kenai National Wildlife Refuge
 submittedBy: ''
 rating: 4

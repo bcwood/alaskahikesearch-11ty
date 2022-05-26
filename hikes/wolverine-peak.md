@@ -1,6 +1,5 @@
 ---
 title: Wolverine Peak
-slug: wolverine-peak
 park: Chugach State Park
 submittedBy: ''
 rating: 4

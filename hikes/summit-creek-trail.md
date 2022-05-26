@@ -1,6 +1,5 @@
 ---
 title: Summit Creek Trail
-slug: summit-creek-trail
 park: Chugach National Forest
 submittedBy: ''
 rating: 4

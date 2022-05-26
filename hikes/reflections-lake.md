@@ -1,6 +1,5 @@
 ---
 title: Reflections Lake
-slug: reflections-lake
 park: Matanuska Valley
 submittedBy: Christina Rick
 rating: 4

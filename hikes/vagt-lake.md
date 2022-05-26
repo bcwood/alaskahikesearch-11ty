@@ -1,6 +1,5 @@
 ---
 title: Vagt Lake
-slug: vagt-lake
 park: Chugach National Forest
 submittedBy: ''
 rating: 2

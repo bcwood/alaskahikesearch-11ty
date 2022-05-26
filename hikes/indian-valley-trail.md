@@ -1,6 +1,5 @@
 ---
 title: Indian Valley Trail
-slug: indian-valley-trail
 park: Chugach State Park
 submittedBy: ''
 rating: 2

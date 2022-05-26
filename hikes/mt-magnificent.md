@@ -1,6 +1,5 @@
 ---
 title: Mt. Magnificent
-slug: mt-magnificent
 park: Chugach State Park
 submittedBy: 
 rating: 4

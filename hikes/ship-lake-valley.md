@@ -1,6 +1,5 @@
 ---
 title: Ship Lake Valley
-slug: ship-lake-valley
 park: Chugach State Park
 submittedBy: ''
 rating: 4

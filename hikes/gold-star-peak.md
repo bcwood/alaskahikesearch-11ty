@@ -1,6 +1,5 @@
 ---
 title: Gold Star Peak
-slug: gold-star-peak
 park: Chugach State Park
 submittedBy: 
 rating: 4

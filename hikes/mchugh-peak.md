@@ -1,6 +1,5 @@
 ---
 title: McHugh Peak
-slug: mchugh-peak
 park: Chugach State Park
 submittedBy: Ross Timm
 rating: 4

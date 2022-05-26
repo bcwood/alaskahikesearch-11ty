@@ -1,6 +1,5 @@
 ---
 title: Peter's Creek Trail
-slug: peters-creek-trail
 park: Chugach State Park
 submittedBy: 
 rating: 3

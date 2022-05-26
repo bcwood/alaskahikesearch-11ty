@@ -1,6 +1,5 @@
 ---
 title: Skyline Trail
-slug: skyline-trail
 park: Kenai National Wildlife Refuge
 submittedBy: Danny Autrey
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Near Point
-slug: near-point
 park: Chugach State Park
 submittedBy: ''
 rating: 2

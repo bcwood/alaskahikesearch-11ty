@@ -1,6 +1,5 @@
 ---
 title: Reed Lakes
-slug: reed-lakes
 park: Matanuska Valley
 submittedBy: Dan Couture
 rating: 3

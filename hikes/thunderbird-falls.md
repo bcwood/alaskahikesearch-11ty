@@ -1,6 +1,5 @@
 ---
 title: Thunderbird Falls
-slug: thunderbird-falls
 park: Chugach State Park
 submittedBy: ''
 rating: 2

@@ -1,6 +1,5 @@
 ---
 title: Caines Head Trail
-slug: caines-head-trail
 park: Caines Head Recreation Area
 submittedBy: 
 rating: 4

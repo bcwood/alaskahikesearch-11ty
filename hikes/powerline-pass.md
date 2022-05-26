@@ -1,6 +1,5 @@
 ---
 title: Powerline Pass
-slug: powerline-pass
 park: Chugach State Park
 submittedBy: 
 rating: 2

@@ -1,6 +1,5 @@
 ---
 title: Anchorage Greenbelt Trails
-slug: anchorage-greenbelt-trails
 park: Municipality of Anchorage
 submittedBy: ''
 rating: 2

@@ -1,6 +1,5 @@
 ---
 title: Gull Rock Trail
-slug: gull-rock-trail
 park: Chugach National Forest
 submittedBy: 
 rating: 3

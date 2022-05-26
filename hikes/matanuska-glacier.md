@@ -1,6 +1,5 @@
 ---
 title: Matanuska Glacier
-slug: matanuska-glacier
 park: Matanuska Valley
 submittedBy: 
 rating: 4

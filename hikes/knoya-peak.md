@@ -1,6 +1,5 @@
 ---
 title: Knoya Peak
-slug: knoya-peak
 park: Chugach State Park
 submittedBy: ''
 rating: 3

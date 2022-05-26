@@ -1,6 +1,5 @@
 ---
 title: Mt. Eklutna
-slug: mt-eklutna
 park: Chugach State Park
 submittedBy: Amy Olson
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Chilkoot Trail
-slug: chilkoot-trail
 park: Klondike Gold Rush National Historical Park
 submittedBy: Barb Cary A
 rating: 5

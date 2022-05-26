@@ -1,6 +1,5 @@
 ---
 title: Grace Ridge
-slug: grace-ridge
 park: Kachemak State Park
 submittedBy: Bill Walker
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Triangle Peak
-slug: triangle-peak
 park: Chugach State Park
 submittedBy: 
 rating: 4

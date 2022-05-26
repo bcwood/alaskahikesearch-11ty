@@ -1,6 +1,5 @@
 ---
 title: Mt. POW/MIA
-slug: mt-powmia
 park: Chugach State Park
 submittedBy: 
 rating: 4

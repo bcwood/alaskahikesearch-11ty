@@ -1,6 +1,5 @@
 ---
 title: Kesugi Ridge
-slug: kesugi-ridge
 park: Denali State Park
 submittedBy: 
 rating: 5

@@ -1,6 +1,5 @@
 ---
 title: Alyeska Roundhouse
-slug: alyeska-roundhouse
 park: Chugach National Forest
 submittedBy: Ross Timm
 rating: 4

@@ -1,6 +1,5 @@
 ---
 title: Skookum Volcano
-slug: skookum-volcano
 park: Wrangell-St. Elias National Park
 submittedBy: 
 rating: 4

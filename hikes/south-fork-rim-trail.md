@@ -1,6 +1,5 @@
 ---
 title: South Fork Rim Trail
-slug: south-fork-rim-trail
 park: Chugach State Park
 submittedBy: 
 rating: 3

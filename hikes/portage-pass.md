@@ -1,6 +1,5 @@
 ---
 title: Portage Pass
-slug: portage-pass
 park: Chugach National Forest
 submittedBy: 
 rating: 5

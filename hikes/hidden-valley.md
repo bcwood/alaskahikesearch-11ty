@@ -1,6 +1,5 @@
 ---
 title: Hidden Valley
-slug: hidden-valley
 park: Chugach State Park
 submittedBy: ''
 rating: 3

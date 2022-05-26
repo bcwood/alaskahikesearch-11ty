@@ -1,6 +1,5 @@
 ---
 title: Football Field / O'Malley Peak
-slug: football-field-omalley-peak
 park: Chugach State Park
 submittedBy: 
 rating: 3

@@ -1,6 +1,5 @@
 ---
 title: Turnagain Arm Trail
-slug: turnagain-arm-trail
 park: Chugach State Park
 submittedBy: ''
 rating: 2

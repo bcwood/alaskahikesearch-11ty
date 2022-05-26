@@ -1,6 +1,5 @@
 ---
 title: Edmonds Lake
-slug: edmonds-lake
 park: Chugach State Park
 submittedBy: Eric Tarbert
 rating: 2

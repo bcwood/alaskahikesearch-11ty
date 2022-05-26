@@ -1,6 +1,5 @@
 ---
 title: Dew Mound Trail
-slug: dew-mound-trail
 park: Chugach State Park
 submittedBy: 
 rating: 2

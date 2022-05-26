@@ -1,6 +1,5 @@
 ---
 title: Williwaw Lakes
-slug: williwaw-lakes
 park: Chugach State Park
 submittedBy: ''
 rating: 4

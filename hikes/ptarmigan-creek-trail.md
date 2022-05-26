@@ -1,6 +1,5 @@
 ---
 title: Ptarmigan Creek Trail
-slug: ptarmigan-creek-trail
 park: Chugach National Forest
 submittedBy: ''
 rating: 3

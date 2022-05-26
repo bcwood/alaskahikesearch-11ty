@@ -1,6 +1,5 @@
 ---
 title: Pioneer Ridge
-slug: pioneer-ridge
 park: Chugach State Park
 submittedBy: Ross Timm
 rating: 5

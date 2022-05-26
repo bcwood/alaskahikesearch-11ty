@@ -1,6 +1,5 @@
 ---
 title: Upper Troublesome Creek Trail
-slug: upper-troublesome-creek-trail
 park: Denali State Park
 submittedBy: 
 rating: 3

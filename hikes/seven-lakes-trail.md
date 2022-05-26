@@ -1,6 +1,5 @@
 ---
 title: Seven Lakes Trail
-slug: seven-lakes-trail
 park: Kenai National Wildlife Refuge
 submittedBy: 
 rating: 2

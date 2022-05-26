@@ -1,6 +1,5 @@
 ---
 title: Eklutna Lake
-slug: eklutna-lake
 park: Chugach State Park
 submittedBy: 
 rating: 3

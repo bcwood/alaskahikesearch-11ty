@@ -1,6 +1,5 @@
 ---
 title: Resurrection Pass
-slug: resurrection-pass
 park: Chugach National Forest
 submittedBy: ''
 rating: 4

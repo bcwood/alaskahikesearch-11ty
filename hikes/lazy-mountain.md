@@ -1,6 +1,5 @@
 ---
 title: Lazy Mountain
-slug: lazy-mountain
 park: Matanuska Valley
 submittedBy: Dan F. (<a href='http://aktrailhead.com'>AKTrailhead.com</a>)
 rating: 3

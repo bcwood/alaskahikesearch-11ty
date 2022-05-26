@@ -1,6 +1,5 @@
 ---
 title: Mt. Healy
-slug: mt-healy
 park: Denali National Park
 submittedBy: ''
 rating: 3

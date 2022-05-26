@@ -1,6 +1,5 @@
 ---
 title: Rainbow Peak
-slug: rainbow-peak
 park: Chugach State Park
 submittedBy: Martin Olsen (<a href='http://akolsens.home.att.net/olsen.html'>The Olsen's Home Page</a>)
 rating: 3

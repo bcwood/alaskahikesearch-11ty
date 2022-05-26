@@ -1,6 +1,5 @@
 ---
 title: Pepper Peak
-slug: pepper-peak
 park: Chugach State Park
 submittedBy: ''
 rating: 4

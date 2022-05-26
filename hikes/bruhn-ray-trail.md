@@ -1,6 +1,5 @@
 ---
 title: Bruhn-Ray Trail
-slug: bruhn-ray-trail
 park: Chugach National Forest
 submittedBy: 
 rating: 1

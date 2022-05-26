@@ -1,6 +1,5 @@
 ---
 title: Lower Eagle River Trail
-slug: lower-eagle-river-trail
 park: Chugach State Park
 submittedBy: ''
 rating: 2

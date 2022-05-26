@@ -1,6 +1,5 @@
 ---
 title: Upper Winner Creek Trail
-slug: upper-winner-creek-trail
 park: Chugach National Forest
 submittedBy: Blain Anderson
 rating: 3
