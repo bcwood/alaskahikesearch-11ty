@@ -33,7 +33,7 @@ If you're here for serious hiking, there is absolutely no need to do this trail.
 
 If you do like to fish, but aren't into the shoulder to shoulder "combat" style that's so popular up here, you may want to check it out. My guess is that there are probably not too many people who will take the initiative to get to Vagt Lake.
 
-2 much better hikes in this area are [Lost Lake](http://alaskahikesearch.com/hikes/lost-lake/ "Lost Lake") and [Ptarmigan Creek](http://alaskahikesearch.com/hikes/ptarmigan-creek-trail/ "Ptarmigan Creek Trail").
+2 much better hikes in this area are [Lost Lake](/hikes/lost-lake/ "Lost Lake") and [Ptarmigan Creek](/hikes/ptarmigan-creek-trail/ "Ptarmigan Creek Trail").
 
 ### Important Information
 

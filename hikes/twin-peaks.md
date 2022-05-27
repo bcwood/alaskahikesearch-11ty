@@ -50,7 +50,7 @@ layout: layouts/hike.njk
 ---
 The trail proper switchbacks steeply uphill offering better and better views of Eklutna Lake. The end of the trail is the second bench. This is a great hike if you're already camping out at Eklutna Lake. Otherwise, I wouldn't make a special trip unless you plan on continuing on the primitive trail.
 
-Once you get to the second bench, you can continue up towards your right to [Pepper Peak](http://alaskahikesearch.com/hikes/pepper-peak/ "Pepper Peak") which is a great hike as well.
+Once you get to the second bench, you can continue up towards your right to [Pepper Peak](/hikes/pepper-peak/ "Pepper Peak") which is a great hike as well.
 
 To continue into the Twin Peaks valley, head into the gulch and work your way towards the two identical peaks (and No!-it's not named after the TV show). Most of the hike is sub-alpine tundra. The view of Eklutna and the mountains is incredible. You can get to 5000 feet with not too much difficulty and if you're lucky like I was, you'll get a chance for up close views of dall sheep.
 
@@ -68,7 +68,7 @@ A state campground exists at the trailhead on a first come, first serve basis.
 
 ### Etc.
 
-Please go to the trail description for [Eklutna Lake](http://alaskahikesearch.com/hikes/eklutna-lake/ "Eklutna Lake") for more information about the entire area. There is a lot to do and see here. It's a great place to hang out.
+Please go to the trail description for [Eklutna Lake](/hikes/eklutna-lake/ "Eklutna Lake") for more information about the entire area. There is a lot to do and see here. It's a great place to hang out.
 
 There is a $5 parking fee (bring exact amount). The price for an annual parking pass is $60. You can purchase a pass at the Federal Building at 4th and F or the Atwood Building on 7th and E, 13th Floor. 
 

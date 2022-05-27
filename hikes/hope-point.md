@@ -62,7 +62,7 @@ Either bring another person or bring a cell phone. It goes without saying to be 
 
 Some guidebooks mention a radio tower. This has been removed and you will not find it.
 
-You definitely want to pack a windbreaker. Besides the obvious reason that it's windy at the top, you'll be very sweaty by the time you get there and you'll need to keep that wind from causing you [hypothermia](http://alaskahikesearch.com/education/#hypothermia). 
+You definitely want to pack a windbreaker. Besides the obvious reason that it's windy at the top, you'll be very sweaty by the time you get there and you'll need to keep that wind from causing you [hypothermia](/education/#hypothermia). 
 
 I did this trail in May and boy, were my hands cold up there. I wish I had packed my fleece gloves.
 

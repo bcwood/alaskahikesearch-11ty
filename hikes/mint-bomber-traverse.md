@@ -45,7 +45,7 @@ The trail is fairly well marked, and the first day's walk is very easy for 90% o
 
 **Day 2 : Bomber Hut**
 
-You will climb up the broad scree slope to Backdoor Gap, approximately 5715' above sea level. I have heard conflicting reports of which scree chute leads exactly to Backdoor Gap, but am convinced it is the easiest-looking of the two choices. A more sinister route is off to the left of the "real" Backdoor Gap, so just go up the broad, "bouldery" [scree slope](http://alaskahikesearch.com/education/#scree). It is actually pretty fun bouldering up the slope, but **BE CAREFUL** as the rocks are not always as stable as they might appear to be. Although there is little to no risk of mass movement of the scree, individual boulders can often roll underneath you with no warning.
+You will climb up the broad scree slope to Backdoor Gap, approximately 5715' above sea level. I have heard conflicting reports of which scree chute leads exactly to Backdoor Gap, but am convinced it is the easiest-looking of the two choices. A more sinister route is off to the left of the "real" Backdoor Gap, so just go up the broad, "bouldery" [scree slope](/education/#scree). It is actually pretty fun bouldering up the slope, but **BE CAREFUL** as the rocks are not always as stable as they might appear to be. Although there is little to no risk of mass movement of the scree, individual boulders can often roll underneath you with no warning.
 
 Once atop Backdoor Gap, enjoy the vistas surrounding you, and prepare for the descent onto Penny Royal Glacier. This is downhill bouldering, and just before you reach the blue ice, put on your crampons. Unless there is snow cover, roped travel is not necessary. It should be clear from July (probably June, too?) through late August. There may be a bit of a headwall crevasse, so choose the point at which you gain access to the glacier with reasonable caution.
 
@@ -71,7 +71,7 @@ Also, please keep the huts as clean as when you found them, if not cleaner.
 
 The huts do not operate on a reservation system. They sleep 6-8 people and are not often overflowing, but just in case bring alternate shelter. The weekend we went we had the huts but did share them with other groups.
 
-[Glacier travel](http://alaskahikesearch.com/education/#glaciers) on this hike is not particularly troublesome -- these are fairly stable glaciers with few crevasses. Still, if you have not done much glacier travel avoid walking on anything other than "blue ice" and avoid walking too close to the few crevasses you do encounter.
+[Glacier travel](/education/#glaciers) on this hike is not particularly troublesome -- these are fairly stable glaciers with few crevasses. Still, if you have not done much glacier travel avoid walking on anything other than "blue ice" and avoid walking too close to the few crevasses you do encounter.
 
 ### Etc.
 

@@ -57,7 +57,7 @@ On the good side, there are some terrific sights once you get to the river. Go a
 
 *The following was added 4/20/03:*
 
-I just got back from 3 days of backpacking and I am definitely on the love side tonight. Because of our unseasonably warm winter this year, the river was quite low. Subsequently, I was able to easily ford the river the 20-30 times necessary to beeline it to the end. It was never more than a foot deep. At the end of the trail (where the [Crow Pass Trail](http://alaskahikesearch.com/hikes/crow-pass/ "Crow Pass") starts), I set my tent up with a spectacular view of Eagle Glacier.
+I just got back from 3 days of backpacking and I am definitely on the love side tonight. Because of our unseasonably warm winter this year, the river was quite low. Subsequently, I was able to easily ford the river the 20-30 times necessary to beeline it to the end. It was never more than a foot deep. At the end of the trail (where the [Crow Pass Trail](/hikes/crow-pass/ "Crow Pass") starts), I set my tent up with a spectacular view of Eagle Glacier.
 
 It was a sunny 3 days and I was able to spend all morning the second day exploring around the glacier. I was all set to do this the last time I visited in March of 2002, but I woke up to a snowstorm and had to hightail it out of there (see picture). While the glacier is a cool sight (pardon the pun), the chasm, lake, and surrounding landscape is incredible. You could spend an entire day getting to know it.
 

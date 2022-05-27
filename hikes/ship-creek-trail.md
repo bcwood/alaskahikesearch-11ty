@@ -37,7 +37,7 @@ Travel through spruce forest with many openings for views of this long glacial v
 
 The thing I like about this trail is its solitude. Once you get in a few miles and away from the ski resort, you can really feel like you're in the deep wilderness. To me, hiking in the winter is an incredibly serene experience and this trail really fits the bill.
 
-A popular trip in winter is to cross country ski right into Indian Valley with an extra car waiting at that trailhead. However, be prepared for some real [bushwhacking](http://alaskahikesearch.com/education/#bushwhacking) and [post holing](http://alaskahikesearch.com/education/#post-holing) at the center area of the two valleys. The best way to hike this in the winter is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, [go here](http://alaskahikesearch.com/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").
+A popular trip in winter is to cross country ski right into Indian Valley with an extra car waiting at that trailhead. However, be prepared for some real [bushwhacking](/education/#bushwhacking) and [post holing](/education/#post-holing) at the center area of the two valleys. The best way to hike this in the winter is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, [go here](/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").
 
 ### Important Information
 
@@ -47,9 +47,9 @@ If there is too much snow on the ground making traveling difficult, you can salv
 
 Artic Valley Road is on a military reservation and as such, you are being given the privilege of using it to get to the trailhead. Please obey all traffic signs. Be prepared in these troubled times that the road may be closed if the base is on alert. It was closed after 9-11 till March of 2002.
 
-Although most of the trail is in the middle of the valley, be safe and educate yourself on [avalanche](http://alaskahikesearch.com/education/#avalanche) dangers.
+Although most of the trail is in the middle of the valley, be safe and educate yourself on [avalanche](/education/#avalanche) dangers.
 
-The first part of the trail is on military land. You will need to get a permit to hike there and let them know. [Click here for more information](http://alaskahikesearch.com/education/#military-land).
+The first part of the trail is on military land. You will need to get a permit to hike there and let them know. [Click here for more information](/education/#military-land).
 
 ### Etc.
 

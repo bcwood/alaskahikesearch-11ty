@@ -52,7 +52,7 @@ layout: layouts/hike.njk
 ---
 This wasn't high on my list but I had a Sunday free and wanted to get it on the site. I always thought it was the poor man's Twin Peaks and that there wasn't much to it.
 
-Another instance when this website prevented me from making a bad mistake (see [Hanging Valley](http://alaskahikesearch.com/hikes/hanging-valley/ "Hanging Valley")). This was a great hike! The views are incredible! And they get better and better as you reach the peak (or close to it as the last 300 feet are too rocky). You'll get great views of Eklutna Lake (the city's reservoir), both branches of Eklutna Glacier, Twin Peaks, and the surrounding Chugach Mountains. If you're lucky, you'll witness one of the largest herds of Dall Sheep in the State Park (I counted over 30 of them off in the distance). 
+Another instance when this website prevented me from making a bad mistake (see [Hanging Valley](/hikes/hanging-valley/ "Hanging Valley")). This was a great hike! The views are incredible! And they get better and better as you reach the peak (or close to it as the last 300 feet are too rocky). You'll get great views of Eklutna Lake (the city's reservoir), both branches of Eklutna Glacier, Twin Peaks, and the surrounding Chugach Mountains. If you're lucky, you'll witness one of the largest herds of Dall Sheep in the State Park (I counted over 30 of them off in the distance). 
 
 You'll work for the views as the entire hike is uphill, but anybody in reasonably good shape should be able to get to the top if they pace themselves. There are many switchbacks to help you reach the summit. If necessary, there are plenty of great overlooks to stop at.
 
@@ -64,13 +64,13 @@ Navigation Alert 2: The trail starts at the second bench, or the end of the Twin
 
 There are no water sources on the trail unless you want to take a quick hike onto the primitive trail of Twin Peaks to the creek (starts at the second bench on the left) before proceeding up. Depending on the time of the year, the creek may be dry or low so best to pack an adequate supply before hiking.
 
-Be careful on the [rocky parts of the trail](http://alaskahikesearch.com/education/#scree) especially at some of the steep inclines.
+Be careful on the [rocky parts of the trail](/education/#scree) especially at some of the steep inclines.
 
 A state campground exists at the trailhead on a first come, first serve basis. 
 
 ### Etc.
 
-Please go to the trail description for [Eklutna Lake](http://alaskahikesearch.com/hikes/eklutna-lake/ "Eklutna Lake") for more information about the entire area. There is a lot to do and see here. It's a great place to hang out.
+Please go to the trail description for [Eklutna Lake](/hikes/eklutna-lake/ "Eklutna Lake") for more information about the entire area. There is a lot to do and see here. It's a great place to hang out.
 
 There is a $5 parking fee (bring exact amount). The price for an annual parking pass is $60. You can purchase a pass at the Federal Building at 4th and F or the Atwood Building on 7th and E, 13th Floor. 
 

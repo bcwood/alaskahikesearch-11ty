@@ -49,7 +49,7 @@ If you're doing a day hike and intend on doing the entire loop, take the Skilak 
 
 Remember how you got to the lake shore from the trail loop as it may be hard to find it after exploring the shore.
 
-If you plan on [fishing](http://alaskahikesearch.com/education/#fishing), make sure you are educated on current regulations. Alaska takes wildlife management very seriously.
+If you plan on [fishing](/education/#fishing), make sure you are educated on current regulations. Alaska takes wildlife management very seriously.
 
 ### Etc.
 

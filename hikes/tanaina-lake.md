@@ -91,6 +91,6 @@ Calling the Fort Richardson Military Police would be a good idea. 907-284-0823. 
 
 ### Etc.
 
-Tanaina and the mountains leading to them are in military lands. You will need to get a permit to hike there and let them know. [Go here for more information](http://alaskahikesearch.com/education/#military-land).
+Tanaina and the mountains leading to them are in military lands. You will need to get a permit to hike there and let them know. [Go here for more information](/education/#military-land).
 
 There is no charge to park at the Basher Rd. parking area.

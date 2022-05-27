@@ -69,7 +69,7 @@ While this trail gets a lot of traffic, it's still a great place to go and for i
 
 Until you get to the bridge down in the valley, you are on private property. Stay on the trail and respect the owners.
 
-There are good spots to pitch a tent but you have to look. Drop your pack on the spine and take a good look around before you decide. Expect to get your feet wet if you head into the Eagle Lake Canyon; some parts are marshy. Frank Baker, who submitted the hike for [Flute Glacier](http://alaskahikesearch.com/hikes/flute-glacier/ "Flute Glacier"), suggests bringing tennis shoes to use till you get to the end of the canyon.
+There are good spots to pitch a tent but you have to look. Drop your pack on the spine and take a good look around before you decide. Expect to get your feet wet if you head into the Eagle Lake Canyon; some parts are marshy. Frank Baker, who submitted the hike for [Flute Glacier](/hikes/flute-glacier/ "Flute Glacier"), suggests bringing tennis shoes to use till you get to the end of the canyon.
 
 If traveling with your pooch, keep a jug of water and a bowl in your vehicle. There are no water sources (except boggy stuff), from the bridge to the trailhead. If it's a hot day, your dog will thank you.
 

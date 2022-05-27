@@ -48,7 +48,7 @@ layout: layouts/hike.njk
 ---
 The hike to the Suicide Peaks can be done by either taking the Rabbit Creek trail or McHugh trail.
 
-If you take Rabbit Creek, simply go straight for five miles in the valley, passing [Flat Top](http://alaskahikesearch.com/hikes/flat-top/ "Flat Top"), Peaks One, Two, and Three, and [Ptarmigan Peak](http://alaskahikesearch.com/hikes/ptarmigan-peak/ "Ptarmigan Peak"), all of which are on your left. The Suicide Peaks come in to view after the first mile or so, but it will take a while to get to them.
+If you take Rabbit Creek, simply go straight for five miles in the valley, passing [Flat Top](/hikes/flat-top/ "Flat Top"), Peaks One, Two, and Three, and [Ptarmigan Peak](/hikes/ptarmigan-peak/ "Ptarmigan Peak"), all of which are on your left. The Suicide Peaks come in to view after the first mile or so, but it will take a while to get to them.
 
 If climbing North Suicide (the one on the left), simply pick a path and climb it straight up. It will be a scramble in the summer and your biggest challenge will be fighting the scree up it. To descend, either go down the way you came up, or descend to the saddle (the middle point between North and South Suicide). Climb up South until you reach an obvious couloirs just below the "Thumb", a pointy rock sticking from South.
 

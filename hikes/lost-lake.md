@@ -98,7 +98,7 @@ Be aware of optical illusions. A lot of destinations look like they’re just ov
 
 ### Etc.
 
-The backcountry area around Lost Lake is really beautiful, and you could easily spend several days just hiking around that area. For more information, check out the [Lost Lake Backcountry](http://alaskahikesearch.com/hikes/lost-lake-backcountry/ "Lost Lake Backcountry") hike page.
+The backcountry area around Lost Lake is really beautiful, and you could easily spend several days just hiking around that area. For more information, check out the [Lost Lake Backcountry](/hikes/lost-lake-backcountry/ "Lost Lake Backcountry") hike page.
 
 The Primrose State Campground is really nice. I like to sleep in the back of my truck with it backed up to the shore of Kenai Lake the night before I start hiking.
 

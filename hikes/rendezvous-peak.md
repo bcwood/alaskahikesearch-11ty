@@ -73,13 +73,13 @@ You have 2 options for where to start this hike, with pretty widely varying degr
 
 *From the Arctic Valley side:* the trail is a relatively easy (kid and dog friendly) walk up. It is lined with berries in August. In the winter it is a great cross-country ski trail that will challenge at times. I believe that mountain bikes are allowed although I did not see any tracks. I am unsure of camping restrictions.
 
-*From the Eagle River side:* this is a great cardio workout for people who live in Eagle River. As you head up to the saddle, there are great views of the South Fork Valley with distant glimpses of [Eagle and Symphony Lakes](http://alaskahikesearch.com/hikes/eagle-and-symphony-lakes/). If you want to make it a quick and easy hike, continue across the saddle for pretty decent views of Arctic Valley and Anchorage. If you have the time and the endurance, take the trail on the right and head up to the ridge line and continue until you reach the peak. To get to the actual ridge can be a little tough in places but just make it to the ridge and the rest is easy. On a really clear day you should be able to see Sleeping Lady and the Alaska Range but I've yet to confirm this on the two cloudy days I've gone. Theoretically, you could continue right to Alpenglow into Arctic Valley but for me, the logistics of two cars wouldn't be worth it.
+*From the Eagle River side:* this is a great cardio workout for people who live in Eagle River. As you head up to the saddle, there are great views of the South Fork Valley with distant glimpses of [Eagle and Symphony Lakes](/hikes/eagle-and-symphony-lakes/). If you want to make it a quick and easy hike, continue across the saddle for pretty decent views of Arctic Valley and Anchorage. If you have the time and the endurance, take the trail on the right and head up to the ridge line and continue until you reach the peak. To get to the actual ridge can be a little tough in places but just make it to the ridge and the rest is easy. On a really clear day you should be able to see Sleeping Lady and the Alaska Range but I've yet to confirm this on the two cloudy days I've gone. Theoretically, you could continue right to Alpenglow into Arctic Valley but for me, the logistics of two cars wouldn't be worth it.
 
 Another option is to take a left at the saddle and head up to the other mountain ridge. I plan on checking it out the next time as it's a trail less traveled (and I've heard sometimes that can make all the difference).
 
 ### Important Information
 
-If doing this hike early in the season, it is imperative that you are educated about [avalanches](http://alaskahikesearch.com/education/#avalanche) and how to determine the risk. If there is too much snow on the ridge, do not attempt.
+If doing this hike early in the season, it is imperative that you are educated about [avalanches](/education/#avalanche) and how to determine the risk. If there is too much snow on the ridge, do not attempt.
 
 *From the Arctic Valley side:*
 

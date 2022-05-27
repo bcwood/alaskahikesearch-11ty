@@ -69,7 +69,7 @@ trailheads:
 tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
-I had known about this hike for about 3 years before I ventured over from my usual route to [Eagle and Symphony Lakes](http://alaskahikesearch.com/hikes/eagle-and-symphony-lakes/ "Eagle and Symphony Lakes"). The lakes are such a great destination and it seemed like a waste to sidetrack to what I thought was a basic, seen it before, glacial valley. But since I started this site, I decided to do it so I could add to the number of hikes already online.
+I had known about this hike for about 3 years before I ventured over from my usual route to [Eagle and Symphony Lakes](/hikes/eagle-and-symphony-lakes/ "Eagle and Symphony Lakes"). The lakes are such a great destination and it seemed like a waste to sidetrack to what I thought was a basic, seen it before, glacial valley. But since I started this site, I decided to do it so I could add to the number of hikes already online.
 
 Well! I'm glad I started this website because I would have never discovered this really cool valley if I didn't.
 
@@ -109,7 +109,7 @@ If traveling with your pooch, keep a jug of water and a bowl in your vehicle. Th
 
 ### Etc.
 
-If you look at [this photo](../img/hikes/eagle-symphony-lakes-8.jpg) from the [Eagle & Symphony Lakes](http://alaskahikesearch.com/hikes/eagle-and-symphony-lakes/ "Eagle and Symphony Lakes") hike, it's the other side of Hurdy Gurdy Mountain. It's an interesting contrast between the two sides.
+If you look at [this photo](../img/hikes/eagle-symphony-lakes-8.jpg) from the [Eagle & Symphony Lakes](/hikes/eagle-and-symphony-lakes/ "Eagle and Symphony Lakes") hike, it's the other side of Hurdy Gurdy Mountain. It's an interesting contrast between the two sides.
 
 ### Finding the Trailhead
 

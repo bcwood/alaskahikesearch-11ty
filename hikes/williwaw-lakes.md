@@ -68,7 +68,7 @@ There are very few places to secure your food. You may want to consider a bear c
 
 If you do the loop with the Campbell Creek Canyon Trail and Near Point, I would recommend starting with Williwaw. The pass at the Long Lake side is very steep and rocky and you need to be careful. I would rather come down it then go up it. Also, be sure you understand how to read a topo map for finding the way up Near Point to the trail. I wasn't paying attention and had to do a lot of bushwhacking before I got back on track.
 
-The pass to get to Long Lake and the Long Lake area itself is on military land. You will need to get a permit to hike there and let them know. [Go here for more information](http://alaskahikesearch.com/education/#military-land).
+The pass to get to Long Lake and the Long Lake area itself is on military land. You will need to get a permit to hike there and let them know. [Go here for more information](/education/#military-land).
 
 ### Etc.
 

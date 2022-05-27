@@ -58,7 +58,7 @@ Many residents on the east side of Anchorage access the lower part of the trail 
 
 The Pass to the end at the Seward Highway does not get the crowds that the other sections get so head there for more solitude. 
 
-There is a good chance of seeing [moose](http://alaskahikesearch.com/education/#moose) and dall sheep. A few times, I have seen coyotes.
+There is a good chance of seeing [moose](/education/#moose) and dall sheep. A few times, I have seen coyotes.
 
 ### Important Information
 

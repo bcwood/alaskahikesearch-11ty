@@ -28,7 +28,7 @@ To get here you must hike part of Snowhawk Creek Trail starting on Ft Richardson
 
 Other then the usual restrictions regarding Ft Rich, this area is awesome. It is a fairly easy hike (I did it in March with snow shoes) however there is some bushwhacking involved. Once on top of the saddle there is a rim which makes it an easy ascent up the southern, higher hill (elevation 3990). The northern edge of Ship Creek Hill is very steep and is one of the dominating hills that can be seen from the Ship Creek area. It is one of those hills that screams "climb me". Land navigation is fairly easy however you must be careful not to overshoot Snowhawk Creek Trail on the way back or else you will have to do some backtracking (the best bet is mark the trail on your GPS). This is a great first "off trail" hike to test your back country skills without a lot of the worry.
 
-The trail is on military land. You will need to get a permit to hike there and let them know. [Go here for more information](http://alaskahikesearch.com/education/#military-land).
+The trail is on military land. You will need to get a permit to hike there and let them know. [Go here for more information](/education/#military-land).
 
 ### Etc.
 

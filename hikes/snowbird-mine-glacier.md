@@ -55,7 +55,7 @@ layout: layouts/hike.njk
 We took this hike as an overnight trip to the mine with a side trip to the glacier. The area just above the mine is very flat and a good place for camping. There is plenty of room for exploration, with a mine entrance on the hillside and a hanging valley with a lake in it.
 The trip up to the glacier is not incredibly difficult, but the trail was easy to lose as you are making your way through a boulder field. We ended up going off to the right in the valley, and hanging off the side of some pretty steep sections. Oops. So if you're going up to the glacier, stick to the left (south) side of the valley.
 
-Snowbird glacier is really a glacier remnant, so not as impressive as [Exit Glacier](http://alaskahikesearch.com/hikes/exit-glacier-and-harding-icefield/ "Exit Glacier & Harding Icefield") or such. I really liked exploring the area and seeing what's left of the mine.
+Snowbird glacier is really a glacier remnant, so not as impressive as [Exit Glacier](/hikes/exit-glacier-and-harding-icefield/ "Exit Glacier & Harding Icefield") or such. I really liked exploring the area and seeing what's left of the mine.
 
 It's a pretty easy hike with a couple steep bits. A good trip to bring people who are in shape but not familiar with Alaska backpacking. Of course, it can get windy and cold so the right gear is a must (just like any Alaska hike).
 

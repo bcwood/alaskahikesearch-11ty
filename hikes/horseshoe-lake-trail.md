@@ -29,4 +29,4 @@ A beaver dam is at the end of the trail.
 
 ### Etc.
 
-*Webmaster's note:* there are 4 trail hikes at the front of the park. Info for this one and [Mt. Healy](http://alaskahikesearch.com/hikes/mt-healy/ "Mt. Healy") are on this site.
+*Webmaster's note:* there are 4 trail hikes at the front of the park. Info for this one and [Mt. Healy](/hikes/mt-healy/ "Mt. Healy") are on this site.

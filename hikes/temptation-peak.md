@@ -73,4 +73,4 @@ Getting to the trailhead: take Arctic Valley Rd from northbound on the Glenn Hig
 
 There's a split in the road shortly after the bridge. Take the left road. You'll soon end up at a fenced in dam of what I believe is Ship Creek. The trail is on the right just before you get to this small parking area and heads immediately up a small hill.
 
-Temptation Trail is on military land. You will need to get a permit to hike there and let them know. [Go here for more information](http://alaskahikesearch.com/education/#military-land).
+Temptation Trail is on military land. You will need to get a permit to hike there and let them know. [Go here for more information](/education/#military-land).

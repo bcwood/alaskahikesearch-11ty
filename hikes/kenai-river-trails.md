@@ -47,11 +47,11 @@ Don't bother with the primitive trail off the west end that heads toward Hidden 
 
 ### Important Information
 
-If you plan on [fishing](http://alaskahikesearch.com/education/#fishing), make sure you're educated about the rules and regulations for the area.
+If you plan on [fishing](/education/#fishing), make sure you're educated about the rules and regulations for the area.
 
-[BEARS!](http://alaskahikesearch.com/education/#bears) Be very careful on this trail, especially during salmon season and autumn, as there are a lot of them about. As I said above, many parts of the trail are overgrown and visibility ahead is severely restricted. I had a very close encounter with a grizzly that I'm lucky didn't turn ugly.
+[BEARS!](/education/#bears) Be very careful on this trail, especially during salmon season and autumn, as there are a lot of them about. As I said above, many parts of the trail are overgrown and visibility ahead is severely restricted. I had a very close encounter with a grizzly that I'm lucky didn't turn ugly.
 
-Keep yourself [oriented](http://alaskahikesearch.com/education/#navigation). There are a lot of game trails and it's easy to get confused. If in doubt, head away from the river and you'll hit the road eventually.
+Keep yourself [oriented](/education/#navigation). There are a lot of game trails and it's easy to get confused. If in doubt, head away from the river and you'll hit the road eventually.
 
 In the overgrown sections, be careful of the roots sticking out that may cause you to trip.
 

@@ -40,7 +40,7 @@ trailheads: []
 tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
-A friend and I were all set to do the whole traverse Memorial Day 2001 but there was still a ton of snow and after 2 miles of serious [post holing](http://alaskahikesearch.com/education/#post-holing) on the Cooper Landing side, we hightailed it to [Caines Head](http://alaskahikesearch.com/hikes/caines-head-trail/ "Caines Head Trail") instead. Flash forward to Memorial Day 2003 and I finally finished what I started.
+A friend and I were all set to do the whole traverse Memorial Day 2001 but there was still a ton of snow and after 2 miles of serious [post holing](/education/#post-holing) on the Cooper Landing side, we hightailed it to [Caines Head](/hikes/caines-head-trail/ "Caines Head Trail") instead. Flash forward to Memorial Day 2003 and I finally finished what I started.
 
 This time I started from the Russian River side. The first place you'll want to make camp is Upper Russian Lake which is 12 miles. Even though this is already a schlep, you should make the side trip to the falls even though it will add a couple of miles. The view is worth the distance. There is very little elevation gain to get to the Upper Lake and you have hours and hours of sunlight to get there. 
 
@@ -70,9 +70,9 @@ The trail has been completely repaired since the flood a few years back and the 
 
 ### Important Information
 
-While you should always be [bear safety](http://alaskahikesearch.com/education/#bears) conscious wherever you go in Alaska, it is definitely imperative that you go the extra mile around here. 
+While you should always be [bear safety](/education/#bears) conscious wherever you go in Alaska, it is definitely imperative that you go the extra mile around here. 
 
-If you're going to try to catch one of those tasty salmon, make sure you are educated about [regulations and licenses](http://alaskahikesearch.com/education/#fishing).
+If you're going to try to catch one of those tasty salmon, make sure you are educated about [regulations and licenses](/education/#fishing).
 
 If you plan on doing the hike in May, you may want to consider snowshoes and poles just in case.
 
@@ -80,4 +80,4 @@ There is a huge state campground across the street from the trailhead. For infor
 
 ### Etc.
 
-The best way to hike this in the winter is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, go [here](http://alaskahikesearch.com/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").
+The best way to hike this in the winter is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, go [here](/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").

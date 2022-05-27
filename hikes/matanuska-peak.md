@@ -37,4 +37,4 @@ Began this hike at the McRoberts Creek Trailhead, then take the left fork and fo
 
 ### Important Information
 
-There is a lot of [scree](http://alaskahikesearch.com/education/#scree) on this hike, I would recommend wearing gaiters.
+There is a lot of [scree](/education/#scree) on this hike, I would recommend wearing gaiters.

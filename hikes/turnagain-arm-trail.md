@@ -57,7 +57,7 @@ A better way to see Turnagain Arm is either biking along the Seward Highway or t
 
 McHugh Park has a great picnic area with great views as well as grills and bathrooms. I recommend a picnic and then a hike after hamburgers as a family outing with young kids.
 
-Some of the locals refer to this as the Old Johnson Trail (not to be confused with [Johnson Pass](http://alaskahikesearch.com/hikes/johnson-pass/ "Johnson Pass")).
+Some of the locals refer to this as the Old Johnson Trail (not to be confused with [Johnson Pass](/hikes/johnson-pass/ "Johnson Pass")).
 
 ### Etc.
 

@@ -53,7 +53,7 @@ Easy walk to Eagle Lake, then skirt left-hand side of lake for about two miles -
 
 ### Important Information
 
-After skirting [Eagle Lake](http://alaskahikesearch.com/hikes/eagle-and-symphony-lakes/ "Eagle and Symphony Lakes"), remove hiking boots, socks, and put on tennis shoes. This will allow you to take the easiest route along the stream to the end of the valley, crossing the small stream several times and walking on gravel bars. Once you walk the mile to the head of the valley, before you ascend into the canyon, remove tennis shoes, and put on hiking boots with nice, dry, warm socks! Leave tennis shoes there - nobody will take them, at least, no one would ever take MINE!
+After skirting [Eagle Lake](/hikes/eagle-and-symphony-lakes/ "Eagle and Symphony Lakes"), remove hiking boots, socks, and put on tennis shoes. This will allow you to take the easiest route along the stream to the end of the valley, crossing the small stream several times and walking on gravel bars. Once you walk the mile to the head of the valley, before you ascend into the canyon, remove tennis shoes, and put on hiking boots with nice, dry, warm socks! Leave tennis shoes there - nobody will take them, at least, no one would ever take MINE!
 
 Water is plentiful but build in lots of time because it's a 24-mile round trip if you decide not to camp at Eagle and/or Symphony Lake. Winds can really rip through the canyon so be prepared with protective clothing.
 

@@ -64,7 +64,7 @@ Bring a walking stick as the ridges can be slippery and sometimes icy. Needless 
 
 There are not too many sites to set up camp; do a little planning ahead use the hut. If you go during a weekday, you'll have a better chance of insuring a space.
 
-There are no official trail maps of the area. You will need to buy a topo map (USGS Anchorage D). A list of stores in Anchorage that sell them can be found on the [Education](http://alaskahikesearch.com/education/#maps) page.
+There are no official trail maps of the area. You will need to buy a topo map (USGS Anchorage D). A list of stores in Anchorage that sell them can be found on the [Education](/education/#maps) page.
 
 ### Etc.
 
@@ -72,7 +72,7 @@ The parking fee is $5 (bring exact amount). The price for an annual parking pass
 
 This hike is in the Hatcher Pass area. Heading up the road to go over the Pass is worth the time after you're finished hiking.
 
-The best way to hike this in the winter is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, go [here](http://alaskahikesearch.com/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").
+The best way to hike this in the winter is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, go [here](/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").
 
-* Special section on alternate route to Reed Lake - [Mint Valley to Reed Lake](http://alaskahikesearch.com/hikes/mint-valley-to-reed-lake/ "Mint Valley to Reed Lake")
-* Special section on [Mint Bomber Traverse](http://alaskahikesearch.com/hikes/mint-bomber-traverse/ "Mint Bomber Traverse")
+* Special section on alternate route to Reed Lake - [Mint Valley to Reed Lake](/hikes/mint-valley-to-reed-lake/ "Mint Valley to Reed Lake")
+* Special section on [Mint Bomber Traverse](/hikes/mint-bomber-traverse/ "Mint Bomber Traverse")

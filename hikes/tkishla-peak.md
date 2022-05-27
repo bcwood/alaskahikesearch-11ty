@@ -60,7 +60,7 @@ Go now.
 
 ### Important Information
 
-T'Kishla is on military land. You will need to get a permit to hike there and let them know. [Go here for more information](http://alaskahikesearch.com/education/#military-land).
+T'Kishla is on military land. You will need to get a permit to hike there and let them know. [Go here for more information](/education/#military-land).
 
 ### Etc.
 

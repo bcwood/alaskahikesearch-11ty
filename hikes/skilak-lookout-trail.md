@@ -45,7 +45,7 @@ This would be a great hike to pack a lunch along with your camera.
 
 ### Important Information
 
-There are a lot of [bears](http://alaskahikesearch.com/education/#bears) in the area, especially during salmon season. Don't forget to make noise and be vigilant.
+There are a lot of [bears](/education/#bears) in the area, especially during salmon season. Don't forget to make noise and be vigilant.
 
 The lookout is very windy. Be sure to bring adequate clothing.
 

@@ -64,7 +64,7 @@ The scenery is beautiful and 360°. You'll also get a lot more solitude as most 
 
 Surprisingly, there were still ripe blueberries for the picking.
 
-Knoya is in [military lands](http://alaskahikesearch.com/education/#military-land). You will need to get a permit to hike there and let them know.
+Knoya is in [military lands](/education/#military-land). You will need to get a permit to hike there and let them know.
 
 ### Important Information
 

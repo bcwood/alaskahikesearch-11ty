@@ -46,11 +46,11 @@ Once you start hiking along the lake, you're committed: there are no good sites 
 
 If you're only going to the west end of the lake, hook around the corner. There are great sites at the mouth of the creek. 
 
-There are fish in the lake; make sure you are educated about [fishing regulations](http://alaskahikesearch.com/education/#fishing) for this area if you are so inclined.
+There are fish in the lake; make sure you are educated about [fishing regulations](/education/#fishing) for this area if you are so inclined.
 
 Be aware of hunters in search of bear in early season.
 
-Also in early season, be [avalanche aware](http://alaskahikesearch.com/education/#avalanche) along the mountainside part of the trail. I saw the aftermath of a huge one the first time I hiked this trail. It was nothing but a huge wide gash in the mountain of mud and ice.
+Also in early season, be [avalanche aware](/education/#avalanche) along the mountainside part of the trail. I saw the aftermath of a huge one the first time I hiked this trail. It was nothing but a huge wide gash in the mountain of mud and ice.
 
 **The following was added June 5, 2007:**
 

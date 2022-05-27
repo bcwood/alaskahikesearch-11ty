@@ -59,7 +59,7 @@ If I could only use one word to describe this hike, it would be lush. With the e
 
 If you start from the north, most of the trail to the pass follows Johnson and Bench Rivers with sturdy bridges when you need to cross them. They are huge and beautiful water systems. At one point the water flows through a deep rock cut chasm culminating in an incredible waterfall. There are also other huge waterfalls coming down many of the surrounding mountains. The middle of the trail is dominated by Bench Lake and Johnson Lake where many people fish for graylings.
 
-However, the trail's strengths are also its weaknesses. All this lushness and water really brings the bugs out. There are numerous mosquitoes, no-see-ums, and black flies so make sure you bring the DEET. Another annoyance is the growth along the trail, where in some parts it's as high as your head. One time, during a bike ride, I brushed some [devil's club](http://alaskahikesearch.com/education/#devils-club), a weed that leaves itchy irritating tiny needles on you. Needless to say, don't bike shirtless. There is also a lot of [cow parsnip](http://alaskahikesearch.com/education/#cow-parsnip). Best to wash any exposed areas of skin when you get to the lakes to avoid a rash. My opinion is that to really enjoy this hike, you need to do it in the small window of opportunity of the last weeks of June when the snow has melted but the greenery is just starting out..
+However, the trail's strengths are also its weaknesses. All this lushness and water really brings the bugs out. There are numerous mosquitoes, no-see-ums, and black flies so make sure you bring the DEET. Another annoyance is the growth along the trail, where in some parts it's as high as your head. One time, during a bike ride, I brushed some [devil's club](/education/#devils-club), a weed that leaves itchy irritating tiny needles on you. Needless to say, don't bike shirtless. There is also a lot of [cow parsnip](/education/#cow-parsnip). Best to wash any exposed areas of skin when you get to the lakes to avoid a rash. My opinion is that to really enjoy this hike, you need to do it in the small window of opportunity of the last weeks of June when the snow has melted but the greenery is just starting out..
 
 About half the people using the trail are bikers and I don't blame them. This is probably one of the best mountain biking trails in the state. I went in 8 miles one summer and it was a thrilling experience. To be able to have vehicles at each end and bike the entire trail in one day would be a great experience for any mountain biker at any level of experience.
 
@@ -71,13 +71,13 @@ This is a fine trail for winter and many people use it for cross country skiing.
 
 There are not a lot of campsites at Bench Lake. Plan on staying at Johnson Lake. The best sites are on the other side, across from the trail where it is flatter with less vegetation. The 2 designated camping areas on the southern portion are less than desirable. The first one is amid cut down trees and totally takes away from a wilderness experience. Check the ground carefully where you plan on setting up your tent. What looked dry to me was totally soaked a few inches down in the lushness.
 
-There are frequent sightings of [bears](http://alaskahikesearch.com/education/#bears) on the trail. Bikers should definitely be cautious under canopy and rounding corners. Luckily there are plenty of trees to hang your food from.
+There are frequent sightings of [bears](/education/#bears) on the trail. Bikers should definitely be cautious under canopy and rounding corners. Luckily there are plenty of trees to hang your food from.
 
 Be aware that this section of the Chugach gets an incredible amount of snow and if we've had a heavy winter, it may not melt until late June. 
 
 I would advise filtering your water at the lakes as they do not have a strong flow to them and much of the water lies stagnant.
 
-Remember to educate yourself on [fishing regulations](http://alaskahikesearch.com/education/#fishing) if you plan on trying your luck.
+Remember to educate yourself on [fishing regulations](/education/#fishing) if you plan on trying your luck.
 
 On the northern side, the bridges are a great way of judging your pace and distance. From the north trailhead to Johnson Lake, there are 6 bridges which divides this part of the trail into 7 sections. They are almost equidistant so at bridge 3, you're almost halfway there. Plan on lunch at this point and check out the huge waterfall in the distance. You'll find the really cool chasm after bridge 5.
 

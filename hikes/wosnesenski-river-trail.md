@@ -43,7 +43,7 @@ layout: layouts/hike.njk
 ---
 *I'm about to trash this trail and I do it with a heavy heart. I feel bad because I know that the Park is doing the best they can with limited resources. All trail work is being done with volunteers and it is a major uphill battle with all the dead spruce due to the the spruce bark beetle infestation. I need to be honest for visitors, but for residents, let this be a call to us to make our state government give more to our parks. With oil at $60+ a barrel, now is the time to upgrade!*
 
-Last year, I did the [Grewingk Valley](http://alaskahikesearch.com/hikes/grewingk-valley/ "Grewingk Valley") and had a great time. This year, I was very excited to check out the trails south of Halibut Cove. My plan was to spend 4 full days, with day 1 on this trail, day 2 exploring Poot Peak, day 3 the Moose Valley Trail, and ending with the China Poot Lake Trail with a quick loop around the Coalition Trail.
+Last year, I did the [Grewingk Valley](/hikes/grewingk-valley/ "Grewingk Valley") and had a great time. This year, I was very excited to check out the trails south of Halibut Cove. My plan was to spend 4 full days, with day 1 on this trail, day 2 exploring Poot Peak, day 3 the Moose Valley Trail, and ending with the China Poot Lake Trail with a quick loop around the Coalition Trail.
 
 The first day I got dropped off on the beach. The scenery was beautiful, not a cloud in the sky, and I was really psyched for the day ahead. Off in the distance, I saw the orange trail marker and headed across the tidal flats to get to it. The first part of the trail is an old utility trail and I thought in one mile, I'll be walking close to the river, a classic braided one, silted from the still present grinding glacier. I wasn't on the road for more than 2 minutes when a safe distance up the road, I saw a sow bear and her 2 cubs cross the trail, a good reminder in the beginning to stay alert in this primitive area.
 
@@ -51,9 +51,9 @@ Instead of going to the river, after the road, the trail proper goes into the wo
 
 Toward the last part of the trail, before you head up to China Poot Lake, you'll switchback up over a ridge. 3 times here, I lost the trail and luckily was able to find it again but with a lot of scratches over me. After coming down the ridge, I finally was able to hang out on the river bank and set up my first night of camp. This made up for a lot of the crappy hiking as I had the perfect spot. I was right by the river on a nice soft sandy spot with a sweeping view of the river valley, Poot Peak, and the Wosnesenski Glacier off in the distance. I set up camp and relaxed for the rest of the day and night reading, napping and just mellowing out.
 
-The next day, I headed into more overgrown trail, got lost a few times and when I got to the intersection of [China Poot Lake Trail](http://alaskahikesearch.com/hikes/china-poot-lake-trail/ "China Poot Lake Trail") and the Southern Route to Poot Peak, I decided 3 more days of this wasn't worth it and took the China Poot Lake Trail straight to the public dock and took the next water taxi back to Homer.
+The next day, I headed into more overgrown trail, got lost a few times and when I got to the intersection of [China Poot Lake Trail](/hikes/china-poot-lake-trail/ "China Poot Lake Trail") and the Southern Route to Poot Peak, I decided 3 more days of this wasn't worth it and took the China Poot Lake Trail straight to the public dock and took the next water taxi back to Homer.
 
-So, on the plus side, the camping was great but it really wasn't worth it to deal with the trail. Braided rivers are great to hike near and around and if this is something you want to do, you're much better off with [Eagle River](http://alaskahikesearch.com/hikes/eagle-river/ "Eagle River") or various trails north of Nebesna Road where you'll spend more time actually enjoying the river (plus saving yourself the water taxi fee).
+So, on the plus side, the camping was great but it really wasn't worth it to deal with the trail. Braided rivers are great to hike near and around and if this is something you want to do, you're much better off with [Eagle River](/hikes/eagle-river/ "Eagle River") or various trails north of Nebesna Road where you'll spend more time actually enjoying the river (plus saving yourself the water taxi fee).
 
 ### Important Information
 
@@ -67,9 +67,9 @@ Be prepared that if adverse weather conditions occur, the driver may not be able
 
 Obviously, you need to pay attention when on this trail. If you feel you went off trail, head back 10 or 20 feet and try again; you can usually pick it right back up.
 
-There was [bear](http://alaskahikesearch.com/education/#bears) scat everywhere! Make sure you hang up your food, don't eat near camp, and make lots of noise on the trail.
+There was [bear](/education/#bears) scat everywhere! Make sure you hang up your food, don't eat near camp, and make lots of noise on the trail.
 
-[Devil's club](http://alaskahikesearch.com/education/#devils-club) and [cow parsnip](http://alaskahikesearch.com/education/#cow-parsnip) are all over the the trail. Better to wear long pants and if you're short, you may want a long sleeve shirt as well.
+[Devil's club](/education/#devils-club) and [cow parsnip](/education/#cow-parsnip) are all over the the trail. Better to wear long pants and if you're short, you may want a long sleeve shirt as well.
 
 ### Etc.
 

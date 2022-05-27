@@ -49,7 +49,7 @@ Bill Kent, Supv. Park Ranger for the [Kenai Wildlife Refuge](http://kenai.fws.go
 
 If coming from the southern side (starting with Engineer Lake), you will come across a fork; take the left one. The right fork leads to a cabin and the shoreline.
 
-If you plan on [fishing](http://alaskahikesearch.com/education/#fishing), make sure you are educated on current regulations. Alaska takes wildlife management very seriously. 
+If you plan on [fishing](/education/#fishing), make sure you are educated on current regulations. Alaska takes wildlife management very seriously. 
 
 The Trail can get very muddy in sections if rain and probably should be avoided during breakup.
 

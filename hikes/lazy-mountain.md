@@ -43,4 +43,4 @@ Although the trail isn't that long, I do recommend you be in shape. There aren't
 
 This is the closest day hike to Palmer that I know of.
 
-*Webmaster's Note: I urge you to check out Dan's website ([AKTrailhead.com](http://AKTrailhead.com)). No two people are alike and if you are viewing this site for vacation planning purposes, Dan's site can give you extra information and opinions that may not be on my site. Also, his site has great pics and his information is well organized. For other websites that cover hiking in Alaska, [go here](http://alaskahikesearch.com/alaska-hiking-links/).*
+*Webmaster's Note: I urge you to check out Dan's website ([AKTrailhead.com](http://AKTrailhead.com)). No two people are alike and if you are viewing this site for vacation planning purposes, Dan's site can give you extra information and opinions that may not be on my site. Also, his site has great pics and his information is well organized. For other websites that cover hiking in Alaska, [go here](/alaska-hiking-links/).*

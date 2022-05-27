@@ -107,7 +107,7 @@ If you're going to stay at the huts and using a sled, bring wood. I don't know i
 
 The reason why I haven't done the whole thing is because I haven't found someone who would want to do it with me so we can drop a car off at the other end. Your other alternatives are turning back or hiring a driver.
 
-If you're hiking in winter, please educate yourself about [hypothermia](http://alaskahikesearch.com/education/#hypothermia).
+If you're hiking in winter, please educate yourself about [hypothermia](/education/#hypothermia).
 
 *The following was added May 3, 2005:*
 
@@ -115,7 +115,7 @@ I've been backpacking up in Alaska for over 5 years and fortunately have experie
 
 As I was hiking this weekend, I did notice bear scat on the trail. The trail is very straight so since I could see way ahead of me, I didn't feel it was necessary to shout and make noise but did make sure I was always looking ahead. After a few miles of this, I started drifting into my own little world and started daydreaming. I turned a corner and there stood a black bear drinking at a stream. Not more than 10 feet from him, I let out an *"Oh S***!"*. The bear was surprised!, and luckily was scared too and took off within seconds. I continued on the trail to the cabin and it wasn't till I was settled in, with the adrenaline wearing off, that I realized how lucky I was that the bear ran instead of attacked. 
 
-So please! When in forest or limited visibility, stay in your hiking world and pay attention! For further info about bears, [go here](http://alaskahikesearch.com/education/#bears).
+So please! When in forest or limited visibility, stay in your hiking world and pay attention! For further info about bears, [go here](/education/#bears).
 
 There is a new shuttle service for transportation to and from the trailheads: [Girdwood Shuttle, Tours and Transportation](http://www.girdwoodshuttle.com/shuttles.html)
 
@@ -123,4 +123,4 @@ There is a new shuttle service for transportation to and from the trailheads: [G
 
 For great information on winter camping, I recommend the book *Winter Camping, 2nd Edition* by Stephen Gorman (Appalachian Mountain Club Books) 1999.
 
-The best way to hike this in the winter is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, [go here](http://alaskahikesearch.com/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").
+The best way to hike this in the winter is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, [go here](/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").

@@ -43,7 +43,7 @@ trailheads:
 tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
-After Dan submitted [Baldy](http://alaskahikesearch.com/hikes/mt-baldy/ "Mt. Baldy") to me last year, I've been itching to check it out and proceed further on to the other mountains nearby. I finally had a chance last weekend to check some out.
+After Dan submitted [Baldy](/hikes/mt-baldy/ "Mt. Baldy") to me last year, I've been itching to check it out and proceed further on to the other mountains nearby. I finally had a chance last weekend to check some out.
 
 This was a relatively easy hike and I'm really glad I did it. Black Tail looks really intimidating from a distance but I was up by the rocks in no time. As you go up, The views are really spectacular and you can really see into the glacial valleys that comprise the Eagle River area. Besides that, you have great views of Knik Arm and if it had been sunny when I went, Denali and the Alaska Range, Sleeping Lady and Cook Inlet. When you get to the top, there are really great views of Mt. Magnificent and Round Top in the clefts of the big rocks on top.
 
@@ -61,4 +61,4 @@ There are some minor parts on top that require careful footing. Pay attention!
 
 ### Finding the Trailhead
 
-The trailhead for Black Tail is the same as for [Mt. Baldy](http://alaskahikesearch.com/hikes/mt-baldy/), found at the top of Skyline Drive in Eagle River. A new parking area was built in 2009 that can accommodate many more vehicles than previously.
+The trailhead for Black Tail is the same as for [Mt. Baldy](/hikes/mt-baldy/), found at the top of Skyline Drive in Eagle River. A new parking area was built in 2009 that can accommodate many more vehicles than previously.

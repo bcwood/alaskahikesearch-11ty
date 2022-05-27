@@ -35,9 +35,9 @@ I was very surprised on what a nice hike it was. For those who know this site, y
 
 ### Important Information
 
-Not doable in winter due to high [avalanche](http://alaskahikesearch.com/education/#avalanche) danger.
+Not doable in winter due to high [avalanche](/education/#avalanche) danger.
 
-[Black bear](http://alaskahikesearch.com/education/#bears) habitat.
+[Black bear](/education/#bears) habitat.
 
 There are some parts of the trail that skirt the edge of high cliffs which commands caution if bringing small children.
 

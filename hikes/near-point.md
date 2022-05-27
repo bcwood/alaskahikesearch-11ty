@@ -53,7 +53,7 @@ layout: layouts/hike.njk
 ---
 f you don't have enough time and/or energy to do Wolverine, Near Point is a fine hike to get some good views of the area including Anchorage, the Alaska Range, Denali, Mt. Susitna (Sleeping Lady), Wolverine Peak and Canyon Creek. It makes a great hike right after work if you live in Anchorage. If you're visiting, make the extra effort and hike Wolverine. 
 
-You can also head down the other side of the mountain to Long Lake at the end of the [Campbell Creek Canyon Trails](http://alaskahikesearch.com/hikes/campbell-creek-canyon-trail/ "Campbell Creek Canyon Trail") as well as create a loop hike with Williwaw. 
+You can also head down the other side of the mountain to Long Lake at the end of the [Campbell Creek Canyon Trails](/hikes/campbell-creek-canyon-trail/ "Campbell Creek Canyon Trail") as well as create a loop hike with Williwaw. 
 
 ### Important Information
 

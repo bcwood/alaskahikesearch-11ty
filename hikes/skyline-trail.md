@@ -39,7 +39,7 @@ layout: layouts/hike.njk
 ---
 This trail is located on the Sterling Highway near Cooper Landing. (I'm surprised this hike wasn't already listed, since it's fairly popular)
 
-There is a sign at the beginning of the trail that briefly describes what may be encountered. [Bears](http://alaskahikesearch.com/education/#bears) are a very real possibility, especially in the fall. The sign also describes the hike as very strenuous, which I can agree with.
+There is a sign at the beginning of the trail that briefly describes what may be encountered. [Bears](/education/#bears) are a very real possibility, especially in the fall. The sign also describes the hike as very strenuous, which I can agree with.
 
 From the Sterling Hwy, the trail rises rapidly. The elevation rises 1600 feet from beginning to end. I'm not sure what to believe on actual trail length, since the sign says 1 mile and hikers have clocked 2+ miles. Either way, it's a steep trail at times.
 

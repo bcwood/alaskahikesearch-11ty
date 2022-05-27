@@ -129,9 +129,9 @@ Understanding topo maps for this hike can get confusing. I found it hard to matc
 
 As stated above, there are no really good places to camp at Skinny Lake, not to mention the surrounding vegetation. You will have to head back up mountain. Plan accordingly. If you were doing 3 days, I would do first night before Ermine Hill and second night the 3 tarns back up the mountain after Skinny Lake. You do want to stop at the lake for water as there are inadequate sources till you get back at top.
 
-Prepare for bad [weather](http://alaskahikesearch.com/education/#weather). You are very much exposed on top of this ridge with not many places to buffer you from a fierce storm. Make sure your tent can handle high winds and you have proper clothing. On the other extreme, there are no places to get out of the sun. I wish I had brought sunscreen as I wound up with a nice burn on my face and arms.
+Prepare for bad [weather](/education/#weather). You are very much exposed on top of this ridge with not many places to buffer you from a fierce storm. Make sure your tent can handle high winds and you have proper clothing. On the other extreme, there are no places to get out of the sun. I wish I had brought sunscreen as I wound up with a nice burn on my face and arms.
 
-The chance for fog is high here. Luckily, you have the cairns. No matter what the weather, trust the cairns. They are spaced about every 50 feet and are only used for the Kesugi Trail. Be safe though, and have at least rudimentary [navigational and compass skills](http://alaskahikesearch.com/education/#navigation).
+The chance for fog is high here. Luckily, you have the cairns. No matter what the weather, trust the cairns. They are spaced about every 50 feet and are only used for the Kesugi Trail. Be safe though, and have at least rudimentary [navigational and compass skills](/education/#navigation).
 
 Pace yourself for the ascent back up from the forest. You will have to climb over many chasms and ridges and it can really wear you out.
 
