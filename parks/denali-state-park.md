@@ -2,7 +2,7 @@
 title: Denali State Park
 tags: parks
 ---
-Yup! You heard right. What may also surprise you is that you have a better chance of seeing Denali (Mt. McKinley) in this state park than in the national park. Even if this hard to miss mountain weren't there, this would still be a great place. The park has great views of the Talkeetna Mountains and the Alaska Range.  
+Yup! You heard right. What may also surprise you is that you have a better chance of seeing Denali in this state park than in the national park. Even if this hard to miss mountain weren't there, this would still be a great place. The park has great views of the Talkeetna Mountains and the Alaska Range.  
 
 There are 3 rest areas with views of Denali and 3 campgrounds, one an RV park with a spectacular view of the Mountain. The Byers Lake Campground has two cabins for rent. Many people use the lake for fishing, boating, and kayaking. There are also a few hiking trails around the lake.  
 

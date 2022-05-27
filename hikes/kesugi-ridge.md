@@ -93,7 +93,7 @@ layout: layouts/hike.njk
 
 If you're coming up here in July or August, and you're looking for a good 3-4 day trail to backpack, this should be your number one choice.
 
-The reason I say this is Denali (Mt. McKinley). The trail basically runs along the side of Kesugi Mountain which makes it a primo location to view North America's largest mountain. Now I want to warn you upfront. Due to the weather conditions Denali creates in itself, you only have a 30% chance of seeing the mountain unobscured by clouds. But if you have good weather, and you have 3-4 days to increase your odds, you will be richly rewarded on your journey.
+The reason I say this is Denali. The trail basically runs along the side of Kesugi Mountain which makes it a primo location to view North America's largest mountain. Now I want to warn you upfront. Due to the weather conditions Denali creates in itself, you only have a 30% chance of seeing the mountain unobscured by clouds. But if you have good weather, and you have 3-4 days to increase your odds, you will be richly rewarded on your journey.
 
 Even if Denali was not the main attraction, this would still be a great hike. The trail goes through some very interesting and varied terrain, especially beautiful and endless tundra. The guidebooks make this seem like a harder hike than it is. I don't know why. The trail is very obvious and there are numerous cairns showing the way. Yes, there are some heavy duty elevation gains to get to the ridge, but nothing a seasoned backpacker can't handle.
 
