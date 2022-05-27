@@ -1,4 +1,8 @@
 .hike {
+    h2 {
+        font-size: 1.5em;
+    }
+
     .description {
         margin-top: 30px;
 
@@ -45,16 +49,15 @@
     padding: 5px 15px !important;
 
     h1 {
-        font-size: 2.0em;
-        font-family: $heading-font;
+        font-size: 1.8em;
         margin: 0;
         padding: 0;
         width: 100%;
 
         @media (min-width: 768px) {
-            font-size: 2.5em;
+            font-size: 2.2em;
         }
-    }
+    }    
 
     .park {
         font-size: 1.1em;
@@ -78,9 +81,5 @@
     .fas {
         color: $highlight-color;
         width: 25px;
-    }
-
-    h2 {
-        font-size: 1.5em;
-    }
+    }    
 }
