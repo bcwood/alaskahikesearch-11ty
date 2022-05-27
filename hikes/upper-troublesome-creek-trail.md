@@ -37,8 +37,6 @@ trailheads:
 tags: ['hikes', 'denali-state-park']
 layout: layouts/hike.njk
 ---
-*Note from July 15, 2005: I've been calling the Troublesome Creek Trail the Curry Ridge Trail since I first published Kesugi Ridge. I was mistaken. Even though this trail runs near it, it is not. Someday there will be a spur trail to the ridge but it would be bushwhacking at this stage.*
-
 I learned about this by speaking with a ranger at Denali State Park. As well, I learned this update on the Troublesome Creek Trail: it is maintained and easy to follow. It is no longer closed during the summer as they cleared the sight line to the creek. When the salmon start running up the creek, bears are numerous. That part of the trail was thick with alder with a real potential for surprising a bear. This is no longer an issue.
 
 Oh yeah! I was so psyched! I was going to do this big 4 night/5 day trek starting at the Coal Creek Trailhead and ending here. Unfortunately, the weather was looking real lousy and I decided that I was just going to do this trail up to the Kesugi section and head back. If the weather held, I packed extra food to hang up there another day. On the appointed day, I just wasn't into it and headed back.

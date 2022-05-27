@@ -89,8 +89,6 @@ trailheads:
 tags: ['hikes', 'denali-state-park']
 layout: layouts/hike.njk
 ---
-**THIS HIKE IS INCREDIBLE!!!**
-
 If you're coming up here in July or August, and you're looking for a good 3-4 day trail to backpack, this should be your number one choice.
 
 The reason I say this is Denali. The trail basically runs along the side of Kesugi Mountain which makes it a primo location to view North America's largest mountain. Now I want to warn you upfront. Due to the weather conditions Denali creates in itself, you only have a 30% chance of seeing the mountain unobscured by clouds. But if you have good weather, and you have 3-4 days to increase your odds, you will be richly rewarded on your journey.
