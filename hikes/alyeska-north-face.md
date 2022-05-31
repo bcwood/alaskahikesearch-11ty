@@ -15,7 +15,7 @@ mapFilename: alyeska-topo.jpg
 topoFilename: 
 elevationFilename: 
 gpxFilename: 
-bannerImage: alyeska-north-face-4
+bannerImage: alyeska-north-face-banner
 attachments:
 - slug: alyeska-north-face-1
   description: View from the top of the mountain.
@@ -23,6 +23,10 @@ attachments:
   description: View from the top of the mountain, looking down at Alyeska Resort.
 - slug: alyeska-north-face-3
   description: View of the tram.
+- slug: alyeska-north-face-4
+  description: Stairway to Heaven.
+- slug: alyeska-north-face-5
+  description: View of the switchbacks from the tram.
 trailheads:
 - name: Alyeska Trailhead
   latitude: 60.9697352
