@@ -16,12 +16,14 @@ mapFilename: anchorage-greenbelt-topo.jpg
 topoFilename: 
 elevationFilename: 
 gpxFilename: 
-bannerImage: anchorage-greenbelt-trails-3
+bannerImage: anchorage-greenbelt-trails-banner
 attachments:
 - slug: anchorage-greenbelt-trails-1
-  description: ''
+  description: Small pond
 - slug: anchorage-greenbelt-trails-2
   description: Rusty bridge
+- slug: anchorage-greenbelt-trails-3
+  description: Taku Lake
 - slug: anchorage-greenbelt-trails-4
   description: Moose on the trail
 - slug: anchorage-greenbelt-trails-5
