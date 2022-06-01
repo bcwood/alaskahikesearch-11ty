@@ -2,7 +2,7 @@
 title: Turnagain Arm Trail
 park: Chugach State Park
 submittedBy: ''
-rating: 2
+rating: 3
 difficultyRating: Easy
 difficultyDescription: small spurts of elevation gain
 connectedHikes:
@@ -13,7 +13,7 @@ milesOneWay: 9.6
 milesFromAnchorage: 10.0
 directionsFromAnchorage: off the Seward Highway just south of Anchorage
 elevationGain: 
-seasonDescription: Potter Creek to McHugh; all year.  The other trails can definitely be hiked April (depending on snow) to October and other times during the year depending on conditions.
+seasonDescription: All year is possible, depending on conditions
 mapFilename: turnagain-arm-trail-topo.jpg
 topoFilename: 
 elevationFilename: 
@@ -47,11 +47,9 @@ trailheads:
 tags: ['hikes', 'chugach-state-park']
 layout: layouts/hike.njk
 ---
-I wouldn't recommend this trail for the visitor. You're too close to the highway and it doesn't feel like a true "Alaska Wilderness" hike. 
+This trail is a great choice for stunning views of Turnagain Arm. Plus, there are multiple trailheads giving you different options for route and distance, depending on what you're up for.
 
-However, the 3 trails are worthwhile for their intermittent views of Turnagain Arm which is a beautiful area of Alaska. The trails are also good for preseason hiking as they are one of the first places to lose its snow. Since they are relatively easy to hike, they are also worthwhile if you have kids or if you're in bad shape. You can start at either end or there is parking for each of the 4 points if you just want to do a section.
-
-A better way to see Turnagain Arm is either biking along the Seward Highway or taking the many mountain hikes along the way (a list is included in the aforementioned trail).
+The trail is also good for preseason hiking as it's one of the first places to lose its snow. Since it's a relatively easy hike, it's also worthwhile if you have kids or if you're not in great shape. You can start at either end or there is parking for each of the 4 points if you just want to do a section.
 
 ### Important Information
 

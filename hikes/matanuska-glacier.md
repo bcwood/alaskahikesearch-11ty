@@ -15,11 +15,13 @@ mapFilename: matanuska-glacier-topo.jpg
 topoFilename: 
 elevationFilename: 
 gpxFilename: 
-bannerImage: matanuska-glacier-3
+bannerImage: matanuska-glacier-banner
 attachments:
 - slug: matanuska-glacier-1
   description: Terminus of the glacier
 - slug: matanuska-glacier-2
+  description: On the glacier
+- slug: matanuska-glacier-3
   description: On the glacier
 - slug: matanuska-glacier-4
   description: Glacial melt
@@ -38,9 +40,7 @@ What can I say? It's a really cool thing to do and it should be a definite stop 
 
 ### Important Information
 
-Access to the glacier is only available via private property. Current prices (as of March 2019) per person are $30 for self-guided access in the summer, and $100 for guided access in the winter. For more information, check the [Matanuska Glacier Adventures website](http://matanuskaglacieradventures.us/).
-
-Depending on how far onto the glacier you plan to hike, it may be useful to bring some kind of pole or walking stick, as well as ice cleats.
+As of June 2022, access to the glacier is only available by guided tour. Prices are $40 for residents, and $125 for non-residents. For more information, check the [Matanuska Glacier Adventures website](http://matanuskaglacieradventures.us/).
 
 There is a campground in the area but it's not as attractive as you'd think.
 
