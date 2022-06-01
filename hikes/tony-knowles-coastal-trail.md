@@ -16,7 +16,7 @@ mapFilename: coastal-trail-topo.jpg
 topoFilename: 
 elevationFilename: 
 gpxFilename: 
-bannerImage: coastal-trail-5
+bannerImage: coastal-trail-banner
 attachments:
 - slug: coastal-trail-1
   description: Bathing Moose
@@ -26,6 +26,8 @@ attachments:
   description: Marsh
 - slug: coastal-trail-4
   description: Red Fox
+- slug: coastal-trail-5
+  description: Mt. Susitna (Sleeping Lady)
 trailheads:
 - name: Westchester Lagoon Trailhead
   latitude: 61.2086613
