@@ -421,6 +421,16 @@ function map_home() {
                         {
                             'type': 'Feature',
                             'properties': {
+                                'description': "<strong>West Butte Trailhead</strong><p>Hikes available from this trailhead:</p><ul><li><a href='./hikes/bodenburg-butte-trail'>Bodenburg Butte Trail</a></li></ul>"
+                            },
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [-149.053529, 61.552047]
+                            }
+                        },
+                        {
+                            'type': 'Feature',
+                            'properties': {
                                 'description': "<strong>Lazy Mountain Trailhead</strong><p>Hikes available from this trailhead:</p><ul><li><a href='./hikes/lazy-mountain'>Lazy Mountain</a></li><li><a href='./hikes/matanuska-peak'>Matanuska Peak</a></li></ul>"
                             },
                             'geometry': {
@@ -1250,6 +1260,15 @@ function map_bodenburgbuttetrail() {
                                     'type': 'Point',
                                     'coordinates': [-149.0540993, 61.5416977]
                                 }
+                            },{
+                                'type': 'Feature',
+                                'properties': {
+                                    'description': "<strong>West Butte Trailhead</strong><p><a href='https://maps.google.com/maps?daddr=61.552047,-149.053529&amp;ll=' target='_blank'>Get directions to this trailhead</a></p>"
+                                },
+                                'geometry': {
+                                    'type': 'Point',
+                                    'coordinates': [-149.053529, 61.552047]
+                                }
                             },                         ]
                                             }
                                         },
@@ -1260,7 +1279,7 @@ function map_bodenburgbuttetrail() {
                                         }
                                     });
                                 });                                
-                             setup_map_events(map);
+                           map.fitBounds([[-149.0540993, 61.5416977], [-149.053529, 61.552047]], { padding: 30 });         setup_map_events(map);
                             });
                     }
 function map_boldpeakvalley() {
