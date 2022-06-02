@@ -32,15 +32,18 @@ trailheads:
 - name: Campbell Creek Trailhead
   latitude: 61.1776439
   longitude: -149.7961653
-- name: Goose Lake Trailhead
+- name: Goose Lake
   latitude: 61.1970637
   longitude: -149.8214782
-- name: Russian Jack Trailhead
+- name: Russian Jack
   latitude: 61.2066386
   longitude: -149.7795995
-- name: Westchester Lagoon Trailhead
+- name: Westchester Lagoon
   latitude: 61.2086613
   longitude: -149.9228354
+- name: Taku Lake
+  latitude: 61.152023
+  longitude: -149.880515
 tags: ['hikes', 'municipality-of-anchorage']
 layout: layouts/hike.njk
 ---
