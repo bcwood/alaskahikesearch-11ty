@@ -3,6 +3,11 @@ permalink: /index.html
 ---
 {% extends "layouts/home.njk" %}
 
+{% block header %}
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+{% endblock %}
+
 {% block content %}
     <div class="cover">
         <h2 class="cover-heading">Find Your Next Adventure</h2>
@@ -22,9 +27,7 @@ permalink: /index.html
 {% endblock %}
 
 {% block footer %}
-    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js"></script>
-    <link rel="stylesheet" href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css" />
-    <script type="text/javascript" src="/js/maps.min.js?v=20220416"></script>
+    <script type="text/javascript" src="/js/maps.min.js?v=20220602"></script>
     <script type="text/javascript">
         map_home();
     </script>

@@ -1,0 +1,658 @@
+[
+  {
+    "name": "Mt. Baldy Trailhead",
+    "latitude": "61.3380357",
+    "longitude": "-149.5116133",
+    "hikes": [
+      "Mt. Baldy",
+      "Black Tail Rocks",
+      "Round Top"
+    ]
+  },
+  {
+    "name": "Mile Hi Trailhead",
+    "latitude": "61.3135182",
+    "longitude": "-149.4651135",
+    "hikes": [
+      "Mt. Magnificent"
+    ]
+  },
+  {
+    "name": "Eagle River Nature Center",
+    "latitude": "61.2342489",
+    "longitude": "-149.2711197",
+    "hikes": [
+      "Crow Pass",
+      "Dew Mound Trail",
+      "Eagle River"
+    ]
+  },
+  {
+    "name": "Glen Alps Trailhead",
+    "latitude": "61.1030702",
+    "longitude": "-149.6831682",
+    "hikes": [
+      "Flat Top",
+      "Football Field / O'Malley Peak",
+      "Hidden Valley",
+      "Powerline Pass",
+      "Ptarmigan Peak",
+      "Ship Lake Valley",
+      "Williwaw Lakes"
+    ]
+  },
+  {
+    "name": "Prospect Heights Trailhead",
+    "latitude": "61.1389031",
+    "longitude": "-149.7108881",
+    "hikes": [
+      "Campbell Creek Canyon Trail",
+      "Near Point",
+      "Powerline Pass",
+      "Ptarmigan Peak",
+      "South Fork Rim Trail",
+      "Tanaina Lake",
+      "T'Kishla Peak",
+      "Williwaw Lakes",
+      "Wolverine Peak"
+    ]
+  },
+  {
+    "name": "Campbell Airstrip Trailhead",
+    "latitude": "61.165846",
+    "longitude": "-149.7657098",
+    "hikes": [
+      "Campbell Creek Tract - Bicentennial Park"
+    ]
+  },
+  {
+    "name": "Campbell Creek Trailhead",
+    "latitude": "61.1776439",
+    "longitude": "-149.7961653",
+    "hikes": [
+      "Campbell Creek Tract - Bicentennial Park",
+      "Anchorage Greenbelt Trails"
+    ]
+  },
+  {
+    "name": "Hilltop Trailhead",
+    "latitude": "61.1379331",
+    "longitude": "-149.7531918",
+    "hikes": [
+      "Campbell Creek Tract - Bicentennial Park"
+    ]
+  },
+  {
+    "name": "North Bivouac Trailhead",
+    "latitude": "61.1543049",
+    "longitude": "-149.7375792",
+    "hikes": [
+      "Campbell Creek Tract - Bicentennial Park"
+    ]
+  },
+  {
+    "name": "South Bivouac Trailhead",
+    "latitude": "61.153196",
+    "longitude": "-149.7378048",
+    "hikes": [
+      "Campbell Creek Tract - Bicentennial Park"
+    ]
+  },
+  {
+    "name": "Basher Trailhead",
+    "latitude": "61.1515809",
+    "longitude": "-149.7143492",
+    "hikes": [
+      "Basher Trail",
+      "Campbell Creek Tract - Bicentennial Park",
+      "Campbell Creek Canyon Trail",
+      "Near Point",
+      "Tanaina Lake",
+      "T'Kishla Peak",
+      "Wolverine Peak"
+    ]
+  },
+  {
+    "name": "Klutina Trailhead",
+    "latitude": "61.1809226",
+    "longitude": "-149.7212225",
+    "hikes": [
+      "Knoya Peak"
+    ]
+  },
+  {
+    "name": "Crow Pass Trailhead",
+    "latitude": "61.0281201",
+    "longitude": "-149.1161674",
+    "hikes": [
+      "Crow Pass",
+      "Grizzly Bear Lake",
+      "Jewell Glacier"
+    ]
+  },
+  {
+    "name": "McHugh Creek Trailhead",
+    "latitude": "61.0179272",
+    "longitude": "-149.7315773",
+    "hikes": [
+      "McHugh Trail / Rabbit Lake",
+      "McHugh Peak",
+      "Turnagain Arm Trail"
+    ]
+  },
+  {
+    "name": "Rainbow Trailhead",
+    "latitude": "60.9999982",
+    "longitude": "-149.640578",
+    "hikes": [
+      "Rainbow Peak",
+      "Turnagain Arm Trail"
+    ]
+  },
+  {
+    "name": "Falls Creek Trailhead",
+    "latitude": "60.9840998",
+    "longitude": "-149.5762637",
+    "hikes": [
+      "Falls Creek Trail",
+      "Indianhouse Mountain",
+      "Suicide Peaks"
+    ]
+  },
+  {
+    "name": "Bird Ridge Trailhead",
+    "latitude": "60.978935",
+    "longitude": "-149.4799335",
+    "hikes": [
+      "Bird Creek Trail",
+      "Bird Ridge",
+      "Bird Ridge Tarns"
+    ]
+  },
+  {
+    "name": "Bird to Gird Trailhead",
+    "latitude": "60.9452122",
+    "longitude": "-149.1771283",
+    "hikes": [
+      "Seward Highway / Turnagain Arm"
+    ]
+  },
+  {
+    "name": "Alyeska Trailhead",
+    "latitude": "60.9697352",
+    "longitude": "-149.0952829",
+    "hikes": [
+      "Alyeska North Face",
+      "Alyeska Roundhouse",
+      "Upper Winner Creek Trail",
+      "Winner Creek"
+    ]
+  },
+  {
+    "name": "Gull Rock Trail",
+    "latitude": "60.9257762",
+    "longitude": "-149.6645777",
+    "hikes": [
+      "Gull Rock Trail",
+      "Hope Point"
+    ]
+  },
+  {
+    "name": "Potter Trailhead",
+    "latitude": "61.0480013",
+    "longitude": "-149.7922744",
+    "hikes": [
+      "Turnagain Arm Trail"
+    ]
+  },
+  {
+    "name": "Rabbit Lake Trailhead",
+    "latitude": "61.0795745",
+    "longitude": "-149.6780712",
+    "hikes": [
+      "McHugh Trail / Rabbit Lake"
+    ]
+  },
+  {
+    "name": "Goose Lake Trailhead",
+    "latitude": "61.1970637",
+    "longitude": "-149.8214782",
+    "hikes": [
+      "Anchorage Greenbelt Trails"
+    ]
+  },
+  {
+    "name": "Russian Jack Trailhead",
+    "latitude": "61.2066386",
+    "longitude": "-149.7795995",
+    "hikes": [
+      "Anchorage Greenbelt Trails"
+    ]
+  },
+  {
+    "name": "Westchester Lagoon Trailhead",
+    "latitude": "61.2086613",
+    "longitude": "-149.9228354",
+    "hikes": [
+      "Tony Knowles Coastal Trail",
+      "Anchorage Greenbelt Trails"
+    ]
+  },
+  {
+    "name": "Coastal Trail Trailhead",
+    "latitude": "61.2205406",
+    "longitude": "-149.8975039",
+    "hikes": [
+      "Tony Knowles Coastal Trail"
+    ]
+  },
+  {
+    "name": "Earthquake Park",
+    "latitude": "61.1962577",
+    "longitude": "-149.977575",
+    "hikes": [
+      "Tony Knowles Coastal Trail"
+    ]
+  },
+  {
+    "name": "Point Woronzof",
+    "latitude": "61.2020435",
+    "longitude": "-150.020746",
+    "hikes": [
+      "Tony Knowles Coastal Trail"
+    ]
+  },
+  {
+    "name": "Kincaid Trailhead",
+    "latitude": "61.1534379",
+    "longitude": "-150.0556243",
+    "hikes": [
+      "Tony Knowles Coastal Trail"
+    ]
+  },
+  {
+    "name": "Arctic Valley Trailhead",
+    "latitude": "61.2467223",
+    "longitude": "-149.53491",
+    "hikes": [
+      "Mt. Gordon Lyons",
+      "Rendezvous Peak",
+      "Ship Creek Trail"
+    ]
+  },
+  {
+    "name": "Ptarmigan Valley Trailhead",
+    "latitude": "61.3902249",
+    "longitude": "-149.470132",
+    "hikes": [
+      "Ptarmigan Valley Trail"
+    ]
+  },
+  {
+    "name": "Peter's Creek Trailhead",
+    "latitude": "61.3973067",
+    "longitude": "-149.4125785",
+    "hikes": [
+      "Bear Mountain",
+      "Mt. Eklutna",
+      "Peter's Creek Trail"
+    ]
+  },
+  {
+    "name": "Thunderbird Falls",
+    "latitude": "61.4491375",
+    "longitude": "-149.3703505",
+    "hikes": [
+      "Thunderbird Falls"
+    ]
+  },
+  {
+    "name": "Eklutna Lake Trailhead",
+    "latitude": "61.4093816",
+    "longitude": "-149.1355825",
+    "hikes": [
+      "Bold Peak Valley",
+      "East Fork Trail",
+      "Eklutna Lake",
+      "Pepper Peak",
+      "Twin Peaks"
+    ]
+  },
+  {
+    "name": "South Fork Trailhead",
+    "latitude": "61.2327938",
+    "longitude": "-149.4561918",
+    "hikes": [
+      "Eagle Peak",
+      "Eagle and Symphony Lakes",
+      "Flute Glacier",
+      "Hanging Valley",
+      "Rendezvous Peak",
+      "Triangle Peak"
+    ]
+  },
+  {
+    "name": "Harp Mountain Trailhead",
+    "latitude": "61.2234848",
+    "longitude": "-149.4317392",
+    "hikes": [
+      "Harp Mountain"
+    ]
+  },
+  {
+    "name": "Butte Trailhead",
+    "latitude": "61.5416977",
+    "longitude": "-149.0540993",
+    "hikes": [
+      "Bodenburg Butte Trail"
+    ]
+  },
+  {
+    "name": "West Butte Trailhead",
+    "latitude": "61.552047",
+    "longitude": "-149.053529",
+    "hikes": [
+      "Bodenburg Butte Trail"
+    ]
+  },
+  {
+    "name": "Lazy Mountain Trailhead",
+    "latitude": "61.611346",
+    "longitude": "-149.0160302",
+    "hikes": [
+      "Lazy Mountain",
+      "Matanuska Peak"
+    ]
+  },
+  {
+    "name": "Gold Mint Trailhead",
+    "latitude": "61.7787349",
+    "longitude": "-149.1963238",
+    "hikes": [
+      "Gold Mint Trail",
+      "Mint Valley to Reed Lake"
+    ]
+  },
+  {
+    "name": "Reed Lakes Trailhead",
+    "latitude": "61.8041865",
+    "longitude": "-149.2027134",
+    "hikes": [
+      "Archangel Valley",
+      "Mint Bomber Traverse",
+      "Reed Lakes",
+      "Snowbird Mine & Glacier"
+    ]
+  },
+  {
+    "name": "Fishhook Trailhead",
+    "latitude": "61.7669796",
+    "longitude": "-149.2654427",
+    "hikes": [
+      "Marmot Mountain"
+    ]
+  },
+  {
+    "name": "April Bowl",
+    "latitude": "61.7681064",
+    "longitude": "-149.315011",
+    "hikes": [
+      "April Bowl / Hatch Peak"
+    ]
+  },
+  {
+    "name": "Johnson Pass Trailhead (North)",
+    "latitude": "60.7242292",
+    "longitude": "-149.2777607",
+    "hikes": [
+      "Johnson Pass"
+    ]
+  },
+  {
+    "name": "Lost Lake Trailhead (Primrose)",
+    "latitude": "60.3407152",
+    "longitude": "-149.3696385",
+    "hikes": [
+      "Lost Lake",
+      "Lost Lake Backcountry"
+    ]
+  },
+  {
+    "name": "Lost Lake Trailhead (Bear Creek)",
+    "latitude": "60.1724475",
+    "longitude": "-149.4111181",
+    "hikes": [
+      "Lost Lake",
+      "Lost Lake Backcountry"
+    ]
+  },
+  {
+    "name": "Mount Marathon",
+    "latitude": "60.1040114",
+    "longitude": "-149.4510515",
+    "hikes": [
+      "Mt. Marathon"
+    ]
+  },
+  {
+    "name": "Caines Head Trailhead",
+    "latitude": "60.0682518",
+    "longitude": "-149.4426372",
+    "hikes": [
+      "Caines Head Alpine Trail",
+      "Caines Head Trail"
+    ]
+  },
+  {
+    "name": "Johnson Pass Trailhead (South)",
+    "latitude": "60.5039132",
+    "longitude": "-149.438165",
+    "hikes": [
+      "Johnson Pass"
+    ]
+  },
+  {
+    "name": "Resurrection Pass Trailhead (South)",
+    "latitude": "60.4844122",
+    "longitude": "-149.9536442",
+    "hikes": [
+      "Resurrection Pass"
+    ]
+  },
+  {
+    "name": "Devils Pass Trailhead",
+    "latitude": "60.5600339",
+    "longitude": "-149.581797",
+    "hikes": [
+      "Devil's Pass",
+      "Resurrection Pass"
+    ]
+  },
+  {
+    "name": "Resurrection Pass Trailhead (North)",
+    "latitude": "60.8698073",
+    "longitude": "-149.6300699",
+    "hikes": [
+      "Resurrection Pass"
+    ]
+  },
+  {
+    "name": "Byers Lake Trailhead",
+    "latitude": "62.7430437",
+    "longitude": "-150.1269574",
+    "hikes": [
+      "Kesugi Ridge"
+    ]
+  },
+  {
+    "name": "Ermine Hill Trailhead",
+    "latitude": "62.8274689",
+    "longitude": "-149.9035288",
+    "hikes": [
+      "Ermine Hill Trail",
+      "Kesugi Ridge"
+    ]
+  },
+  {
+    "name": "Little Coal Creek Trailhead",
+    "latitude": "62.8921755",
+    "longitude": "-149.7465986",
+    "hikes": [
+      "Kesugi Ridge"
+    ]
+  },
+  {
+    "name": "Upper Troublesome Creek Trailhead",
+    "latitude": "62.630615",
+    "longitude": "-150.2281732",
+    "hikes": [
+      "Kesugi Ridge",
+      "Upper Troublesome Creek Trail"
+    ]
+  },
+  {
+    "name": "Crescent Creek Trailhead",
+    "latitude": "60.4986969",
+    "longitude": "-149.6753052",
+    "hikes": [
+      "Crescent Lake"
+    ]
+  },
+  {
+    "name": "Carter Lake Trailhead",
+    "latitude": "60.5075241",
+    "longitude": "-149.4448204",
+    "hikes": [
+      "Crescent Lake"
+    ]
+  },
+  {
+    "name": "Independence Mine Trailhead",
+    "latitude": "61.7770085",
+    "longitude": "-149.2789063",
+    "hikes": [
+      "Gold Cord Lake Trail"
+    ]
+  },
+  {
+    "name": "Exit Glacier Trailhead",
+    "latitude": "60.1844102",
+    "longitude": "-149.65303",
+    "hikes": [
+      "Exit Glacier & Harding Icefield"
+    ]
+  },
+  {
+    "name": "Lower Eagle River Trailhead",
+    "latitude": "61.2969205",
+    "longitude": "-149.5339347",
+    "hikes": [
+      "Lower Eagle River Trail"
+    ]
+  },
+  {
+    "name": "Eklutna Road Trailhead",
+    "latitude": "61.4478723",
+    "longitude": "-149.2518729",
+    "hikes": [
+      "Mt. POW/MIA",
+      "Gold Star Peak"
+    ]
+  },
+  {
+    "name": "Byron Glacier Trailhead",
+    "latitude": "60.7736707",
+    "longitude": "-148.8460476",
+    "hikes": [
+      "Byron Glacier"
+    ]
+  },
+  {
+    "name": "Portage Pass Trailhead",
+    "latitude": "60.7746023",
+    "longitude": "-148.7342028",
+    "hikes": [
+      "Portage Pass"
+    ]
+  },
+  {
+    "name": "West Mendenhall Glacier Trailhead",
+    "latitude": "58.4256107",
+    "longitude": "-134.5839964",
+    "hikes": [
+      "West Mendenhall Glacier Trail"
+    ]
+  },
+  {
+    "name": "Chilkoot Trail Trailhead",
+    "latitude": "59.511806",
+    "longitude": "-135.3466516",
+    "hikes": [
+      "Chilkoot Trail"
+    ]
+  },
+  {
+    "name": "Matanuska Glacier Trailhead",
+    "latitude": "61.7779049",
+    "longitude": "-147.7658421",
+    "hikes": [
+      "Matanuska Glacier"
+    ]
+  },
+  {
+    "name": "Red Shirt Lake Trailhead",
+    "latitude": "61.6670768",
+    "longitude": "-150.1413254",
+    "hikes": [
+      "Red Shirt Lake"
+    ]
+  },
+  {
+    "name": "Smokejumper Trailhead",
+    "latitude": "61.1587106",
+    "longitude": "-149.8019342",
+    "hikes": [
+      "Campbell Creek Tract - Bicentennial Park"
+    ]
+  },
+  {
+    "name": "Abbott Community Park Trailhead",
+    "latitude": "61.1478876",
+    "longitude": "-149.8021602",
+    "hikes": [
+      "Campbell Creek Tract - Bicentennial Park"
+    ]
+  },
+  {
+    "name": "Snow Hawk Trailhead",
+    "latitude": "61.2253661",
+    "longitude": "-149.6512922",
+    "hikes": [
+      "Temptation Peak"
+    ]
+  },
+  {
+    "name": "Skookum Volcano Trailhead",
+    "latitude": "62.4511309",
+    "longitude": "-143.0911542",
+    "hikes": [
+      "Skookum Volcano"
+    ]
+  },
+  {
+    "name": "Rambler Mine Trailhead",
+    "latitude": "62.3871207",
+    "longitude": "-143.0065322",
+    "hikes": [
+      "Rambler Mine"
+    ]
+  },
+  {
+    "name": "Indianhouse Mountain Trailhead",
+    "latitude": "60.9836178",
+    "longitude": "-149.5422241",
+    "hikes": [
+      "Indianhouse Mountain"
+    ]
+  }
+]
