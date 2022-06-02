@@ -15,9 +15,9 @@
         
         <div class="row hike-header">
             <h1>{{ title }}</h1>
-            {% if park | length %}
+            {%- if park | length %}
                 <a href="/parks/#{{ park | slugify }}" class="park">{{ park }}</a>
-            {% endif %}
+            {%- endif %}
         </div>
 
         <div class="row">
@@ -27,7 +27,7 @@
                     {{ content | safe }}
                 </div>
 
-                {% if attachments | length %}
+                {%- if attachments | length %}
                     <div class="hike-section gallery">
                         <h2>Photos</h2>                        
                         {%- for photo in attachments %}
@@ -36,7 +36,7 @@
                             </a>
                         {%- endfor %}
                     </div>
-                {% endif %}
+                {%- endif %}
             </div>
 
             <div class="col-md-4 order-1 order-md-2 hike-meta">
@@ -53,45 +53,45 @@
                     </div>
                 </div>
 
-                {% if connectedHikes | length %}
+                {%- if connectedHikes | length %}
                     <div class="row">
                         <div class="col-6"><i class="fas fa-map-signs"></i>Connects With</div>
                         <div class="col-6">
-                            {% for hike in connectedHikes %}
+                            {%- for hike in connectedHikes %}
                                 <a href="/hikes/{{ hike | slugify }}">{{ hike }}</a><br />
-                            {% endfor %}
+                            {%- endfor %}
                         </div>
                     </div>
-                {% endif %}
+                {%- endif %}
 
                 <div class="row">
                     <div class="col-6"><i class="fas fa-ruler-horizontal"></i> Distance</div>
                     <div class="col-6">
-                        {% if (milesOneWay | int) == 0 %}
+                        {%- if (milesOneWay | int) == 0 %}
                             Various distances
-                        {% else %}
+                        {%- else %}
                             {{ milesOneWay }} miles
-                        {% endif %}
+                        {%- endif %}
                     </div>
                 </div>  
 
-                {% if elevationGain > 0 %}
+                {%- if elevationGain > 0 %}
                     <div class="row">
                         <div class="col-6"><i class="fas fa-mountain"></i> Elevation Gain</div>
                         <div class="col-6">
                             {{ elevationGain }} feet
                         </div>
                     </div>
-                {% endif %}
+                {%- endif %}
 
                 <div class="row">
                     <div class="col-6"><i class="fas fa-car-side"></i> From Anchorage</div>
                     <div class="col-6">
-                        {% if (milesFromAnchorage | int) == 0 %}
+                        {%- if (milesFromAnchorage | int) == 0 %}
                             In town
-                        {% else %}
+                        {%- else %}
                             {{ milesFromAnchorage }} miles
-                        {% endif %}
+                        {%- endif %}
                     </div>
                 </div>
                 <div class="row">
@@ -101,16 +101,16 @@
                     </div>
                 </div>
 
-                {% if submittedBy | length %}
+                {%- if submittedBy | length %}
                     <div class="row">
                         <div class="col-6"><i class="fas fa-user"></i> Submitted By</div>
                         <div class="col-6">
                             {{ submittedBy }}
                         </div>
                     </div>
-                {% endif %}
+                {%- endif %}
 
-                {% if trailheads | length %}
+                {%- if trailheads | length %}
                     <div class="row">
                         <div class="col-sm-12">
                             <h2>Finding the Trailhead</h2>
@@ -118,31 +118,31 @@
                             <noscript>Please enable JavaScript to view the trailhead map.</noscript>
                         </div>
                     </div>
-                {% endif %}
+                {%- endif %}
 
-                {% if mapFilename | length %}
+                {%- if mapFilename | length %}
                     <div class="row">
                         <div class="col-12">
                             <h2>Hike Map</h2>
 
-                            {% if topoFilename | length %}
+                            {%- if topoFilename | length %}
                                 <a href="/img/topos/{{ mapFilename }}">
                                     <img src="/img/topos/{{ topoFilename }}" width="350" alt="Map of {{ title }}" />
                                 </a>
-                            {% else %}
+                            {%- else %}
                                 <a href="/img/topos/{{ mapFilename }}">
                                     <img src="/img/topos/{{ mapFilename }}" alt="Map of {{ title }}" />
                                 </a>
-                            {% endif %}
+                            {%- endif %}
 
-                            {% if gpxFilename | length %}
+                            {%- if gpxFilename | length %}
                                 <br /><a href="/files/gpx/{{ gpxFilename }}">Download GPX</a>
-                            {% endif %}
+                            {%- endif %}
                         </div>
                     </div>
-                {% endif %}
+                {%- endif %}
 
-                {% if elevationFilename | length %}
+                {%- if elevationFilename | length %}
                     <div class="row">
                         <div class="col-12">
                             <h2>Elevation Profile</h2>
@@ -151,7 +151,7 @@
                             </a>
                         </div>
                     </div>
-                {% endif %}
+                {%- endif %}
             </div>
         </div>
 
@@ -159,11 +159,11 @@
     </div>
 {% endblock %}
 
-{% if trailheads | length %}
+{%- if trailheads | length %}
     {% block footer %}
         <script type="text/javascript" src="/js/maps.min.js?v=20220602"></script>
         <script type="text/javascript">
             map_{{ title | slugify | replace("-", "") }}();
         </script>
     {% endblock %}
-{% endif %}
+{%- endif %}
