@@ -78,8 +78,14 @@
         padding: 15px 0;
     }
 
-    .fas {
-        color: $highlight-color;
-        width: 25px;
-    }    
+    .hike-icon {
+        width: 30px;
+        float: left;
+    
+        svg {
+            fill: $highlight-color;
+            height: 22px;
+            width: 22px;
+        }
+    }
 }

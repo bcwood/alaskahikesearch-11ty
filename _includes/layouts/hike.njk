@@ -1,9 +1,8 @@
 {% extends "layouts/base.njk" %}
 {% block header %}
     <meta name="description" content="Learn about hiking {{ title }} in {{ park }}">
-    <script src="https://kit.fontawesome.com/dde1b15fe1.js" crossorigin="anonymous"></script>
-
-    {%- if trailheads | length %}    
+    
+    {%- if trailheads | length %}
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin=""/>
         <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
     {%- endif %}
@@ -41,13 +40,17 @@
 
             <div class="col-md-4 order-1 order-md-2 hike-meta">
                 <div class="row">
-                    <div class="col-6"><i class="fas fa-star"></i> Rating</div>
+                    <div class="col-6">
+                        <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#star"></use></svg></div> Rating
+                    </div>
                     <div class="col-6">
                         <img class="hike-rating" src="/img/rating-{{ rating }}.png" alt="This hike was rated {{ rating }} stars." />
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-6"><i class="fas fa-tachometer-alt"></i> Difficulty</div>
+                    <div class="col-6">
+                        <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#gauge-high"></use></svg></div> Difficulty
+                    </div>
                     <div class="col-6">
                         {{ difficultyRating }}
                     </div>
@@ -55,7 +58,9 @@
 
                 {%- if connectedHikes | length %}
                     <div class="row">
-                        <div class="col-6"><i class="fas fa-map-signs"></i>Connects With</div>
+                        <div class="col-6">
+                            <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#signs-post"></use></svg></div> Connects With
+                        </div>
                         <div class="col-6">
                             {%- for hike in connectedHikes %}
                                 <a href="/hikes/{{ hike | slugify }}">{{ hike }}</a><br />
@@ -65,7 +70,9 @@
                 {%- endif %}
 
                 <div class="row">
-                    <div class="col-6"><i class="fas fa-ruler-horizontal"></i> Distance</div>
+                    <div class="col-6">
+                        <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#route"></use></svg></div> Distance
+                    </div>
                     <div class="col-6">
                         {%- if (milesOneWay | int) == 0 %}
                             Various distances
@@ -77,7 +84,9 @@
 
                 {%- if elevationGain > 0 %}
                     <div class="row">
-                        <div class="col-6"><i class="fas fa-mountain"></i> Elevation Gain</div>
+                        <div class="col-6">
+                            <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#mountain"></use></svg></div> Elevation Gain
+                        </div>
                         <div class="col-6">
                             {{ elevationGain }} feet
                         </div>
@@ -85,7 +94,9 @@
                 {%- endif %}
 
                 <div class="row">
-                    <div class="col-6"><i class="fas fa-car-side"></i> From Anchorage</div>
+                    <div class="col-6">
+                        <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#car-side"></use></svg></div> From Anchorage
+                    </div>
                     <div class="col-6">
                         {%- if (milesFromAnchorage | int) == 0 %}
                             In town
@@ -95,7 +106,9 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-6"><i class="fas fa-cloud-sun"></i> Season</div>
+                    <div class="col-6">
+                        <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#calendar-days"></use></svg></div> Season
+                    </div>
                     <div class="col-6">
                         {{ seasonDescription }}
                     </div>
@@ -103,7 +116,9 @@
 
                 {%- if submittedBy | length %}
                     <div class="row">
-                        <div class="col-6"><i class="fas fa-user"></i> Submitted By</div>
+                        <div class="col-6">
+                            <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#person-hiking"></use></svg></div> Submitted By
+                        </div>
                         <div class="col-6">
                             {{ submittedBy }}
                         </div>
