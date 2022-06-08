@@ -49,6 +49,10 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
   });
 
+  eleventyConfig.addGlobalData('buildTimestamp', () => {
+    return DateTime.now().toFormat('yyyyMMddHHmm');
+  });
+
   // Watch CSS files for changes
   eleventyConfig.setBrowserSyncConfig({
     files: './_site/css/**/*.css'
