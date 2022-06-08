@@ -1,26 +1,21 @@
-.navbar-inverse {
-    background-color: #333;
+.navbar-dark {
+    background-color: #50493e;
     border: none;
 }
 
 .navbar-brand {
-    font-size: 2.3em;
+    background: url('/img/logo.svg') center no-repeat;
+    font-size: 2.5em;
     margin: 0;
     padding: 0;
 }
 
-.navbar a,
-.navbar a:hover {
-    color: #fff !important;
-}
-
-.navbar-brand:hover,
-.navbar-brand a:hover {
-    text-decoration: none;
+.navbar-brand a, .navbar-brand a:hover {  
+    color: transparent;
 }
 
 .sub-nav {
-    background-color: $light-background-color;
+    background-color: #BF6204;
     height: auto;
     padding: 0;
 }
@@ -91,16 +86,17 @@
     display: none;
 
     li a.nav-link {
-        color: #444 !important;
+        color: #fff;
         font-size: 1.05em;
+        font-weight: 600;
         padding: 4px 14px 8px 14px;
         text-decoration: none;
     }
 
     li a.active,
     li a:hover {
-        background-color: $highlight-color;
-        color: #ffffff !important;
+        background-color: #fff;
+        color: #444 !important;
     }
 }
 
@@ -111,7 +107,7 @@
     }
 
     .navbar-brand {
-        font-size: 3.0em;
+        font-size: 3.4em;
     }
 
     .navbar .menu {
