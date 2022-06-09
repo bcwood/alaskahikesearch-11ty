@@ -3,8 +3,7 @@
     <meta name="description" content="Learn about hiking {{ title }} in {{ park }}">
     
     {%- if trailheads | length %}
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin=""/>
-        <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.min.css" integrity="sha512-oIQ0EBio8LJupRpgmDsIsvm0Fsr6c3XNHLB7at5xb+Cf6eQuCX9xuX8XXGRIcokNgdqL1ms7nqbQ6ryXMGxXpg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     {%- endif %}
 {% endblock %}
 
@@ -128,14 +127,24 @@
                 {%- if trailheads | length %}
                     <div class="row">
                         <div class="col-sm-12">
-                            <h2>Finding the Trailhead</h2>
+                            {%- if gpxFilename | length %}
+                                <h2>Hike Map</h2>
+                            {%- else %}
+                                <h2>Finding the Trailhead</h2>
+                            {%- endif %}                            
                             <div id="map" class="map-embed"></div>
                             <noscript>Please enable JavaScript to view the trailhead map.</noscript>
+                            {%- if gpxFilename | length %}
+                                <div style="padding-top:10px">
+                                    <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#download"></use></svg></div>
+                                    <a href="/files/gpx/{{ gpxFilename }}">Download GPX</a>
+                                </div>
+                            {%- endif %}
                         </div>
                     </div>
                 {%- endif %}
 
-                {%- if mapFilename | length %}
+                {%- if (mapFilename | length) and (gpxFilename | length == 0) %}
                     <div class="row">
                         <div class="col-12">
                             <h2>Hike Map</h2>
@@ -148,10 +157,6 @@
                                 <a href="/img/topos/{{ mapFilename }}">
                                     <img src="/img/topos/{{ mapFilename }}" alt="Map of {{ title }}" />
                                 </a>
-                            {%- endif %}
-
-                            {%- if gpxFilename | length %}
-                                <br /><a href="/files/gpx/{{ gpxFilename }}">Download GPX</a>
                             {%- endif %}
                         </div>
                     </div>
@@ -175,10 +180,14 @@
 {% endblock %}
 
 {%- if trailheads | length %}
-    {% block footer %}
+    {%- block footer %}
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.min.js" integrity="sha512-TL+GX2RsOUlTndpkgHVnSQ9r6zldqHzfyECrdabkpucdFroZ3/HAhMmP2WYaPjsJCoot+0McmdPOLjmmicG9qg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        {%- if gpxFilename | length %}
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js" integrity="sha512-BsUtn1Ar2O78Q8YkY1f2pkioHOs8H43KUlP3PHus8lyAMODNq1CmemnU435dFk/SU37OGG+ooxvmEhAcNTEBFQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        {%- endif %}
         <script type="text/javascript" src="/js/maps.min.js?v={{ buildTimestamp }}"></script>
         <script type="text/javascript">
             map_{{ title | slugify | replace("-", "") }}();
         </script>
-    {% endblock %}
+    {%- endblock %}
 {%- endif %}
