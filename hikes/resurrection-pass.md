@@ -17,8 +17,8 @@ seasonDescription: All year (cross country ski, hike or snowshoe in winter)
 mapFilename: resurrection-pass-topo.jpg
 topoFilename: 
 elevationFilename: 
-gpxFilename: 
-bannerImage: resurrection-pass-9
+gpxFilename: resurrection-pass.gpx
+bannerImage: resurrection-pass-banner
 attachments:
 - slug: resurrection-pass-1
   description: Beaver dam
@@ -28,14 +28,12 @@ attachments:
   description: ''
 - slug: resurrection-pass-4
   description: Out of canopy view
-- slug: resurrection-pass-5
-  description: Horse manure
 - slug: resurrection-pass-6
   description: West view from Fox Creek cabin.
 - slug: resurrection-pass-7
   description: Fox Creek cabin.
 - slug: resurrection-pass-8
-  description: Hiking into Devil's Pass cabin. Photo by anonymous.
+  description: Hiking into Devil's Pass cabin.
 - slug: resurrection-pass-10
   description: Frozen creek in winter
 - slug: resurrection-pass-11
