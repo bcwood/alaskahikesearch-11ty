@@ -69,11 +69,11 @@ Set up camp at North Beach and day hike to Fort McGilvray, a WWII Fort filled wi
 
 South Beach is a great place to day hike with a great view of the small rock islands that dot the entrance to the bay but it is a poor place to set up camp with an inconvenient water supply.
 
-On the hike route are two state cabins (see [this link](http://www.dnr.state.ak.us/parks/cabins/derbycovefs.pdf) for more information). While they are very nice, one, Derby Cove is set too far back to enjoy the views, and the other closes you off at high tide from exploring the fort, etc.
+On the hike route are two state cabins (see [this link](http://dnr.alaska.gov/parks/aspcabins/index.htm) for more information). While they are very nice, one, Derby Cove is set too far back to enjoy the views, and the other closes you off at high tide from exploring the fort, etc.
 
 ### Important Information
 
-You can pick up a tide table book at any bank in Alaska. There are also tables on the park's [official website](http://www.dnr.state.ak.us/parks/units/caineshd.htm). A good rule of thumb is 45 minutes to the beach to be there 1 hour before the peak of low tide. For example, if the low tide peak is at noon, you want to be at the beach at 11 am. This means you need to be leaving the trailhead at 10:15.
+You can pick up a tide table book at any bank in Alaska. There are also tables on the park's [official website](http://dnr.alaska.gov/parks/aspunits/kenai/cainesheadsra.htm). A good rule of thumb is 45 minutes to the beach to be there 1 hour before the peak of low tide. For example, if the low tide peak is at noon, you want to be at the beach at 11 am. This means you need to be leaving the trailhead at 10:15.
 
 Just before North Beach is an outcrop (right after the trail that leads up the mountain). If you cannot walk around it, DO NOT WALK OVER IT!. The rocks are razor sharp and you will get cut severely. Wait for the tide to go further down or go back and take the trail over the mountain.
 

@@ -52,7 +52,7 @@ This weekend I was going to stay in James Lake Cabin but a shoulder injury precl
 
 ### Important Information
 
-For a detailed description of each cabin and making making reservations for them, go to the [Nancy Lake State Recreation Website](http://www.dnr.state.ak.us/parks/units/nancylk/nancylk.htm). You can now make reservations and pay online instead of having to go in person to a State office.
+For a detailed description of each cabin and making making reservations for them, go to the [Nancy Lake State Recreation Website](https://dnr.alaska.gov/parks/aspunits/matsu/nancylksra.htm). You can now make reservations and pay online instead of having to go in person to a State office.
 
 The best way to hike this is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, go [here](/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").
 

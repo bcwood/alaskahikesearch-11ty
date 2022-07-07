@@ -8,7 +8,7 @@ difficultyDescription: very steep elevation on some parts of the trails. If usin
 connectedHikes: []
 milesOneWay: 15.75
 milesFromAnchorage: 225.0
-directionsFromAnchorage: drive south to Homer, then a half hour boat ride to the park. <a href="http://www.dnr.state.ak.us/parks/units/kbay/kbaytaxi.htm">Link here for a list of authorized water taxis</a>.
+directionsFromAnchorage: drive south to Homer, then a half hour boat ride to the park.
 elevationGain: 
 seasonDescription: June to September (very rainy in late season)
 mapFilename: grewingk-valley-topo.jpg
@@ -99,7 +99,7 @@ Definitely filter or boil the water in Grewingk Lake. There are a lot of birds m
 
 There is no water until you get to the tram.
 
-**The Tram:** the tram holds a maximum of 2 people with packs. Be prepared for sore arms; using the tram is a real upper body work out. Go to the [official website](http://www.dnr.state.ak.us/parks/units/kbay/kbay.htm) (info is under the Grewingk Glacier Trail description) to be familiar with its operation. You may want to call ahead as well to make sure it's in operation. Bring gloves! and have them handy. They'll make a big difference. 
+**The Tram:** the tram holds a maximum of 2 people with packs. Be prepared for sore arms; using the tram is a real upper body work out. Go to the [official website](http://dnr.alaska.gov/parks/aspunits/kenai/kachemakbaysp.htm) (info is under the Grewingk Glacier Trail description) to be familiar with its operation. You may want to call ahead as well to make sure it's in operation. Bring gloves! and have them handy. They'll make a big difference. 
 
 About 1/3 of the trail is overgrown. Be careful of devils club and cow parsnip. Wear long pants and if you're a short person, consider a light long shirt.
 

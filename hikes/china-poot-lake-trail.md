@@ -13,7 +13,7 @@ connectedHikes:
 - Moose Valley Trail
 milesOneWay: 2.6
 milesFromAnchorage: 225.0
-directionsFromAnchorage: half hour boat ride out of Homer (<a href="http://www.dnr.state.ak.us/parks/units/kbay/kbaytaxi.htm">list of authorized water taxis</a>)
+directionsFromAnchorage: half hour boat ride out of Homer
 elevationGain: 
 seasonDescription: June to September (very rainy in late season)
 mapFilename: china-poot-lake-trail-topo.jpg

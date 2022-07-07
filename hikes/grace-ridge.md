@@ -8,7 +8,7 @@ difficultyDescription:
 connectedHikes: []
 milesOneWay: 8.2
 milesFromAnchorage: 225.0
-directionsFromAnchorage: drive south to Homer, then a half hour boat ride to the park. <a href="http://www.dnr.state.ak.us/parks/units/kbay/kbaytaxi.htm">Link here for a list of authorized water taxis</a>.
+directionsFromAnchorage: drive south to Homer, then a half hour boat ride to the park.
 elevationGain: 
 seasonDescription: June to August
 mapFilename: grace-ridge-topo.jpg

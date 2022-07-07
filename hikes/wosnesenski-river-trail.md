@@ -73,6 +73,6 @@ There was [bear](/education/#bears) scat everywhere! Make sure you hang up your 
 
 ### Etc.
 
-You will need to take a 30 minute boat ride from Homer to get to the park. [Go here for a list of authorized water taxis](http://www.dnr.state.ak.us/parks/units/kbay/kbaytaxi.htm).
+You will need to take a 30 minute boat ride from Homer to get to the park.
 
 The City of Homer is one of the best towns in Alaska. I absolutely love this place. I would highly recommend spending a few days here before or after your backpacking trip. If fishing, whale and other marine life watching, or road tripping is on your itinerary, make Homer the place to do it. [Go here for more information](http://www.homeralaska.org/).

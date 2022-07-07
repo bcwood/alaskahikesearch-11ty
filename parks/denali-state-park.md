@@ -10,4 +10,4 @@ However the gems of the park are the several hiking trails that run along the ri
 
 Just so you don't say I didn't warn you, due to the weather conditions Denali creates in itself, you will only have a 30% chance of seeing it unobstructed by clouds on any given day.  
 
-[Official Website](http://www.dnr.state.ak.us/parks/units/denali1.htm)
+[Official Website](http://dnr.alaska.gov/parks/aspunits/matsu/denalisp.htm)
