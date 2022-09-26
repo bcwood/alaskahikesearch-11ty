@@ -9,7 +9,7 @@ connectedHikes: []
 milesOneWay: 23.0
 milesFromAnchorage: 64.0
 directionsFromAnchorage: 'North Trailhead: 64 <br />South Trailhead: 94'
-elevationGain: 4600
+elevationGain: 2700
 seasonDescription: All year (cross country ski, snowshoe, or hike in winter)
 mapFilename: johnson-pass-topo.jpg
 topoFilename: 
