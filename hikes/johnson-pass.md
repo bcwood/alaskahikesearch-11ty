@@ -15,10 +15,12 @@ mapFilename: johnson-pass-topo.jpg
 topoFilename: 
 elevationFilename: 
 gpxFilename: johnson-pass.gpx
-bannerImage: johnson-pass-2
+bannerImage: johnson-pass-banner
 attachments:
 - slug: johnson-pass-1
   description: Johnson River in Winter
+- slug: johnson-pass-2
+  description: View of the pass
 - slug: johnson-pass-3
   description: 'Bridge #3 North Side'
 - slug: johnson-pass-4
@@ -51,10 +53,6 @@ trailheads:
 tags: ['hikes', 'chugach-national-forest']
 layout: layouts/hike.njk
 ---
-*7/11/03: After finally getting the chance to at least hike to Johnson Lake from the North Trailhead, this page has been entirely rewritten.*
-
-*6/9/04: I finally finished the southern portion of the trail. Again, this page has been edited. *
-
 If I could only use one word to describe this hike, it would be lush. With the exception of the very tops of the mountains and the water, the entire area is covered in green. I highly recommend this hike to wildflower lovers as there is an abundance and wide variety of them including lupine, wild columbine, and fireweed. It is amazing the growth in this pass. If it weren't for volunteers keeping the trail clear, I do believe it would be overgrown within a couple of years. 
 
 If you start from the north, most of the trail to the pass follows Johnson and Bench Rivers with sturdy bridges when you need to cross them. They are huge and beautiful water systems. At one point the water flows through a deep rock cut chasm culminating in an incredible waterfall. There are also other huge waterfalls coming down many of the surrounding mountains. The middle of the trail is dominated by Bench Lake and Johnson Lake where many people fish for graylings.

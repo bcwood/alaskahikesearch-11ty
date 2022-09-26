@@ -16,7 +16,7 @@ mapFilename: lost-lake-topo.jpg
 topoFilename: 
 elevationFilename: 
 gpxFilename: lost-lake.gpx
-bannerImage: lost-lake-18
+bannerImage: lost-lake-banner
 attachments:
 - slug: lost-lake-1
   description: North approach to Lost Lake
@@ -52,6 +52,8 @@ attachments:
   description: View of Resurrection Bay
 - slug: lost-lake-17
   description: South approach to Lost Lake
+- slug: lost-lake-18
+  description: View of Lost Lake
 trailheads:
 - name: Lost Lake Trailhead (Primrose)
   latitude: 60.3407152
