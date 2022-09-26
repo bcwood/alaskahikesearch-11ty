@@ -4,7 +4,7 @@ park: Chugach State Park
 submittedBy: ''
 rating: 2
 difficultyRating: Difficult
-difficultyDescription: steady increase in elevation for the first 6 miles; then annoying and frustrating bushwhacking and/or post holing depending on time of year (which earns it the difficult rating). Trail is very overgro
+difficultyDescription: steady increase in elevation for the first 6 miles; then annoying and frustrating bushwhacking and/or post holing depending on time of year (which earns it the difficult rating). Trail is very overgrown.
 connectedHikes:
 - Ship Creek Trail
 - Ship Lake Valley
