@@ -14,7 +14,7 @@ seasonDescription: All year (cross country ski, snowshoe, or hike in winter)
 mapFilename: johnson-pass-topo.jpg
 topoFilename: 
 elevationFilename: 
-gpxFilename: 
+gpxFilename: johnson-pass.gpx
 bannerImage: johnson-pass-2
 attachments:
 - slug: johnson-pass-1

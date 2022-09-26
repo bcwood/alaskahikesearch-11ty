@@ -15,7 +15,7 @@ seasonDescription: June to September (technically this is also a winter trail bu
 mapFilename: lost-lake-topo.jpg
 topoFilename: 
 elevationFilename: 
-gpxFilename: 
+gpxFilename: lost-lake.gpx
 bannerImage: lost-lake-18
 attachments:
 - slug: lost-lake-1
