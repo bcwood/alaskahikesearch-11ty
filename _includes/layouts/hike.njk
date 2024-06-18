@@ -109,7 +109,7 @@
                         <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#calendar-days"></use></svg></div> Season
                     </div>
                     <div class="col-6">
-                        {{ seasonDescription }}
+                        {{ seasonDescription | safe }}
                     </div>
                 </div>
 
@@ -119,7 +119,7 @@
                             <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#person-hiking"></use></svg></div> Submitted By
                         </div>
                         <div class="col-6">
-                            {{ submittedBy }}
+                            {{ submittedBy | safe }}
                         </div>
                     </div>
                 {%- endif %}
