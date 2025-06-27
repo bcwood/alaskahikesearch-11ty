@@ -5,7 +5,6 @@ const markdownIt = require("markdown-it");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const cleanCSS = require("clean-css");
 const { minify } = require("terser");
-const slugify = require('@sindresorhus/slugify');
 
 module.exports = function(eleventyConfig) {
   // Copy static folders to the output
