@@ -4,41 +4,42 @@ park: Kachemak State Park
 submittedBy: Bill Walker
 rating: 4
 difficultyRating: Somewhat difficult
-difficultyDescription: 
+difficultyDescription:
 connectedHikes: []
 milesOneWay: 8.2
 milesFromAnchorage: 225.0
 directionsFromAnchorage: drive south to Homer, then a half hour boat ride to the park.
-elevationGain: 
+elevationGain:
 seasonDescription: June to August
 mapFilename: grace-ridge-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: grace-ridge-3
 attachments:
-- slug: grace-ridge-1
-  description: Bay View. Photo by Bill Walker.
-- slug: grace-ridge-2
-  description: Ridge. Photo by Bill Walker.
-- slug: grace-ridge-4
-  description: Glacial wash. Photo by Bill Walker.
-- slug: grace-ridge-5
-  description: Ascent to the ridge. Photo by Bill Walker.
-- slug: grace-ridge-6
-  description: On the ridge. Photo by Bill Walker.
-- slug: grace-ridge-7
-  description: Photo by Bill Walker.
-- slug: grace-ridge-8
-  description: Bay View. Photo by Bill Walker.
-- slug: grace-ridge-9
-  description: Bay View. Photo by Bill Walker.
-- slug: grace-ridge-10
-  description: Bay View. Photo by Bill Walker.
+  - slug: grace-ridge-1
+    description: Bay View. Photo by Bill Walker.
+  - slug: grace-ridge-2
+    description: Ridge. Photo by Bill Walker.
+  - slug: grace-ridge-4
+    description: Glacial wash. Photo by Bill Walker.
+  - slug: grace-ridge-5
+    description: Ascent to the ridge. Photo by Bill Walker.
+  - slug: grace-ridge-6
+    description: On the ridge. Photo by Bill Walker.
+  - slug: grace-ridge-7
+    description: Photo by Bill Walker.
+  - slug: grace-ridge-8
+    description: Bay View. Photo by Bill Walker.
+  - slug: grace-ridge-9
+    description: Bay View. Photo by Bill Walker.
+  - slug: grace-ridge-10
+    description: Bay View. Photo by Bill Walker.
 trailheads: []
-tags: ['hikes', 'kachemak-state-park']
+tags: ["hikes", "kachemak-state-park"]
 layout: layouts/hike.njk
 ---
+
 On a sunny or high-overcast day, this hike provides wonderful views of the mountains, glaciers, bays, fjords and islands in this area of Kachemak Bay State Park.
 
 The trail starts at sea level, at a beach head known as Kayak Beach. The moderate trail through 3 miles of boreal rain forest climbs 1800 vertical feet to a knob above tree line. This location provides an awesome 360-degree view. People with little wilderness experience and/or moderate physical conditioning can get safely to this point. Most hikes end happily here. Continuing requires good physical condition and wilderness experience.

@@ -1,36 +1,37 @@
 ---
 title: Mt. Gordon Lyons
 park: Chugach State Park
-submittedBy: 
+submittedBy:
 rating: 3
 difficultyRating: Somewhat easy
 difficultyDescription: the elevation looks harder than it really is. If coming from Eagle River; first part to get to ridgeline is moderately steep.
 connectedHikes:
-- Rendezvous Peak
+  - Rendezvous Peak
 milesOneWay: 3.0
 milesFromAnchorage: 0.0
 directionsFromAnchorage: if taking the Eagle River route, 25 miles
-elevationGain: 
+elevationGain:
 seasonDescription: All year (use snowshoes in winter)
 mapFilename: gordon-lyons-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: gordon-lyons-3
 attachments:
-- slug: gordon-lyons-1
-  description: Rendezvous Ridge
-- slug: gordon-lyons-2
-  description: Eagle River
-- slug: gordon-lyons-4
-  description: Military Site with Anchorage in the background
+  - slug: gordon-lyons-1
+    description: Rendezvous Ridge
+  - slug: gordon-lyons-2
+    description: Eagle River
+  - slug: gordon-lyons-4
+    description: Military Site with Anchorage in the background
 trailheads:
-- name: Arctic Valley Trailhead
-  latitude: 61.2467223
-  longitude: -149.53491
-tags: ['hikes', 'chugach-state-park']
+  - name: Arctic Valley Trailhead
+    latitude: 61.2467223
+    longitude: -149.53491
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 This is a great hike for after work, especially for someone living on the east side, or for someone who just got in to town and wants a quick overview. Most people hiking in the Arctic Valley head to Rendezvous Peak so you'll also get a little more solitude heading left instead of right when you get to the saddle.
 
 Once you easily get to the saddle (from Arctic Valley Rd.), and a quick hop to the peak, you will have an outstanding 360° view. Herein, starting north: Denali and the Alaska Range (on a clear day) Knik Arm, an old Military site, Highland Mtn, the town of Eagle River, the north fork of the river, its surrounding peaks (Magnificent, Baldy, Black Tail Rocks, Harp, Vista & Roundtop), Eagle Glacier, the south fork of Eagle River with Eagle and Symphony Lakes in the distance, Rendezvous Peak, Ship Creek and Indian Valley, Anchorage, Turnagain Arm, and the Cook Inlet.

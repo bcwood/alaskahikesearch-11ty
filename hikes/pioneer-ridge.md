@@ -9,27 +9,28 @@ connectedHikes: []
 milesOneWay: 6.0
 milesFromAnchorage: 38.0
 directionsFromAnchorage: on Knik River Road near Palmer
-elevationGain: 
+elevationGain:
 seasonDescription: June to September
 mapFilename: pioneer-peak-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: pioneer-ridge-3
 attachments:
-- slug: pioneer-ridge-1
-  description: Towards Pioneer Peaks. Photo by Ross Timm.
-- slug: pioneer-ridge-2
-  description: Picnic Table. Photo by Ross Timm.
-- slug: pioneer-ridge-4
-  description: Knik Glacier. Photo by Phil Armitage.
-- slug: pioneer-ridge-5
-  description: Upper Pioneer Ridge. Photo by Ross Timm.
+  - slug: pioneer-ridge-1
+    description: Towards Pioneer Peaks. Photo by Ross Timm.
+  - slug: pioneer-ridge-2
+    description: Picnic Table. Photo by Ross Timm.
+  - slug: pioneer-ridge-4
+    description: Knik Glacier. Photo by Phil Armitage.
+  - slug: pioneer-ridge-5
+    description: Upper Pioneer Ridge. Photo by Ross Timm.
 trailheads: []
-tags: ['hikes', 'chugach-state-park']
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
-Please use the book "*50 hikes in Alaska's Chugach State Park*" for reference with this description.
+
+Please use the book "_50 hikes in Alaska's Chugach State Park_" for reference with this description.
 I decided to take on Pioneer Peak on a HOT (80+), late June day. The hike starts along Knik River Road near Palmer. The mountain appears VERY imposing from the Glen Highway, but you approach it from the back, where there is a long steady climb along a steep ridge. The 2001 edition of the book says the Knik River Road is a dirt road, but it is paved-- that was confusing.
 
 Anyway- you start at 200 ft elevation at the nice trailhead (no toilets or water though). Most people stop either at a picnic table (yes a picnic table) at about 4800 ft (?) or at a saddle at 5200 feet. The books talk all about the picnic tables placed along the way-- they sure are nice distance markers and also make for nice tanning beds! But one book says there are four, one says three. I saw three-- I think maybe the top one is gone now, probably burned by some idiot.
@@ -46,6 +47,6 @@ Total time 6.5 hours, with many short breaks. The views are spectacular! And you
 
 No young kids!
 
-Only hikers in good shape should attempt, even to the last "official point" -- it is tougher than, lets say, Flattop's second stage (to the second saddle) the whole way, but about 5 times as long. Only hikers who enjoy scrambling with some danger should go past that point! Snow patches were small but still around in late June. Bigger one at the last official point- should give water throughout the summer for the final peak hike (but don't quote me on that!) 
+Only hikers in good shape should attempt, even to the last "official point" -- it is tougher than, lets say, Flattop's second stage (to the second saddle) the whole way, but about 5 times as long. Only hikers who enjoy scrambling with some danger should go past that point! Snow patches were small but still around in late June. Bigger one at the last official point- should give water throughout the summer for the final peak hike (but don't quote me on that!)
 
 Bring bug dope for the jungle!

@@ -1,58 +1,59 @@
 ---
 title: Campbell Creek Canyon Trail
 park: Chugach State Park
-submittedBy: 
+submittedBy:
 rating: 3
 difficultyRating: Somewhat easy
 difficultyDescription: "with the exception of two points of difficulty: The first is Near Point, a small mountain that you'll have to go over,  and if you are including Williwaw as a loop hike (which I totally recommend!), y"
 connectedHikes:
-- Williwaw Lakes
-- Near Point
-- The Dome
-- Knoya Peak
-- T'kishla Peak
-- Tanaina Lake
+  - Williwaw Lakes
+  - Near Point
+  - The Dome
+  - Knoya Peak
+  - T'kishla Peak
+  - Tanaina Lake
 milesOneWay: 9.0
 milesFromAnchorage: 0.0
 directionsFromAnchorage: 20 minute drive from downtown
-elevationGain: 
+elevationGain:
 seasonDescription: May to September
 mapFilename: campbell-creek-canyon-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: campbell-creek-canyon-trail-7
 attachments:
-- slug: campbell-creek-canyon-trail-1
-  description: First tarn
-- slug: campbell-creek-canyon-trail-2
-  description: Long Lake
-- slug: campbell-creek-canyon-trail-3
-  description: Star at camp
-- slug: campbell-creek-canyon-trail-5
-  description: Campbell Creek Valley from Mt. Wolverine
-- slug: campbell-creek-canyon-trail-6
-  description: Long Lake
-- slug: campbell-creek-canyon-trail-4
-  description: Mt. Wolverine
+  - slug: campbell-creek-canyon-trail-1
+    description: First tarn
+  - slug: campbell-creek-canyon-trail-2
+    description: Long Lake
+  - slug: campbell-creek-canyon-trail-3
+    description: Star at camp
+  - slug: campbell-creek-canyon-trail-5
+    description: Campbell Creek Valley from Mt. Wolverine
+  - slug: campbell-creek-canyon-trail-6
+    description: Long Lake
+  - slug: campbell-creek-canyon-trail-4
+    description: Mt. Wolverine
 trailheads:
-- name: Prospect Heights Trailhead
-  latitude: 61.1389031
-  longitude: -149.7108881
-- name: Basher Trailhead
-  latitude: 61.1515809
-  longitude: -149.7143492
-tags: ['hikes', 'chugach-state-park']
+  - name: Prospect Heights Trailhead
+    latitude: 61.1389031
+    longitude: -149.7108881
+  - name: Basher Trailhead
+    latitude: 61.1515809
+    longitude: -149.7143492
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 The chief attraction of this hike is Long Lake, aptly described, with great campsites all around it, as well as an incredible landscape created by the previous glacier. At the head of the valley, the leftover moraine and cirque leftover from the previous glacier is quite unique and when I come back, I really want to explore this part of the hike after setting up camp. Better yet, I think it would be cool to actually set up camp there as there is an absolutely beautiful tarn.
 
 After going over Near point, you'll deal with some bushwhacking but it will soon be over. Wolverine, one of the tallest mountains in the Park looms over you the first part. This is a long valley and it will be awhile before you actually reach the lake, where just before is rocky tundra and 2 much smaller lakes. While very close to Anchorage, it is one of the least used trails. I believe this is due to having to climb over Near Point first before getting to the trail proper. It's worth the extra work. Better yet, I recommend combining this with the Williwaw Lakes Trail and then you only have to do the mountain once. The entire loop contains 19 lakes!
 The time I did this was as a pass through. The next time I plan on blocking a lot of time to wander and explore. Long Lake is definitely one of the nicest trails in the area and the solitude factor is a major plus for a trail so close to Anchorage.
 
-*The following was added on May 28, 2005:*
+_The following was added on May 28, 2005:_
 
-I hiked into the valley on Friday, with the plan to stay till late Sunday afternoon exploring some of the peaks (Tanaina, Knoya, etc). It was incredibly windy and never stopped the full day I was there. The next day, the wind still hadn't let up and a chill rain started to fall. The peaks involve a lot of ridge walking so I decided to bag it and come home rather risk the narrow paths to the peaks . Since the trail is very close to my home, I will return later this summer to get these peaks into the website. 
+I hiked into the valley on Friday, with the plan to stay till late Sunday afternoon exploring some of the peaks (Tanaina, Knoya, etc). It was incredibly windy and never stopped the full day I was there. The next day, the wind still hadn't let up and a chill rain started to fall. The peaks involve a lot of ridge walking so I decided to bag it and come home rather risk the narrow paths to the peaks . Since the trail is very close to my home, I will return later this summer to get these peaks into the website.
 
 However, since I had to stay in the valley, it gave me a lot of time to walk around and it confirmed my analysis that this is a great spot in the Chugach to get away from the crowds. This was Memorial Day weekend and while I bet there were at least 10-20 tents in the Williwaw Valley, I was the only one in Canyon Creek. Yeah, it was a bitch hauling my pack over Near Point but it was over soon and a lot easier than going back up to the Ramp at Ship Lake. One thing that can get to you is the Alaska Mile, as it seems the lake is a lot closer till you get to that ridge that it must be just over and instead there is another expanse of tundra to get over.
 
@@ -71,7 +72,7 @@ I did see a guy fishing at the lake but didn't stick around long enough to see h
 
 This valley and Williwaw can get very windy (a plus for avoiding mosquitoes). Make sure your tent is secure and facing west.
 
-*The pass to get into Williwaw Valley and the Long Lake area itself are military lands. You will need to get a permit to hike there and let them know. Link here for more information.*
+_The pass to get into Williwaw Valley and the Long Lake area itself are military lands. You will need to get a permit to hike there and let them know. Link here for more information._
 
 ### Etc.
 

@@ -1,46 +1,47 @@
 ---
 title: Triangle Peak
 park: Chugach State Park
-submittedBy: 
+submittedBy:
 rating: 4
 difficultyRating: Somewhat difficult
 difficultyDescription: navigation, elevation, some isolation, and distance
 connectedHikes:
-- Eagle and Symphony Lakes
-- Flute Glacier
-- Hanging Valley
-- Rendezvous Peak
-- Eagle Peak
+  - Eagle and Symphony Lakes
+  - Flute Glacier
+  - Hanging Valley
+  - Rendezvous Peak
+  - Eagle Peak
 milesOneWay: 9.5
 milesFromAnchorage: 25.0
 directionsFromAnchorage: on the outskirts of the town of Eagle River
-elevationGain: 
+elevationGain:
 seasonDescription: June to September (too much snow before then)
 mapFilename: triangle-peak-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: triangle-peak-1
 attachments:
-- slug: triangle-peak-2
-  description: View of Triangle Peak from Symphony Lake
-- slug: triangle-peak-3
-  description: Tarn area and point
-- slug: triangle-peak-4
-  description: At the summit
-- slug: triangle-peak-5
-  description: View of peak from pass
-- slug: triangle-peak-6
-  description: The last bit
-- slug: triangle-peak-7
-  description: Upper tarn, Symphony and Eagle Lakes
+  - slug: triangle-peak-2
+    description: View of Triangle Peak from Symphony Lake
+  - slug: triangle-peak-3
+    description: Tarn area and point
+  - slug: triangle-peak-4
+    description: At the summit
+  - slug: triangle-peak-5
+    description: View of peak from pass
+  - slug: triangle-peak-6
+    description: The last bit
+  - slug: triangle-peak-7
+    description: Upper tarn, Symphony and Eagle Lakes
 trailheads:
-- name: South Fork Trailhead
-  latitude: 61.2327938
-  longitude: -149.4561918
-tags: ['hikes', 'chugach-state-park']
+  - name: South Fork Trailhead
+    latitude: 61.2327938
+    longitude: -149.4561918
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 Triangle peak is located at the head of the Symphony Lake valley, and to access the route described in "50 Hikes" you will need to use the [Eagle / Symphony Lake Trail](/hikes/eagle-and-symphony-lakes/ "Eagle and Symphony Lakes"), which is 6 miles already. We did this as a backpacking trip up to Symphony Lake and we trucked along the trail to the lake from the trailhead making it in just under 3 hours. We set up camp, took in the scenery, and looked at what we were up against.
 
 The next day, after a day of absolute sun - we had low clouds over the entire Eagle / Symphony basin. We headed out to the Symphony Lake input stream and hiked maybe 3/4 of a mile up this valley. Since the time of this writing there has been a massive, I mean absolutely massive, huge beaver dam on the input stream, making crossing difficult and flooding a lot of what was crossable and narrow in years past. Trying to find a dry-foot route was challenging, but possible with a lot of jumping. We missed the gold lichen speckled slope as the book describes, but met up with it later. The trail is pretty well worn, and there are some cairns - but the area where the streams pour out of the tarns is pretty obvious.

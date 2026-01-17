@@ -1,31 +1,32 @@
 ---
 title: Vagt Lake
 park: Chugach National Forest
-submittedBy: ''
+submittedBy: ""
 rating: 2
 difficultyRating: Easy
-difficultyDescription: ''
+difficultyDescription: ""
 connectedHikes: []
 milesOneWay: 1.5
 milesFromAnchorage: 90.0
 directionsFromAnchorage: on the Seward Highway, 30 miles north of Seward
-elevationGain: 
+elevationGain:
 seasonDescription: May to September
 mapFilename: vagt-lake-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: vagt-lake-2
 attachments:
-- slug: vagt-lake-3
-  description: Trail Lake
-- slug: vagt-lake-4
-  description: Trail Lake
+  - slug: vagt-lake-3
+    description: Trail Lake
+  - slug: vagt-lake-4
+    description: Trail Lake
 trailheads: []
-tags: ['hikes', 'chugach-national-forest']
+tags: ["hikes", "chugach-national-forest"]
 layout: layouts/hike.njk
 ---
-I've seen this trail on my *National Geographic Map of Chugach National Forest* but I've never seen it mentioned in any guidebook. In the interest of this website, one Sunday morning after visiting Lost Lake, I decided to check it out.
+
+I've seen this trail on my _National Geographic Map of Chugach National Forest_ but I've never seen it mentioned in any guidebook. In the interest of this website, one Sunday morning after visiting Lost Lake, I decided to check it out.
 
 From what I gather, this is really just a trail for fishermen to get to the lake. The trail is just east of Trail River Lake and the trailhead starts right off the Seward Highway. At the trailhead is space enough for about 3 campsites if you're lucky enough to snag one. However, I was quite disgusted how ill kept former campers/fishermen kept the latrine area (no outhouses).
 
@@ -37,7 +38,7 @@ If you do like to fish, but aren't into the shoulder to shoulder "combat" style 
 
 ### Important Information
 
-Getting to the trailhead is a little tricky. Going south, once you pass Trail River Lake, you'll see railroad tracks on your left. Hang a left onto Lower Trail Road and another left after the tracks. 
+Getting to the trailhead is a little tricky. Going south, once you pass Trail River Lake, you'll see railroad tracks on your left. Hang a left onto Lower Trail Road and another left after the tracks.
 
 If you do plan on fishing, please make sure you have a license and are educated about current regulations.
 

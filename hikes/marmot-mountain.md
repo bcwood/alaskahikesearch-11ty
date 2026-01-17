@@ -9,21 +9,22 @@ connectedHikes: []
 milesOneWay: 2.6
 milesFromAnchorage: 57.0
 directionsFromAnchorage: in the Hatcher Pass area
-elevationGain: 
+elevationGain:
 seasonDescription: All year
-mapFilename: 
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+mapFilename:
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: marmot-mountain-1
 attachments: []
 trailheads:
-- name: Fishhook Trailhead
-  latitude: 61.7669796
-  longitude: -149.2654427
-tags: ['hikes', 'matanuska-valley']
+  - name: Fishhook Trailhead
+    latitude: 61.7669796
+    longitude: -149.2654427
+tags: ["hikes", "matanuska-valley"]
 layout: layouts/hike.njk
 ---
+
 I had always wanted to climb this mountain, it always seemed easy from the road. Although it ended up not being too easy, it was certainly not too challenging, and it has some great views. Almost all of the popular Hatcher Pass areas can be seen from the top, so it was quite a sight.
 
 The trailhead is at the Fishhook Winter Trailhead just a couple of miles before the Independence mine area. The hike begins with small rolling hills and increases in steepness. It took me about 1 hour to get to the first peak/ridgeline. Once you get to the ridgeline, it’s an easy stroll to the next ascension to the top where the summit flag is.

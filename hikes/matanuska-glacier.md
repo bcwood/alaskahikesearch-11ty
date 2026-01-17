@@ -1,7 +1,7 @@
 ---
 title: Matanuska Glacier
 park: Matanuska Valley
-submittedBy: 
+submittedBy:
 rating: 4
 difficultyRating: Easy
 difficultyDescription: as easy as walking on ice.
@@ -9,31 +9,32 @@ connectedHikes: []
 milesOneWay: 0.5
 milesFromAnchorage: 100.0
 directionsFromAnchorage: Take the Glenn Highway north
-elevationGain: 
+elevationGain:
 seasonDescription: May to September
 mapFilename: matanuska-glacier-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: matanuska-glacier-banner
 attachments:
-- slug: matanuska-glacier-1
-  description: Terminus of the glacier
-- slug: matanuska-glacier-2
-  description: On the glacier
-- slug: matanuska-glacier-3
-  description: On the glacier
-- slug: matanuska-glacier-4
-  description: Glacial melt
-- slug: matanuska-glacier-5
-  description: Matanuska Valley
+  - slug: matanuska-glacier-1
+    description: Terminus of the glacier
+  - slug: matanuska-glacier-2
+    description: On the glacier
+  - slug: matanuska-glacier-3
+    description: On the glacier
+  - slug: matanuska-glacier-4
+    description: Glacial melt
+  - slug: matanuska-glacier-5
+    description: Matanuska Valley
 trailheads:
-- name: Matanuska Glacier Trailhead
-  latitude: 61.7779049
-  longitude: -147.7658421
-tags: ['hikes', 'matanuska-valley']
+  - name: Matanuska Glacier Trailhead
+    latitude: 61.7779049
+    longitude: -147.7658421
+tags: ["hikes", "matanuska-valley"]
 layout: layouts/hike.njk
 ---
+
 This isn't a true hike per se, but if you want to explore a glacier without having to rent a guide and be attached to someone with a rope, this is the place.
 
 What can I say? It's a really cool thing to do and it should be a definite stop on your way to or back from the Wrangells, Valdez, McCarthy, etc. The photographic opportunities are endless.

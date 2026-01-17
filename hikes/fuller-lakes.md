@@ -1,7 +1,7 @@
 ---
 title: Fuller Lakes
 park: Kenai National Wildlife Refuge
-submittedBy: 
+submittedBy:
 rating: 2
 difficultyRating: Moderate
 difficultyDescription: 2/3 is uphill, but if you're in decent shape, you shouldn't have a problem.
@@ -9,27 +9,28 @@ connectedHikes: []
 milesOneWay: 3.0
 milesFromAnchorage: 110.0
 directionsFromAnchorage: 110; on the Sterling Highway just past the Russian River Trailhead/Campground
-elevationGain: 
+elevationGain:
 seasonDescription: May to October
 mapFilename: fuller-lakes-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: fuller-lakes-2
 attachments:
-- slug: fuller-lakes-1
-  description: ''
-- slug: fuller-lakes-3
-  description: View of Skilak Lake
-- slug: fuller-lakes-4
-  description: Middle Lake
-- slug: fuller-lakes-5
-  description: Upper Lake
+  - slug: fuller-lakes-1
+    description: ""
+  - slug: fuller-lakes-3
+    description: View of Skilak Lake
+  - slug: fuller-lakes-4
+    description: Middle Lake
+  - slug: fuller-lakes-5
+    description: Upper Lake
 trailheads: []
-tags: ['hikes', 'kenai-national-wildlife-refuge']
+tags: ["hikes", "kenai-national-wildlife-refuge"]
 layout: layouts/hike.njk
 ---
-*Before I begin my description, I should let you know that my judgment on this hike may be clouded due to the fact that my damn (at least on this day) dog rubbed into a dead fish in the parking lot and stunk to high heaven. I was really pissed at her and we did the hike real quick so I could get to Soldotna and buy some vinegar to wash it out.*
+
+_Before I begin my description, I should let you know that my judgment on this hike may be clouded due to the fact that my damn (at least on this day) dog rubbed into a dead fish in the parking lot and stunk to high heaven. I was really pissed at her and we did the hike real quick so I could get to Soldotna and buy some vinegar to wash it out._
 
 This is a nice uphill hike to 3 sub-alpine lakes. Most of the trail is in spruce and aspen forest with one quick skirt of Mystery creek and one quick open view of Skilak Lake.
 
@@ -41,7 +42,7 @@ Verdict: if you're in the area to fish or camp, it's a nice summer evening hike,
 
 ### Important Information
 
-I'm noticing on some of the topos that the trail is marked differently than the actual walk. However, the trail is clearly marked and you shouldn't have a problem. 
+I'm noticing on some of the topos that the trail is marked differently than the actual walk. However, the trail is clearly marked and you shouldn't have a problem.
 
 If you plan on fishing, make sure you are educated about licenses and regulations.
 

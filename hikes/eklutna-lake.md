@@ -1,58 +1,59 @@
 ---
 title: Eklutna Lake
 park: Chugach State Park
-submittedBy: 
+submittedBy:
 rating: 3
 difficultyRating: Easy
 difficultyDescription: no elevation gain
 connectedHikes:
-- Twin Peaks
-- Bold Peak Valley
-- Pepper Peak
-- East Fork Trail
+  - Twin Peaks
+  - Bold Peak Valley
+  - Pepper Peak
+  - East Fork Trail
 milesOneWay: 13.0
 milesFromAnchorage: 35.0
 directionsFromAnchorage: take the Eklutna exit off the Parks Highway
-elevationGain: 
+elevationGain:
 seasonDescription: All year long (hike, cross country ski, snowshoe in winter)
 mapFilename: eklutna-lake-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: eklutna-lake-banner
 attachments:
-- slug: eklutna-lake-1
-  description: Winter. Photo by Frank Baker.
-- slug: eklutna-lake-2
-  description: Winter. Photo by Frank Baker.
-- slug: eklutna-lake-3
-  description: South end of lake
-- slug: eklutna-lake-4
-  description: View from lakeside trail
-- slug: eklutna-lake-5
-  description: Eklutna River
-- slug: eklutna-lake-6
-  description: Frozen lake. Photo by Conrad.
-- slug: eklutna-lake-7
-  description: Mountain view
-- slug: eklutna-lake-8
-  description: Mountain view
-- slug: eklutna-lake-9
-  description: Mountain view
-- slug: eklutna-lake-10
-  description: Avalanche
+  - slug: eklutna-lake-1
+    description: Winter. Photo by Frank Baker.
+  - slug: eklutna-lake-2
+    description: Winter. Photo by Frank Baker.
+  - slug: eklutna-lake-3
+    description: South end of lake
+  - slug: eklutna-lake-4
+    description: View from lakeside trail
+  - slug: eklutna-lake-5
+    description: Eklutna River
+  - slug: eklutna-lake-6
+    description: Frozen lake. Photo by Conrad.
+  - slug: eklutna-lake-7
+    description: Mountain view
+  - slug: eklutna-lake-8
+    description: Mountain view
+  - slug: eklutna-lake-9
+    description: Mountain view
+  - slug: eklutna-lake-10
+    description: Avalanche
 trailheads:
-- name: Eklutna Lake Trailhead
-  latitude: 61.4093816
-  longitude: -149.1355825
-tags: ['hikes', 'chugach-state-park']
+  - name: Eklutna Lake Trailhead
+    latitude: 61.4093816
+    longitude: -149.1355825
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
-Eklutna Lake, the largest lake in the park, is the City of Anchorage's Reservoir. While the trail is no more than an unused road, the lake is beautiful as well as the surrounding landscape. It's a nice place to walk around but if you really want to enjoy the area, bike it! This is one of the all time great places to do it. 
+
+Eklutna Lake, the largest lake in the park, is the City of Anchorage's Reservoir. While the trail is no more than an unused road, the lake is beautiful as well as the surrounding landscape. It's a nice place to walk around but if you really want to enjoy the area, bike it! This is one of the all time great places to do it.
 
 Many people use the lake to kayak and canoe (no motorboats-it's our drinking water!). In the winter, it's a great place to hike and cross country ski and if it's safe, many people walk on the lake.
 
-On the trail, great views pop in and out of the trees as you travel along the west side of the lake. The trail then proceeds parallel to Eklutna River (but you won't see it till the bridge). Past this, proceed to the end of the trail where the fierce and milky current of Eklutna River feeds off the glacier. 
+On the trail, great views pop in and out of the trees as you travel along the west side of the lake. The trail then proceeds parallel to Eklutna River (but you won't see it till the bridge). Past this, proceed to the end of the trail where the fierce and milky current of Eklutna River feeds off the glacier.
 
 Leave your bike and continue on the primitive trail over boulders and rocks till you get to the end. This is a great spot for lunch. Unfortunately, the glacier has been receding and cannot be seen from this point. Better views can be seen from the second bridge.
 
@@ -68,7 +69,7 @@ This is a really great recreation area and for people who are visiting and plan 
 
 ### Etc.
 
-There is a $5 parking fee (bring exact amount). The price for an annual parking pass is $60. You can purchase a pass at the Federal Building at 4th and F or the Atwood Building on 7th and E, 13th Floor. 
+There is a $5 parking fee (bring exact amount). The price for an annual parking pass is $60. You can purchase a pass at the Federal Building at 4th and F or the Atwood Building on 7th and E, 13th Floor.
 
 If you're heading back to Anchorage, take a quick side trip and visit the Native Russian Church and Cemetery. Continue straight after the bridge for a few miles instead of taking the left turn onto the Glenn Highway. Stay outside the fenced area and be respectful of the premises.
 

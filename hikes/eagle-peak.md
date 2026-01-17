@@ -6,47 +6,48 @@ rating: 5
 difficultyRating: Difficult
 difficultyDescription: significant vertical elevation gain, fairly remote, some route finding skill.
 connectedHikes:
-- Eagle and Symphony Lakes
-- Flute Glacier
-- Hanging Valley
-- Rendezvous Peak
-- Triangle Peak
+  - Eagle and Symphony Lakes
+  - Flute Glacier
+  - Hanging Valley
+  - Rendezvous Peak
+  - Triangle Peak
 milesOneWay: 11.0
 milesFromAnchorage: 25.0
 directionsFromAnchorage: on the outskirts of the town of Eagle River
 elevationGain: 5500
 seasonDescription: July to September
 mapFilename: eagle-peak-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: eagle-peak-8
 attachments:
-- slug: eagle-peak-1
-  description: Summit. Photo by Keith Weinhold.
-- slug: eagle-peak-2
-  description: Eagle Lake with peak in back. Photo by Keith Weinhold.
-- slug: eagle-peak-3
-  description: Flute Glacier Valley. Photo by Frank Baker.
-- slug: eagle-peak-4
-  description: Summit. Photo by Keith Weinhold.
-- slug: eagle-peak-5
-  description: Signing registry. Photo by Keith Weinhold.
-- slug: eagle-peak-6
-  description: Eagle Lake. Photo by Frank Baker.
-- slug: eagle-peak-7
-  description: On the summit. Photo by Frank Baker.
-- slug: eagle-peak-10
-  description: Google Earth image showing the route up Eagle Peak, with annotations. Image by Lee Helzer.
-- slug: eagle-peak-9
-  description: Google Earth image showing approach to Eagle Peak. Image by Lee Helzer.
+  - slug: eagle-peak-1
+    description: Summit. Photo by Keith Weinhold.
+  - slug: eagle-peak-2
+    description: Eagle Lake with peak in back. Photo by Keith Weinhold.
+  - slug: eagle-peak-3
+    description: Flute Glacier Valley. Photo by Frank Baker.
+  - slug: eagle-peak-4
+    description: Summit. Photo by Keith Weinhold.
+  - slug: eagle-peak-5
+    description: Signing registry. Photo by Keith Weinhold.
+  - slug: eagle-peak-6
+    description: Eagle Lake. Photo by Frank Baker.
+  - slug: eagle-peak-7
+    description: On the summit. Photo by Frank Baker.
+  - slug: eagle-peak-10
+    description: Google Earth image showing the route up Eagle Peak, with annotations. Image by Lee Helzer.
+  - slug: eagle-peak-9
+    description: Google Earth image showing approach to Eagle Peak. Image by Lee Helzer.
 trailheads:
-- name: South Fork Trailhead
-  latitude: 61.2327938
-  longitude: -149.4561918
-tags: ['hikes', 'chugach-state-park']
+  - name: South Fork Trailhead
+    latitude: 61.2327938
+    longitude: -149.4561918
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 The namesake peak of the Eagle River Valley, jagged and imposing Eagle Peak penetrates nearly 7,000' above sea level into the Chugach sky. On a day with good visibility, few summits can take you higher and provide a more rewarding challenge without the need for climbing equipment so close to Anchorage. At the summit, you won't believe where your own two feet have taken you as you look far below at Eagle and Symphony Lakes - nearly a vertical mile below!
 
 Only for those that are highly fit, one can climb 6,909' Eagle Peak in a day trip from Anchorage, sleeping in their own bed the night before and night after. Most will want to take two days, making camp in the largely untrodden upper valley of the South Fork of Eagle River. In either case, the route is replete with lung-busting uphills and butt-busting downhills, and more twists and turns than the plot of "The Empire Strikes Back". With cooperative weather, summiting this Chugach Range peak can be a transcendent experience.

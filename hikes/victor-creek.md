@@ -9,27 +9,28 @@ connectedHikes: []
 milesOneWay: 3.0
 milesFromAnchorage: 95.0
 directionsFromAnchorage: on the Seward Highway, 25 miles north of Seward
-elevationGain: 
+elevationGain:
 seasonDescription: May to October
 mapFilename: victor-creek-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: victor-creek-1
 attachments:
-- slug: victor-creek-2
-  description: Kenai Lake Glimpse
-- slug: victor-creek-3
-  description: Braided section
-- slug: victor-creek-4
-  description: End of the trail
-- slug: victor-creek-5
-  description: Avalanche. Photo by Egore's Keepers.
+  - slug: victor-creek-2
+    description: Kenai Lake Glimpse
+  - slug: victor-creek-3
+    description: Braided section
+  - slug: victor-creek-4
+    description: End of the trail
+  - slug: victor-creek-5
+    description: Avalanche. Photo by Egore's Keepers.
 trailheads: []
-tags: ['hikes', 'chugach-national-forest']
+tags: ["hikes", "chugach-national-forest"]
 layout: layouts/hike.njk
 ---
-The trail follows the bluff along the steep canyon walls looking down into the powerful, milky-blueness of Victor Creek. You never see this one listed in the books, and there is very little parking, so it gets very little traffic. Even so, the trail is very well-maintained. Lots of blueberries in fall, flowers in summer. 
+
+The trail follows the bluff along the steep canyon walls looking down into the powerful, milky-blueness of Victor Creek. You never see this one listed in the books, and there is very little parking, so it gets very little traffic. Even so, the trail is very well-maintained. Lots of blueberries in fall, flowers in summer.
 
 I was very surprised on what a nice hike it was. For those who know this site, you know tree canopy hikes get low ratings But the trail does open up midway and the river really is very beautiful. I didn't go to the very, very end but the glacier looks very easy to get to if so inclined.
 

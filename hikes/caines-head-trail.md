@@ -1,69 +1,70 @@
 ---
 title: Caines Head Trail
 park: Caines Head Recreation Area
-submittedBy: 
+submittedBy:
 rating: 4
 difficultyRating: Easy
 difficultyDescription: a small elevation gain in beginning. Be careful on the rocky parts of the beach (they can be quite slippery). If you misjudge the tide, you may have to climb a small mountain for a short distance.
 connectedHikes:
-- Caines Head Alpine Trail
+  - Caines Head Alpine Trail
 milesOneWay: 4.5
 milesFromAnchorage: 120.0
 directionsFromAnchorage: just below the town of Seward
-elevationGain: 
+elevationGain:
 seasonDescription: April to September. A great pre-season hike. Snow melts quickly here and plenty of wood for a fire.
 mapFilename: caines-head-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: caines-head-trail-8
 attachments:
-- slug: caines-head-trail-1
-  description: Spruce Forest
-- slug: caines-head-trail-2
-  description: Fort McGilvray
-- slug: caines-head-trail-3
-  description: ''
-- slug: caines-head-trail-4
-  description: Derby Cove Cabin
-- slug: caines-head-trail-5
-  description: South Beach
-- slug: caines-head-trail-6
-  description: Cirques. Photo by Phil Beske.
-- slug: caines-head-trail-7
-  description: Resurrection Bay. Photo by Conrad.
-- slug: caines-head-trail-9
-  description: View from Fort. Photo by Conrad.
-- slug: caines-head-trail-10
-  description: Camp on North Beach. Photo by Conrad.
-- slug: caines-head-trail-11
-  description: Watch the rocks. Photo by Conrad.
-- slug: caines-head-trail-12
-  description: North Beach. Photo by Conrad.
-- slug: caines-head-trail-13
-  description: Fort Trail. Photo by Parke Cannon.
-- slug: caines-head-trail-14
-  description: View from Lowell Point. Photo by Parke Cannon.
-- slug: caines-head-trail-15
-  description: North Beach Camp. Photo by Parke Cannon.
-- slug: caines-head-trail-16
-  description: ''
-- slug: caines-head-trail-17
-  description: Photo by Turner Vail
-- slug: caines-head-trail-18
-  description: Photo by Turner Vail
-- slug: caines-head-trail-19
-  description: Photo by Turner Vail
+  - slug: caines-head-trail-1
+    description: Spruce Forest
+  - slug: caines-head-trail-2
+    description: Fort McGilvray
+  - slug: caines-head-trail-3
+    description: ""
+  - slug: caines-head-trail-4
+    description: Derby Cove Cabin
+  - slug: caines-head-trail-5
+    description: South Beach
+  - slug: caines-head-trail-6
+    description: Cirques. Photo by Phil Beske.
+  - slug: caines-head-trail-7
+    description: Resurrection Bay. Photo by Conrad.
+  - slug: caines-head-trail-9
+    description: View from Fort. Photo by Conrad.
+  - slug: caines-head-trail-10
+    description: Camp on North Beach. Photo by Conrad.
+  - slug: caines-head-trail-11
+    description: Watch the rocks. Photo by Conrad.
+  - slug: caines-head-trail-12
+    description: North Beach. Photo by Conrad.
+  - slug: caines-head-trail-13
+    description: Fort Trail. Photo by Parke Cannon.
+  - slug: caines-head-trail-14
+    description: View from Lowell Point. Photo by Parke Cannon.
+  - slug: caines-head-trail-15
+    description: North Beach Camp. Photo by Parke Cannon.
+  - slug: caines-head-trail-16
+    description: ""
+  - slug: caines-head-trail-17
+    description: Photo by Turner Vail
+  - slug: caines-head-trail-18
+    description: Photo by Turner Vail
+  - slug: caines-head-trail-19
+    description: Photo by Turner Vail
 trailheads:
-- name: Caines Head Trailhead
-  latitude: 60.0682518
-  longitude: -149.4426372
-tags: ['hikes', 'caines-head-recreation-area']
+  - name: Caines Head Trailhead
+    latitude: 60.0682518
+    longitude: -149.4426372
+tags: ["hikes", "caines-head-recreation-area"]
 layout: layouts/hike.njk
 ---
+
 One of my favorite hikes in the Kenai Peninsula! Most of the hike is along a rock strewn beach that you can only hike during low tide. While not a truly an Alaska wilderness experience, the hike has so much variety, I highly recommend it.
 
-You have a good chance of seeing otters, eagles, and an abundance of waterfowl. One time I saw a newly independent brown bear hang out at the end of North Beach. Another time, numerous eagles were perched on trees around my campsite. If this isn't enough to entice you, you get a beautiful view of Resurrection Bay, and the surrounding Kenai Mountains. Oh, and did I mention glaciers galore. 
+You have a good chance of seeing otters, eagles, and an abundance of waterfowl. One time I saw a newly independent brown bear hang out at the end of North Beach. Another time, numerous eagles were perched on trees around my campsite. If this isn't enough to entice you, you get a beautiful view of Resurrection Bay, and the surrounding Kenai Mountains. Oh, and did I mention glaciers galore.
 
 Set up camp at North Beach and day hike to Fort McGilvray, a WWII Fort filled with many underground rooms and an incredible view of the bay at the gunwales. Bring a flashlight as it is quite dark inside.
 
@@ -82,17 +83,17 @@ As I said above, there was a bear hanging around last season. While he kept his 
 If you're looking for solitude, especially in the summer, your chances on this hike are pretty low.
 Make sure you have a water filter; the creeks in the forest run pretty low if there hasn't been a lot of rain.
 
-If it does rain, use the overhangs for day use to set up camp. 
+If it does rain, use the overhangs for day use to set up camp.
 
 If you decide to camp at South Beach, there are a few campsites in the woods at the beach edge (the beach is too rocky). Head back up the mountain and at the destroyed barracks, head towards the creek below. This is the closest water source.
 
 On the off chance you screw up making the low tide or it is very early in the morning, you can camp at Tonsina Point. Don't bother with the campground. Head out to the beach (making sure you're above the high tide line).
 
-*The following was added by the webmaster June 26, 2005:*
+_The following was added by the webmaster June 26, 2005:_
 
 I didn't do this trail last year since I had done it 5 times and thought it needed a rest. Since then, there are 3 things I want to add.
 
-1: I never paid attention in the tide tables about the height of the water. Well! When I came in Friday night, the depth was stated as 2 feet. What this meant was that the tide never went out enough to walk around the slimy rock portion. I waited to the last minute and waded mid-thigh around it. Some people went over it but I am way too klutzy to attempt it. It is seriously slippery! 
+1: I never paid attention in the tide tables about the height of the water. Well! When I came in Friday night, the depth was stated as 2 feet. What this meant was that the tide never went out enough to walk around the slimy rock portion. I waited to the last minute and waded mid-thigh around it. Some people went over it but I am way too klutzy to attempt it. It is seriously slippery!
 
 On Sunday morning, the low tide depth was -2.2 and even 1 hour before the lowest point, I had lots of room to maneuver around them. Something to consider when planning when to go.
 

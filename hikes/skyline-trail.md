@@ -4,39 +4,40 @@ park: Kenai National Wildlife Refuge
 submittedBy: Danny Autrey
 rating: 4
 difficultyRating: Somewhat difficult
-difficultyDescription: ''
+difficultyDescription: ""
 connectedHikes: []
 milesOneWay: 2.3
 milesFromAnchorage: 100.0
 directionsFromAnchorage: on the Sterling Highway near Cooper Landing
-elevationGain: 
+elevationGain:
 seasonDescription: All year
 mapFilename: skyline-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: skyline-trail-8
 attachments:
-- slug: skyline-trail-1
-  description: Going up. Photo by Ben Klein.
-- slug: skyline-trail-2
-  description: Lake. Photo by Ben Klein.
-- slug: skyline-trail-3
-  description: On top. Photo by Ben Klein.
-- slug: skyline-trail-5
-  description: Peak. Photo by Danny Autrey.
-- slug: skyline-trail-6
-  description: Lake. Photo by Danny Autrey.
-- slug: skyline-trail-7
-  description: Kenai Lake. Photo by Danny Autrey.
-- slug: skyline-trail-9
-  description: At summit. Photo by Danny Autrey.
-- slug: skyline-trail-4
-  description: Valley. Photo by Ben Klein.
+  - slug: skyline-trail-1
+    description: Going up. Photo by Ben Klein.
+  - slug: skyline-trail-2
+    description: Lake. Photo by Ben Klein.
+  - slug: skyline-trail-3
+    description: On top. Photo by Ben Klein.
+  - slug: skyline-trail-5
+    description: Peak. Photo by Danny Autrey.
+  - slug: skyline-trail-6
+    description: Lake. Photo by Danny Autrey.
+  - slug: skyline-trail-7
+    description: Kenai Lake. Photo by Danny Autrey.
+  - slug: skyline-trail-9
+    description: At summit. Photo by Danny Autrey.
+  - slug: skyline-trail-4
+    description: Valley. Photo by Ben Klein.
 trailheads: []
-tags: ['hikes', 'kenai-national-wildlife-refuge']
+tags: ["hikes", "kenai-national-wildlife-refuge"]
 layout: layouts/hike.njk
 ---
+
 This trail is located on the Sterling Highway near Cooper Landing. (I'm surprised this hike wasn't already listed, since it's fairly popular)
 
 There is a sign at the beginning of the trail that briefly describes what may be encountered. [Bears](/education/#bears) are a very real possibility, especially in the fall. The sign also describes the hike as very strenuous, which I can agree with.

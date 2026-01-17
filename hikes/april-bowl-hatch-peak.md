@@ -9,21 +9,22 @@ connectedHikes: []
 milesOneWay: 1.2
 milesFromAnchorage: 59.0
 directionsFromAnchorage: in the Hatcher Pass area
-elevationGain: 
+elevationGain:
 seasonDescription: June through September
-mapFilename: 
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+mapFilename:
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: april-bowl-hatch-peak
 attachments: []
 trailheads:
-- name: April Bowl
-  latitude: 61.7681064
-  longitude: -149.315011
-tags: ['hikes', 'matanuska-valley']
+  - name: April Bowl
+    latitude: 61.7681064
+    longitude: -149.315011
+tags: ["hikes", "matanuska-valley"]
 layout: layouts/hike.njk
 ---
+
 This is a beautiful hike. It’s fairly short and not very steep because of the switchbacks on the first half. There is only about an 800ft elevation gain to the top which is Hatch Peak (roughly 4800ft), only 400ft to the bowl, which contains 2 beautiful blue lakes. A very family friendly trail.
 
 ### Important Information

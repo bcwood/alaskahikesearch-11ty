@@ -1,59 +1,60 @@
 ---
 title: Johnson Pass
 park: Chugach National Forest
-submittedBy: ''
+submittedBy: ""
 rating: 3
 difficultyRating: Somewhat easy
 difficultyDescription: gently slopes up to the midway point at the pass, then down. The trail is relatively easy with short spurts of elevation.
 connectedHikes: []
 milesOneWay: 23.0
 milesFromAnchorage: 64.0
-directionsFromAnchorage: 'North Trailhead: 64 <br />South Trailhead: 94'
+directionsFromAnchorage: "North Trailhead: 64 <br />South Trailhead: 94"
 elevationGain: 2700
 seasonDescription: All year (cross country ski, snowshoe, or hike in winter)
 mapFilename: johnson-pass-topo.jpg
-topoFilename: 
-elevationFilename: 
+topoFilename:
+elevationFilename:
 gpxFilename: johnson-pass.gpx
 bannerImage: johnson-pass-banner
 attachments:
-- slug: johnson-pass-1
-  description: Johnson River in Winter
-- slug: johnson-pass-2
-  description: View of the pass
-- slug: johnson-pass-3
-  description: 'Bridge #3 North Side'
-- slug: johnson-pass-4
-  description: Chasm
-- slug: johnson-pass-5
-  description: Johnson River
-- slug: johnson-pass-6
-  description: South end of Johnson Lake
-- slug: johnson-pass-7
-  description: Johnson Pass South
-- slug: johnson-pass-8
-  description: Johnson Lake reflection
-- slug: johnson-pass-9
-  description: North end of Johnson Lake
-- slug: johnson-pass-10
-  description: South Side Bridge
-- slug: johnson-pass-11
-  description: Summit Lake
-- slug: johnson-pass-12
-  description: Lupine
-- slug: johnson-pass-13
-  description: Bench Lake
+  - slug: johnson-pass-1
+    description: Johnson River in Winter
+  - slug: johnson-pass-2
+    description: View of the pass
+  - slug: johnson-pass-3
+    description: "Bridge #3 North Side"
+  - slug: johnson-pass-4
+    description: Chasm
+  - slug: johnson-pass-5
+    description: Johnson River
+  - slug: johnson-pass-6
+    description: South end of Johnson Lake
+  - slug: johnson-pass-7
+    description: Johnson Pass South
+  - slug: johnson-pass-8
+    description: Johnson Lake reflection
+  - slug: johnson-pass-9
+    description: North end of Johnson Lake
+  - slug: johnson-pass-10
+    description: South Side Bridge
+  - slug: johnson-pass-11
+    description: Summit Lake
+  - slug: johnson-pass-12
+    description: Lupine
+  - slug: johnson-pass-13
+    description: Bench Lake
 trailheads:
-- name: Johnson Pass Trailhead (North)
-  latitude: 60.7242292
-  longitude: -149.2777607
-- name: Johnson Pass Trailhead (South)
-  latitude: 60.5039132
-  longitude: -149.438165
-tags: ['hikes', 'chugach-national-forest']
+  - name: Johnson Pass Trailhead (North)
+    latitude: 60.7242292
+    longitude: -149.2777607
+  - name: Johnson Pass Trailhead (South)
+    latitude: 60.5039132
+    longitude: -149.438165
+tags: ["hikes", "chugach-national-forest"]
 layout: layouts/hike.njk
 ---
-If I could only use one word to describe this hike, it would be lush. With the exception of the very tops of the mountains and the water, the entire area is covered in green. I highly recommend this hike to wildflower lovers as there is an abundance and wide variety of them including lupine, wild columbine, and fireweed. It is amazing the growth in this pass. If it weren't for volunteers keeping the trail clear, I do believe it would be overgrown within a couple of years. 
+
+If I could only use one word to describe this hike, it would be lush. With the exception of the very tops of the mountains and the water, the entire area is covered in green. I highly recommend this hike to wildflower lovers as there is an abundance and wide variety of them including lupine, wild columbine, and fireweed. It is amazing the growth in this pass. If it weren't for volunteers keeping the trail clear, I do believe it would be overgrown within a couple of years.
 
 If you start from the north, most of the trail to the pass follows Johnson and Bench Rivers with sturdy bridges when you need to cross them. They are huge and beautiful water systems. At one point the water flows through a deep rock cut chasm culminating in an incredible waterfall. There are also other huge waterfalls coming down many of the surrounding mountains. The middle of the trail is dominated by Bench Lake and Johnson Lake where many people fish for graylings.
 
@@ -71,7 +72,7 @@ There are not a lot of campsites at Bench Lake. Plan on staying at Johnson Lake.
 
 There are frequent sightings of [bears](/education/#bears) on the trail. Bikers should definitely be cautious under canopy and rounding corners. Luckily there are plenty of trees to hang your food from.
 
-Be aware that this section of the Chugach gets an incredible amount of snow and if we've had a heavy winter, it may not melt until late June. 
+Be aware that this section of the Chugach gets an incredible amount of snow and if we've had a heavy winter, it may not melt until late June.
 
 I would advise filtering your water at the lakes as they do not have a strong flow to them and much of the water lies stagnant.
 

@@ -1,7 +1,7 @@
 ---
 title: Mt. Marathon
 park: Kenai Fjords National Park
-submittedBy: ''
+submittedBy: ""
 rating: 3
 difficultyRating: Somewhat difficult
 difficultyDescription: moderate by way of hiker's route
@@ -12,48 +12,49 @@ directionsFromAnchorage: in the town of Seward
 elevationGain: 2900
 seasonDescription: May to September (June for hiker's trail)
 mapFilename: mt-marathon-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: mt-marathon-1
 attachments:
-- slug: mt-marathon-2
-  description: Star at tree line
-- slug: mt-marathon-3
-  description: Me and Flat Stanley at the top.
-- slug: mt-marathon-4
-  description: Waterfall
-- slug: mt-marathon-5
-  description: Bowl north from rim. Photo by Ross Timm.
-- slug: mt-marathon-6
-  description: Bowl north. Photo by Ross Timm.
-- slug: mt-marathon-7
-  description: Bowl. Photo by Ross Timm.
-- slug: mt-marathon-8
-  description: View from hiker's trail. Photo by Ross Timm.
-- slug: mt-marathon-9
-  description: View from runner's summit. Photo by Ross Timm.
-- slug: mt-marathon-10
-  description: Kids at summit. Photo by Frank Baker.
-- slug: mt-marathon-11
-  description: Mt. Marathon. Photo by Ross Timm.
-- slug: mt-marathon-12
-  description: Mt. Marathon. Photo by Ross Timm.
-- slug: mt-marathon-13
-  description: Seward port. Photo by Ross Timm.
-- slug: mt-marathon-14
-  description: Back of mountain. Photo by Frank Baker.
-- slug: mt-marathon-15
-  description: Descent. Photo by Jennie Meier.
-- slug: mt-marathon-16
-  description: Descent. Photo by Jennie Meier.
+  - slug: mt-marathon-2
+    description: Star at tree line
+  - slug: mt-marathon-3
+    description: Me and Flat Stanley at the top.
+  - slug: mt-marathon-4
+    description: Waterfall
+  - slug: mt-marathon-5
+    description: Bowl north from rim. Photo by Ross Timm.
+  - slug: mt-marathon-6
+    description: Bowl north. Photo by Ross Timm.
+  - slug: mt-marathon-7
+    description: Bowl. Photo by Ross Timm.
+  - slug: mt-marathon-8
+    description: View from hiker's trail. Photo by Ross Timm.
+  - slug: mt-marathon-9
+    description: View from runner's summit. Photo by Ross Timm.
+  - slug: mt-marathon-10
+    description: Kids at summit. Photo by Frank Baker.
+  - slug: mt-marathon-11
+    description: Mt. Marathon. Photo by Ross Timm.
+  - slug: mt-marathon-12
+    description: Mt. Marathon. Photo by Ross Timm.
+  - slug: mt-marathon-13
+    description: Seward port. Photo by Ross Timm.
+  - slug: mt-marathon-14
+    description: Back of mountain. Photo by Frank Baker.
+  - slug: mt-marathon-15
+    description: Descent. Photo by Jennie Meier.
+  - slug: mt-marathon-16
+    description: Descent. Photo by Jennie Meier.
 trailheads:
-- name: Mount Marathon
-  latitude: 60.1040114
-  longitude: -149.4510515
-tags: ['hikes', 'kenai-fjords-national-park']
+  - name: Mount Marathon
+    latitude: 60.1040114
+    longitude: -149.4510515
+tags: ["hikes", "kenai-fjords-national-park"]
 layout: layouts/hike.njk
 ---
+
 One of the guidebooks that described this trail made this a very confusing hike and I would have been better off looking more at the map than the trail description. Let me see if I can make this less confusing.
 
 This mountain is famous in Alaska because every 4th of July, since 1915, there has been a race up the mountain. The official trail for this race is oddly called Racer's Trail. It is very steep and demanding and the first part is the hardest as you have to climb up a rocky cliff.

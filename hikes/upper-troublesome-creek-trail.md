@@ -1,42 +1,43 @@
 ---
 title: Upper Troublesome Creek Trail
 park: Denali State Park
-submittedBy: 
+submittedBy:
 rating: 3
 difficultyRating: Somewhat easy
 difficultyDescription: mostly level with short bursts of elevation. Trail is a bit overgrown in middle.
 connectedHikes:
-- Kesugi Ridge
+  - Kesugi Ridge
 milesOneWay: 15.2
 milesFromAnchorage: 138.0
 directionsFromAnchorage: trailhead is just off the Parks Highway
-elevationGain: 
+elevationGain:
 seasonDescription: July to September
 mapFilename: troublesome-creek-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: troublesome-creek-trail-1
 attachments:
-- slug: troublesome-creek-trail-2
-  description: Troublesome Creek
-- slug: troublesome-creek-trail-3
-  description: Valley
-- slug: troublesome-creek-trail-4
-  description: Cool rock formation
-- slug: troublesome-creek-trail-5
-  description: Near Tarn Point. Photo by Dianne and Merlan.
-- slug: troublesome-creek-trail-6
-  description: Tarn Point. Photo by Dianne and Merlan.
-- slug: troublesome-creek-trail-7
-  description: Near Byers Lake Trail. Photo by Dianne and Merlan.
+  - slug: troublesome-creek-trail-2
+    description: Troublesome Creek
+  - slug: troublesome-creek-trail-3
+    description: Valley
+  - slug: troublesome-creek-trail-4
+    description: Cool rock formation
+  - slug: troublesome-creek-trail-5
+    description: Near Tarn Point. Photo by Dianne and Merlan.
+  - slug: troublesome-creek-trail-6
+    description: Tarn Point. Photo by Dianne and Merlan.
+  - slug: troublesome-creek-trail-7
+    description: Near Byers Lake Trail. Photo by Dianne and Merlan.
 trailheads:
-- name: Upper Troublesome Creek Trailhead
-  latitude: 62.630615
-  longitude: -150.2281732
-tags: ['hikes', 'denali-state-park']
+  - name: Upper Troublesome Creek Trailhead
+    latitude: 62.630615
+    longitude: -150.2281732
+tags: ["hikes", "denali-state-park"]
 layout: layouts/hike.njk
 ---
+
 I learned about this by speaking with a ranger at Denali State Park. As well, I learned this update on the Troublesome Creek Trail: it is maintained and easy to follow. It is no longer closed during the summer as they cleared the sight line to the creek. When the salmon start running up the creek, bears are numerous. That part of the trail was thick with alder with a real potential for surprising a bear. This is no longer an issue.
 
 Oh yeah! I was so psyched! I was going to do this big 4 night/5 day trek starting at the Coal Creek Trailhead and ending here. Unfortunately, the weather was looking real lousy and I decided that I was just going to do this trail up to the Kesugi section and head back. If the weather held, I packed extra food to hang up there another day. On the appointed day, I just wasn't into it and headed back.

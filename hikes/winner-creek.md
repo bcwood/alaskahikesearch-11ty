@@ -4,40 +4,41 @@ park: Chugach National Forest
 submittedBy: Jacob and April Champness
 rating: 3
 difficultyRating: Easy
-difficultyDescription: 
+difficultyDescription:
 connectedHikes:
-- Upper Winner Creek Trail
+  - Upper Winner Creek Trail
 milesOneWay: 4.0
 milesFromAnchorage: 45.0
 directionsFromAnchorage: in the town of Girdwood
 elevationGain: 1600
 seasonDescription: May to November
 mapFilename: winner-creek-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: winner-creek-trail-5
 attachments:
-- slug: winner-creek-trail-1
-  description: Forest. Photo by Jacob and April Champness.
-- slug: winner-creek-trail-2
-  description: Tram. Photo by Jacob and April Champness.
-- slug: winner-creek-trail-6
-  description: Creek. Photo by Jacob and April Champness.
-- slug: winner-creek-trail-8
-  description: Sweet Pea. Photo by Jacob and April Champness.
-- slug: winner-creek-trail-4
-  description: Falls. Photo by Jacob and April Champness.
-- slug: winner-creek-trail-7
-  description: Creek. Photo by Jacob and April Champness.
+  - slug: winner-creek-trail-1
+    description: Forest. Photo by Jacob and April Champness.
+  - slug: winner-creek-trail-2
+    description: Tram. Photo by Jacob and April Champness.
+  - slug: winner-creek-trail-6
+    description: Creek. Photo by Jacob and April Champness.
+  - slug: winner-creek-trail-8
+    description: Sweet Pea. Photo by Jacob and April Champness.
+  - slug: winner-creek-trail-4
+    description: Falls. Photo by Jacob and April Champness.
+  - slug: winner-creek-trail-7
+    description: Creek. Photo by Jacob and April Champness.
 trailheads:
-- name: Alyeska Trailhead
-  latitude: 60.9697352
-  longitude: -149.0952829
-tags: ['hikes', 'chugach-national-forest']
+  - name: Alyeska Trailhead
+    latitude: 60.9697352
+    longitude: -149.0952829
+tags: ["hikes", "chugach-national-forest"]
 layout: layouts/hike.njk
 ---
-*Update: as of June 2021, the hand tram has been closed indefinitely. This makes the logistics of the hike somewhat more complicated than it used to be, as it can no longer be completed as a point-to-point hike.*
+
+_Update: as of June 2021, the hand tram has been closed indefinitely. This makes the logistics of the hike somewhat more complicated than it used to be, as it can no longer be completed as a point-to-point hike._
 
 This is a relatively easy hike through a thick, lush forest. There are foot bridges over several gorges that are very cool to see, and a great place for photos.
 

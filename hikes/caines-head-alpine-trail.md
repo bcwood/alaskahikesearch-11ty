@@ -6,49 +6,50 @@ rating: 5
 difficultyRating: Somewhat difficult
 difficultyDescription: considerable elevation gain. The trail is never extremely steep but is a constant 3 mile uphill climb up to about 2,000 ft.
 connectedHikes:
-- Caines Head
+  - Caines Head
 milesOneWay: 7.0
 milesFromAnchorage: 120.0
 directionsFromAnchorage: just below the town of Seward
-elevationGain: 
+elevationGain:
 seasonDescription: June to September
 mapFilename: caines-head-alpine-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: caines-head-alpine-trail-2
 attachments:
-- slug: caines-head-alpine-trail-1
-  description: Waterfall
-- slug: caines-head-alpine-trail-3
-  description: Calisto Peak
-- slug: caines-head-alpine-trail-4
-  description: Fox Island
-- slug: caines-head-alpine-trail-5
-  description: Humpy Cove
-- slug: caines-head-alpine-trail-6
-  description: Thumb Cove
-- slug: caines-head-alpine-trail-7
-  description: Seward
-- slug: caines-head-alpine-trail-8
-  description: Dog with a view
-- slug: caines-head-alpine-trail-9
-  description: Rock Islands
-- slug: caines-head-alpine-trail-10
-  description: Thumb Cove
-- slug: caines-head-alpine-trail-11
-  description: Caines Head
-- slug: caines-head-alpine-trail-12
-  description: Fox Island
-- slug: caines-head-alpine-trail-13
-  description: ''
+  - slug: caines-head-alpine-trail-1
+    description: Waterfall
+  - slug: caines-head-alpine-trail-3
+    description: Calisto Peak
+  - slug: caines-head-alpine-trail-4
+    description: Fox Island
+  - slug: caines-head-alpine-trail-5
+    description: Humpy Cove
+  - slug: caines-head-alpine-trail-6
+    description: Thumb Cove
+  - slug: caines-head-alpine-trail-7
+    description: Seward
+  - slug: caines-head-alpine-trail-8
+    description: Dog with a view
+  - slug: caines-head-alpine-trail-9
+    description: Rock Islands
+  - slug: caines-head-alpine-trail-10
+    description: Thumb Cove
+  - slug: caines-head-alpine-trail-11
+    description: Caines Head
+  - slug: caines-head-alpine-trail-12
+    description: Fox Island
+  - slug: caines-head-alpine-trail-13
+    description: ""
 trailheads:
-- name: Caines Head Trailhead
-  latitude: 60.0682518
-  longitude: -149.4426372
-tags: ['hikes', 'caines-head-recreation-area']
+  - name: Caines Head Trailhead
+    latitude: 60.0682518
+    longitude: -149.4426372
+tags: ["hikes", "caines-head-recreation-area"]
 layout: layouts/hike.njk
 ---
+
 Let me first say that in my opinion the Alpine Trail is the most under-rated and under-used hike in the peninsula. I spent the entire summer volunteering as trail crew out at Caines Head and this was by far the best kept secret. I also had the opportunity to backpack throughout the peninsula on my time off and would best compare this hike to Lost Lake.
 
 To reach the Alpine trailhead from North Beach, head .25 miles back towards Derby Cove. A small sign and a kiosk mark the starting point.
@@ -61,13 +62,13 @@ The trail then follows a series of rock cairns weaving past the alpine ponds and
 
 On another note, as of August 2004, I cleared a new trail linking South Beach and the Alpine trail. If heading up on the Alpine, watch for signs pointing south (left) towards South Beach after about 1.25 miles. The trails weaves through some really cool sections of forest, past/across numerous creek chasms and waterfalls, and ends up at the south end of South Beach. The trail is easy and is about 1.5 miles from the junction down to South Beach. If starting at South Beach, head towards Rocky Point and look for a bright orange trail "T". Soon thereafter another sign indicates direction and distance. The trail is nice as it creates a loop around the park, so as everything doesn't have to be a straight out and back hike.
 
-*The following was added by the webmaster on June 28, 2005:*
+_The following was added by the webmaster on June 28, 2005:_
 
 This past weekend I finally got to do this hike. I got into North Beach late Friday night. After a lazy, dawdling Saturday morning, I put together a daypack and headed up this trail.
 
 Phil does not lie! If he hadn't given this 5 Moose Hooves, I would have bumped it up. This is a great trail! If I had to choose between the fort and this trail, there would be no contest. Even the forest, canopy part is beautiful as well as very peaceful and relaxing. As the views open up, there are fields of lupine. However, the top is sooooo cool! The views really are incredible and 360° to boot. While up there I saw eagles and hummingbirds up close. You could spend hours up there checking out all the cliffs and ridges, with different views and terrain. In fact, I plan on coming back in August and backpacking up there so I can spend more time to explore. I'm guessing that since the tarns up there are so shallow, they would be warm enough to swim that late in the season.
 
-*Listen to Phil and me and PUT THIS ON THIS LIST!*
+_Listen to Phil and me and PUT THIS ON THIS LIST!_
 
 ### Important Information
 
@@ -83,8 +84,8 @@ Snow remains in the alpine area until mid-June, and the trail can be hard to fol
 
 <del datetime="2012-11-05T00:01:16+00:00">I have spent the entire summer out at Caines Head and have learned of some gorgeous/secret nooks and crannies, grottos, waterfalls, and scenic lookouts throughout the park. One such point includes a small board that serves the purpose of a bridge over a 200 vertical ft. crack/chasm in order to access a scenic cliff side lookout known as the "Dog's tooth." Not recommended for those with even the slightest fear of heights, but I secretly marked the path and will let you know where to look for it if interested. Simply shoot me an e-mail at beskph01@luther.edu and title the subject line "Caines Head?".</del>
 
-***Webmaster's Note:** A big shout out to Phil for, one, informing me of these trails. I was unaware these trails even existed. *
+**\*Webmaster's Note:** A big shout out to Phil for, one, informing me of these trails. I was unaware these trails even existed. \*
 
-*An even bigger shout out to Phil for doing this volunteer work. Alaska owes a big load of thanks to these young people who come from all over the country (including Alaska) to do this grueling work. Phil sent me the below note when he sent the photo above:*
+_An even bigger shout out to Phil for doing this volunteer work. Alaska owes a big load of thanks to these young people who come from all over the country (including Alaska) to do this grueling work. Phil sent me the below note when he sent the photo above:_
 
-*"I also cleared a new trail system out in the Yakataga State Game Refuge 120 miles east of Cordova. the area is gorgeous as it is dominated by the Bering Glacier (biggest in North America) and Lake Vitus which it calves into. Unfortunately the plane flight is spendy and the brown bears are thick! On the upside, the scenery is amazing. Two new public use cabins were built in 2002 through grant money and we went out and cleared trails (8 miles) connecting them, an airstrip, the Bering Glacier, Midtimber Lake, and the gulf coast."*
+_"I also cleared a new trail system out in the Yakataga State Game Refuge 120 miles east of Cordova. the area is gorgeous as it is dominated by the Bering Glacier (biggest in North America) and Lake Vitus which it calves into. Unfortunately the plane flight is spendy and the brown bears are thick! On the upside, the scenery is amazing. Two new public use cabins were built in 2002 through grant money and we went out and cleared trails (8 miles) connecting them, an airstrip, the Bering Glacier, Midtimber Lake, and the gulf coast."_

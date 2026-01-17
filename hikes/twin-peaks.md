@@ -1,53 +1,54 @@
 ---
 title: Twin Peaks
 park: Chugach State Park
-submittedBy: ''
+submittedBy: ""
 rating: 3
 difficultyRating: Difficult
 difficultyDescription: uphill the whole way
 connectedHikes:
-- Eklutna Lake
-- Pepper Peak
+  - Eklutna Lake
+  - Pepper Peak
 milesOneWay: 5.0
 milesFromAnchorage: 35.0
 directionsFromAnchorage: take the Eklutna exit off the Parks Highway
 elevationGain: 2000
 seasonDescription: June to September to the peaks, lower maintained trails can be accessed all year
 mapFilename: twin-peaks-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: twin-peaks-18
 attachments:
-- slug: twin-peaks-1
-  description: East Twin scenic. Photo by Frank Baker.
-- slug: twin-peaks-2
-  description: Bruce in gully. Photo by Frank Baker.
-- slug: twin-peaks-3
-  description: Frank on top. Photo by Frank Baker.
-- slug: twin-peaks-4
-  description: Ascending gully. Photo by Frank Baker.
-- slug: twin-peaks-12
-  description: Eklutna Lake
-- slug: twin-peaks-13
-  description: Fall trail
-- slug: twin-peaks-14
-  description: Going up ridge
-- slug: twin-peaks-15
-  description: View from 4000 ft
-- slug: twin-peaks-16
-  description: View from 5000 ft
-- slug: twin-peaks-17
-  description: Eklutna Lake
-- slug: twin-peaks-19
-  description: Dall sheep on slope
+  - slug: twin-peaks-1
+    description: East Twin scenic. Photo by Frank Baker.
+  - slug: twin-peaks-2
+    description: Bruce in gully. Photo by Frank Baker.
+  - slug: twin-peaks-3
+    description: Frank on top. Photo by Frank Baker.
+  - slug: twin-peaks-4
+    description: Ascending gully. Photo by Frank Baker.
+  - slug: twin-peaks-12
+    description: Eklutna Lake
+  - slug: twin-peaks-13
+    description: Fall trail
+  - slug: twin-peaks-14
+    description: Going up ridge
+  - slug: twin-peaks-15
+    description: View from 4000 ft
+  - slug: twin-peaks-16
+    description: View from 5000 ft
+  - slug: twin-peaks-17
+    description: Eklutna Lake
+  - slug: twin-peaks-19
+    description: Dall sheep on slope
 trailheads:
-- name: Eklutna Lake Trailhead
-  latitude: 61.4093816
-  longitude: -149.1355825
-tags: ['hikes', 'chugach-state-park']
+  - name: Eklutna Lake Trailhead
+    latitude: 61.4093816
+    longitude: -149.1355825
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 The trail proper switchbacks steeply uphill offering better and better views of Eklutna Lake. The end of the trail is the second bench. This is a great hike if you're already camping out at Eklutna Lake. Otherwise, I wouldn't make a special trip unless you plan on continuing on the primitive trail.
 
 Once you get to the second bench, you can continue up towards your right to [Pepper Peak](/hikes/pepper-peak/ "Pepper Peak") which is a great hike as well.
@@ -70,6 +71,6 @@ A state campground exists at the trailhead on a first come, first serve basis.
 
 Please go to the trail description for [Eklutna Lake](/hikes/eklutna-lake/ "Eklutna Lake") for more information about the entire area. There is a lot to do and see here. It's a great place to hang out.
 
-There is a $5 parking fee (bring exact amount). The price for an annual parking pass is $60. You can purchase a pass at the Federal Building at 4th and F or the Atwood Building on 7th and E, 13th Floor. 
+There is a $5 parking fee (bring exact amount). The price for an annual parking pass is $60. You can purchase a pass at the Federal Building at 4th and F or the Atwood Building on 7th and E, 13th Floor.
 
 If you're heading back to Anchorage, take a quick side trip and visit the Native Russian Church and Cemetery. Continue straight for a few miles instead of taking the left onto the Glenn Highway. Stay outside the fenced area and be respectful of the premises.

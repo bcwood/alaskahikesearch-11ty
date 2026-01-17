@@ -1,57 +1,58 @@
 ---
 title: Tony Knowles Coastal Trail
 park: Municipality of Anchorage
-submittedBy: 
+submittedBy:
 rating: 3
 difficultyRating: Easy
 difficultyDescription: some hills and a big one at the end but otherwise flat.
 connectedHikes:
-- Anchorage Greenbelt Trails
+  - Anchorage Greenbelt Trails
 milesOneWay: 11.0
 milesFromAnchorage: 0.0
 directionsFromAnchorage: there are a number of possible starting locations if you only want to cover part of the trail, including Elderberry Park downtown, Westchester Lagoon, Earthquake Park, and Kincaid Park.
-elevationGain: 
+elevationGain:
 seasonDescription: All year
 mapFilename: coastal-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: coastal-trail-banner
 attachments:
-- slug: coastal-trail-1
-  description: Bathing Moose
-- slug: coastal-trail-2
-  description: Anchorage Skyline
-- slug: coastal-trail-3
-  description: Marsh
-- slug: coastal-trail-4
-  description: Red Fox
-- slug: coastal-trail-5
-  description: Mt. Susitna (Sleeping Lady)
+  - slug: coastal-trail-1
+    description: Bathing Moose
+  - slug: coastal-trail-2
+    description: Anchorage Skyline
+  - slug: coastal-trail-3
+    description: Marsh
+  - slug: coastal-trail-4
+    description: Red Fox
+  - slug: coastal-trail-5
+    description: Mt. Susitna (Sleeping Lady)
 trailheads:
-- name: Westchester Lagoon Trailhead
-  latitude: 61.2086613
-  longitude: -149.9228354
-- name: Coastal Trail Trailhead
-  latitude: 61.2205406
-  longitude: -149.8975039
-- name: Earthquake Park
-  latitude: 61.1962577
-  longitude: -149.977575
-- name: Point Woronzof
-  latitude: 61.2020435
-  longitude: -150.020746
-- name: Kincaid Trailhead
-  latitude: 61.1534379
-  longitude: -150.0556243
-tags: ['hikes', 'municipality-of-anchorage']
+  - name: Westchester Lagoon Trailhead
+    latitude: 61.2086613
+    longitude: -149.9228354
+  - name: Coastal Trail Trailhead
+    latitude: 61.2205406
+    longitude: -149.8975039
+  - name: Earthquake Park
+    latitude: 61.1962577
+    longitude: -149.977575
+  - name: Point Woronzof
+    latitude: 61.2020435
+    longitude: -150.020746
+  - name: Kincaid Trailhead
+    latitude: 61.1534379
+    longitude: -150.0556243
+tags: ["hikes", "municipality-of-anchorage"]
 layout: layouts/hike.njk
 ---
-Anchorage has some of the nicest city trails in the world and the Tony Knowles Coastal Trail is its crown jewel. While I'm counting this as a hike, I recommend renting a bike for this. 
 
-Most of the trail is around Cook Inlet as well as marsh, muskeg, and spruce forest connecting Westchester Lagoon, Earthquake Park, Point Woronzof, and Kincaid Park. There are great views of Sleeping Lady (Mt. Susitna), Fire Island, and on clear days, Denali. 
+Anchorage has some of the nicest city trails in the world and the Tony Knowles Coastal Trail is its crown jewel. While I'm counting this as a hike, I recommend renting a bike for this.
 
-I am not kidding you when I tell you I've seen more wildlife on this trail than in the backcountry including red fox, coyote, moose galore, bald eagles and countless waterfowl. If you're lucky, you may see whales at Point Woronzof. 
+Most of the trail is around Cook Inlet as well as marsh, muskeg, and spruce forest connecting Westchester Lagoon, Earthquake Park, Point Woronzof, and Kincaid Park. There are great views of Sleeping Lady (Mt. Susitna), Fire Island, and on clear days, Denali.
+
+I am not kidding you when I tell you I've seen more wildlife on this trail than in the backcountry including red fox, coyote, moose galore, bald eagles and countless waterfowl. If you're lucky, you may see whales at Point Woronzof.
 
 If you have a day in town between adventures, rent a bike and do it. You won't be sorry.
 

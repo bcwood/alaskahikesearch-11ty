@@ -6,46 +6,47 @@ rating: 5
 difficultyRating: Difficult
 difficultyDescription: it is flat for the approach to the base of the Suicide Peaks, but the peaks themselves are quite steep at points, with lots of jagged rocks, scree, and cornices in the winter. Only experienced hikers/
 connectedHikes:
-- McHugh Trail / Rabbit Lake
-- McHugh Peak
+  - McHugh Trail / Rabbit Lake
+  - McHugh Peak
 milesOneWay: 5.0
 milesFromAnchorage: 0.0
 directionsFromAnchorage: in town from DeArmoun, 10 miles from Seward Highway
-elevationGain: 
+elevationGain:
 seasonDescription: All year
 mapFilename: suicide-peaks-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: suicide-peaks-1
 attachments:
-- slug: suicide-peaks-2
-  description: The long haul up. Photo by Clint Helander.
-- slug: suicide-peaks-3
-  description: Summit. Photo by Clint Helander.
-- slug: suicide-peaks-4
-  description: South Suicide. Photo by Clint Helander.
-- slug: suicide-peaks-5
-  description: North Suicide. Photo by Clint Helander.
-- slug: suicide-peaks-6
-  description: South Suicide. Photo by Clint Helander.
-- slug: suicide-peaks-7
-  description: Bird Ridge. Photo by Ross Timm.
-- slug: suicide-peaks-8
-  description: McHugh Valley. Photo by Ross Timm.
-- slug: suicide-peaks-9
-  description: Panorama. Photo by Ross Timm.
-- slug: suicide-peaks-10
-  description: Rabbit Lake. Photo by Ross Timm.
-- slug: suicide-peaks-11
-  description: Heading up ridge. Photo by Ross Timm.
+  - slug: suicide-peaks-2
+    description: The long haul up. Photo by Clint Helander.
+  - slug: suicide-peaks-3
+    description: Summit. Photo by Clint Helander.
+  - slug: suicide-peaks-4
+    description: South Suicide. Photo by Clint Helander.
+  - slug: suicide-peaks-5
+    description: North Suicide. Photo by Clint Helander.
+  - slug: suicide-peaks-6
+    description: South Suicide. Photo by Clint Helander.
+  - slug: suicide-peaks-7
+    description: Bird Ridge. Photo by Ross Timm.
+  - slug: suicide-peaks-8
+    description: McHugh Valley. Photo by Ross Timm.
+  - slug: suicide-peaks-9
+    description: Panorama. Photo by Ross Timm.
+  - slug: suicide-peaks-10
+    description: Rabbit Lake. Photo by Ross Timm.
+  - slug: suicide-peaks-11
+    description: Heading up ridge. Photo by Ross Timm.
 trailheads:
-- name: Falls Creek Trailhead
-  latitude: 60.9840998
-  longitude: -149.5762637
-tags: ['hikes', 'chugach-state-park']
+  - name: Falls Creek Trailhead
+    latitude: 60.9840998
+    longitude: -149.5762637
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 The hike to the Suicide Peaks can be done by either taking the Rabbit Creek trail or McHugh trail.
 
 If you take Rabbit Creek, simply go straight for five miles in the valley, passing [Flat Top](/hikes/flat-top/ "Flat Top"), Peaks One, Two, and Three, and [Ptarmigan Peak](/hikes/ptarmigan-peak/ "Ptarmigan Peak"), all of which are on your left. The Suicide Peaks come in to view after the first mile or so, but it will take a while to get to them.

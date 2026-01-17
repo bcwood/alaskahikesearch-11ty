@@ -1,60 +1,61 @@
 ---
 title: McHugh Trail / Rabbit Lake
 park: Chugach State Park
-submittedBy: 
+submittedBy:
 rating: 4
 difficultyRating: Somewhat difficult
 difficultyDescription: from the Seward Highway trailhead, somewhat difficult - half the hike is uphill with some pretty steep sections. One small part of the trail is confusing on which direction to go. Plan on at least 6 h
 connectedHikes:
-- McHugh Peak
-- Ptarmigan Pass
-- Turnagain Arm Trail
-- Suicide Peaks
+  - McHugh Peak
+  - Ptarmigan Pass
+  - Turnagain Arm Trail
+  - Suicide Peaks
 milesOneWay: 4.4
 milesFromAnchorage: 10.0
 directionsFromAnchorage: off the Seward Highway
 elevationGain: 1800
 seasonDescription: Via Seward Highway - May to September (lots of snow past mile 2 in early season). <br />Via DeArmoun Rd - All year but may need snowshoes or skis in winter depending on amount of snow.
 mapFilename: mchugh-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: mchugh-trail-6
 attachments:
-- slug: mchugh-trail-1
-  description: First mile up
-- slug: mchugh-trail-2
-  description: At mile two
-- slug: mchugh-trail-3
-  description: Almost done ascending
-- slug: mchugh-trail-4
-  description: McHugh Valley
-- slug: mchugh-trail-5
-  description: North Suicide Peak
-- slug: mchugh-trail-7
-  description: South Suicide Peak
-- slug: mchugh-trail-8
-  description: Rabbit Creek
-- slug: mchugh-trail-9
-  description: Frozen Rabbit Lake
-- slug: mchugh-trail-10
-  description: McHugh Ridge
-- slug: mchugh-trail-11
-  description: North Suicide Peak
-- slug: mchugh-trail-12
-  description: Snow covered Rabbit Lake
-- slug: mchugh-trail-13
-  description: Rabbit Valley
+  - slug: mchugh-trail-1
+    description: First mile up
+  - slug: mchugh-trail-2
+    description: At mile two
+  - slug: mchugh-trail-3
+    description: Almost done ascending
+  - slug: mchugh-trail-4
+    description: McHugh Valley
+  - slug: mchugh-trail-5
+    description: North Suicide Peak
+  - slug: mchugh-trail-7
+    description: South Suicide Peak
+  - slug: mchugh-trail-8
+    description: Rabbit Creek
+  - slug: mchugh-trail-9
+    description: Frozen Rabbit Lake
+  - slug: mchugh-trail-10
+    description: McHugh Ridge
+  - slug: mchugh-trail-11
+    description: North Suicide Peak
+  - slug: mchugh-trail-12
+    description: Snow covered Rabbit Lake
+  - slug: mchugh-trail-13
+    description: Rabbit Valley
 trailheads:
-- name: McHugh Creek Trailhead
-  latitude: 61.0179272
-  longitude: -149.7315773
-- name: Rabbit Lake Trailhead
-  latitude: 61.0795745
-  longitude: -149.6780712
-tags: ['hikes', 'chugach-state-park']
+  - name: McHugh Creek Trailhead
+    latitude: 61.0179272
+    longitude: -149.7315773
+  - name: Rabbit Lake Trailhead
+    latitude: 61.0795745
+    longitude: -149.6780712
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 This is probably one of Alaska's most stunning glacially carved valleys. The elevation lines of changing ecosystems is quite clear on this trail. Once you get above the spruce forest, there are great views of Turnagain Arm. You'll then wind through willow and scrub. As you head south, up the chute, there is less and less vegetation and eventually it is just rocky tundra scrub. The McHugh Creek runs down the middle and is quite dramatic in some sections. At the end is Rabbit Lake as your final reward. There is a good chance of seeing eagles, hawks, moose, and ptarmigan on this trail.
 
 The trail heads steeply up for the first 3 miles and it seems like forever just to get to this point but the views are so worth the effort, especially Turnagain Arm. It's a tough hike, but I would put it on my top 10 of possible day hikes if you are visiting.
@@ -63,13 +64,13 @@ A shorter alternative is the loop hike just a ways from the trailhead that circl
 
 The DeArmoun route is much easier with very little elevation changes. The road there is rough, especially towards the end. The route follows the south side of the Flat Top peaks, and goes past Ptarmigan Peak.
 
-*The following was added March 20, 2005:*
+_The following was added March 20, 2005:_
 
 Breakup came very early this year and thought I'd take a chance and do this hike from the DeArmoun Road access. I don't have 4 wheel drive and my truck definitely wouldn't handle the steep mountain road in the deep snow to get there. However the roads were clear and I got there with no problem for a gorgeous 40 degree day with not a cloud in the sky. The trail was mostly packed wind blown snow and I got to the lake with no problem. It was a great way to get into some much needed tundra after being in wooded areas all these gray months. I couldn't believe how many people were trudging up the passes and skiing down as well as snow-shoers, cross-country skiers, and hikers like me. If you live in Anchorage and the cabin fever is hitting you, this makes a great preseason area. However, beware of potential [avalanche conditions](/education/#avalanche)!
 
 Rabbit Lake is the ultimate base camp. There are so many trails nearby as well as off trail exploring. Especially if you're a resident, you should get to know this wonderful area.
 
-*The following was added June 3, 2007:*
+_The following was added June 3, 2007:_
 
 Finally camped overnight about 2 weeks ago. While I'm sure it's much clearer now, the ratio of snow to dry land was about 2 to 1 and the lake was still completely frozen. I used meltwater puddles for my drinking and cooking supply. However, it was warm and sunny and I was the only one there, which was real surprising considering how many people use this trail. I camped up at the foothills of McHugh, giving me great views of the Rabbit Lake, Suicide Peaks, McHugh Lake, McHugh Valley, Turnagain Arm and in the far off distance, the Alaska Range. All in all, it was a good time and I was psyched to be out on tundra so early in the season, and you know how much I love my tundra.
 

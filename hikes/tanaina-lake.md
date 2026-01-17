@@ -6,41 +6,42 @@ rating: 5
 difficultyRating: Somewhat difficult
 difficultyDescription: once you get to the saddle just before Tikishla, you have to traverse down 1000ft to Snowhawk Valley. It is not very technical and side hilling on the way down definitely helps. Coming back, that 1000
 connectedHikes:
-- Campbell Creek Canyon Trail
-- T'kishla Peak
-- Kanchee Peak
-- Temptation Peak
-- The Dome
-- Knoya Peak
+  - Campbell Creek Canyon Trail
+  - T'kishla Peak
+  - Kanchee Peak
+  - Temptation Peak
+  - The Dome
+  - Knoya Peak
 milesOneWay: 7.0
 milesFromAnchorage: 0.0
 directionsFromAnchorage: 20 minutes from downtown
-elevationGain: 
+elevationGain:
 seasonDescription: May to September
 mapFilename: tanaina-lake-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: tanaina-lake-2
 attachments:
-- slug: tanaina-lake-1
-  description: At the lake. Photo by Tony Lutes.
-- slug: tanaina-lake-3
-  description: View from Knoya. Photo by Tony Lutes.
-- slug: tanaina-lake-4
-  description: Tanaina Peak and Lake. Photo by Tony Lutes.
-- slug: tanaina-lake-5
-  description: T'Kishla. Photo by Tony Lutes.
+  - slug: tanaina-lake-1
+    description: At the lake. Photo by Tony Lutes.
+  - slug: tanaina-lake-3
+    description: View from Knoya. Photo by Tony Lutes.
+  - slug: tanaina-lake-4
+    description: Tanaina Peak and Lake. Photo by Tony Lutes.
+  - slug: tanaina-lake-5
+    description: T'Kishla. Photo by Tony Lutes.
 trailheads:
-- name: Prospect Heights Trailhead
-  latitude: 61.1389031
-  longitude: -149.7108881
-- name: Basher Trailhead
-  latitude: 61.1515809
-  longitude: -149.7143492
-tags: ['hikes', 'chugach-state-park']
+  - name: Prospect Heights Trailhead
+    latitude: 61.1389031
+    longitude: -149.7108881
+  - name: Basher Trailhead
+    latitude: 61.1515809
+    longitude: -149.7143492
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 Tanaina Lake Hike is a wonderful way to see two beautiful valleys in the Chugach Mountains. You have the North Fork Campbell Creek Valley on the right and Snowhawk Valley on the left. You can take the Prospect Heights Trail to Near Point, then cross the North Fork Campbell Creek Valley to the north and gain access to the ridgeline that will take you to Knoya and T'Kishla, but I would recommend a different route. Crossing the North Fork Campbell Creek Valley is a whole lot of bushwhacking that you don't need to do, and you also don't have to pay for parking. You will be crossing onto the Military portion of the Chugach Mountain Range, so I would recommend calling the Fort Richardson Military Police, 907-284-0823, to check and make sure that there are not going to be any Military Exercises going on. I did find some MRE packages up there, so I figure that they do some training in that area...because I know that all of us would not leave any trash behind!
 
 **The Trailhead – Basher Rd.**

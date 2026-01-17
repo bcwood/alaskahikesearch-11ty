@@ -9,26 +9,27 @@ connectedHikes: []
 milesOneWay: 4.0
 milesFromAnchorage: 64.0
 directionsFromAnchorage: off the Hatcher Pass road
-elevationGain: 
+elevationGain:
 seasonDescription: May to August
 mapFilename: craigie-creek-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: craigie-creek-trail-3
 attachments:
-- slug: craigie-creek-trail-1
-  description: Mine ruins. Photo by Molly Bee.
-- slug: craigie-creek-trail-2
-  description: On the trail. Photo by Molly Bee.
-- slug: craigie-creek-trail-4
-  description: Creek. Photo by Molly Bee.
-- slug: craigie-creek-trail-5
-  description: Photo by Molly Bee.
+  - slug: craigie-creek-trail-1
+    description: Mine ruins. Photo by Molly Bee.
+  - slug: craigie-creek-trail-2
+    description: On the trail. Photo by Molly Bee.
+  - slug: craigie-creek-trail-4
+    description: Creek. Photo by Molly Bee.
+  - slug: craigie-creek-trail-5
+    description: Photo by Molly Bee.
 trailheads: []
-tags: ['hikes', 'matanuska-valley']
+tags: ["hikes", "matanuska-valley"]
 layout: layouts/hike.njk
 ---
+
 The Craigie Creek Road which leads to this trail is not that great but an easy hike to the trail beginning. This road would be good for mountain biking but you may have to leave the bike once you get near the Pass. Along the way you will see and old cabin/mine site, a waterfall, and along the trail another very old cabin, lots of beaver damns, and many blueberries in season. The actual trail to Dog Sled Pass is maybe a quarter of a mile but you will have to walk the old road depending on how far you feel your vehicle can get you. At the top of the pass there is Schrock Lake and a really nice views ahead and back down the valley. There is lots of room for exploring once up by the lake.
 
 ### Important Information

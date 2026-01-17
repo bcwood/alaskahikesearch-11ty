@@ -1,39 +1,40 @@
 ---
 title: Gold Mint Trail
 park: Matanuska Valley
-submittedBy: 
+submittedBy:
 rating: 4
 difficultyRating: Moderate
 difficultyDescription: easy until the end, where there is a steep 1/8 mile climb up the mountain to hut and camping. Exploring the glacier and ridges requires care (this part earns its moderate rating). Some bushwhacking th
 connectedHikes:
-- Mint Valley to Reed Lake
-- Mint Bomber Traverse
+  - Mint Valley to Reed Lake
+  - Mint Bomber Traverse
 milesOneWay: 8.0
 milesFromAnchorage: 56.0
 directionsFromAnchorage: past Palmer towards Hatcher Pass
-elevationGain: 
+elevationGain:
 seasonDescription: All year for the valley (cross country ski or snowshoe in winter); July to September for Mint Glacier and mountain sites.
 mapFilename: golden-mint-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: golden-mint-trail-5
 attachments:
-- slug: golden-mint-trail-1
-  description: Mint Glacier
-- slug: golden-mint-trail-2
-  description: Mint Glacier Lake
-- slug: golden-mint-trail-3
-  description: Mountain fog
-- slug: golden-mint-trail-4
-  description: 2 marmots
+  - slug: golden-mint-trail-1
+    description: Mint Glacier
+  - slug: golden-mint-trail-2
+    description: Mint Glacier Lake
+  - slug: golden-mint-trail-3
+    description: Mountain fog
+  - slug: golden-mint-trail-4
+    description: 2 marmots
 trailheads:
-- name: Gold Mint Trailhead
-  latitude: 61.7787349
-  longitude: -149.1963238
-tags: ['hikes', 'matanuska-valley']
+  - name: Gold Mint Trailhead
+    latitude: 61.7787349
+    longitude: -149.1963238
+tags: ["hikes", "matanuska-valley"]
 layout: layouts/hike.njk
 ---
+
 This is a pretty cool trail. At first I gave it 3 hooves but then I started really remembering this hike. It had been over 2 yrs (I did it in 2000 - wrote this in 2002) and I had to remind myself of all the cool sites that I saw on this trip.
 
 The Little Susitna River (which some people call this trail) is a beautiful glacial river and the trail pretty much follows it along a narrow glacial valley with plenty of great waterfalls, especially at the end. The vegetation is lush but the little bushwhacking you may have to do is not overly annoying.
@@ -44,7 +45,7 @@ There is a hut run by the [Alaska Mountaineering Club](http://www.mcak.org/index
 
 2 really cool things happened when I did this hike. One was that while I was in the hut making dinner, the valley filled up with fog so fast that all I could see were the peaks when I came back outside. The other was during the next morning when I was sitting on the stoop of the hut sipping my coffee and two hoary marmots sat on a boulder close by watching me and chattering away. Go to the photos page for visuals on these.
 
-*The following was added June 6, 2009:*
+_The following was added June 6, 2009:_
 
 After 9 years, I finally re-did this hike as a day trip. Like the woman below, I was headed to Reed Lakes but the road was closed.
 
@@ -56,9 +57,9 @@ Anyway, I still believe this is a great trail. The "little Su" has to be one of 
 
 ### Important Information
 
-About 1/2 way there you'll have to ford a narrow but very deep tributary coming down the mountain. You can look around for a better place to cross but you might as well take your boots off (or not), and just do it. *Added by the webmaster in 2009: it looks like some trail work has been done so you can boulder hop but if it's been really raining, you'll still probably get your feet wet.*
+About 1/2 way there you'll have to ford a narrow but very deep tributary coming down the mountain. You can look around for a better place to cross but you might as well take your boots off (or not), and just do it. _Added by the webmaster in 2009: it looks like some trail work has been done so you can boulder hop but if it's been really raining, you'll still probably get your feet wet._
 
-Be prepared for rain and cold. If it's raining you will get soaked bushwhacking through the willow if you aren't well protected. *Added by the webmaster in 2009: I wrote this when I went in September, 2000. In June of 2009, it was very clear and not a problem. I'm not sure if this was due to trail work or just that the shrubs haven't had time to grow.*
+Be prepared for rain and cold. If it's raining you will get soaked bushwhacking through the willow if you aren't well protected. _Added by the webmaster in 2009: I wrote this when I went in September, 2000. In June of 2009, it was very clear and not a problem. I'm not sure if this was due to trail work or just that the shrubs haven't had time to grow._
 
 Bring a walking stick as the ridges can be slippery and sometimes icy. Needless to say, be very careful and only handle what you have the experience to handle.
 
@@ -74,5 +75,5 @@ This hike is in the Hatcher Pass area. Heading up the road to go over the Pass i
 
 The best way to hike this in the winter is to buy a cheap plastic sled and carry your stuff on it. For details about how I built mine, go [here](/education/how-to-build-a-sled-for-winter-hiking/ "How to Build a Sled for Winter Hiking").
 
-* Special section on alternate route to Reed Lake - [Mint Valley to Reed Lake](/hikes/mint-valley-to-reed-lake/ "Mint Valley to Reed Lake")
-* Special section on [Mint Bomber Traverse](/hikes/mint-bomber-traverse/ "Mint Bomber Traverse")
+- Special section on alternate route to Reed Lake - [Mint Valley to Reed Lake](/hikes/mint-valley-to-reed-lake/ "Mint Valley to Reed Lake")
+- Special section on [Mint Bomber Traverse](/hikes/mint-bomber-traverse/ "Mint Bomber Traverse")

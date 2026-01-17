@@ -1,7 +1,7 @@
 ---
 title: Portage Valley
 park: Chugach National Forest
-submittedBy: ''
+submittedBy: ""
 rating: 3
 difficultyRating: Easy
 difficultyDescription: more difficult if you climb up to Middle Glacier
@@ -9,26 +9,27 @@ connectedHikes: []
 milesOneWay: 2.0
 milesFromAnchorage: 50.0
 directionsFromAnchorage: 10 miles past Girdwood
-elevationGain: 
+elevationGain:
 seasonDescription: May to September (glaciers may not be visible if snow hasn't melted yet)
 mapFilename: portage-valley-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: portage-valley-1
 attachments:
-- slug: portage-valley-2
-  description: Middle Glacier
-- slug: portage-valley-3
-  description: Portage Lake
-- slug: portage-valley-4
-  description: Moose Flats
-- slug: portage-valley-5
-  description: Wetlands
+  - slug: portage-valley-2
+    description: Middle Glacier
+  - slug: portage-valley-3
+    description: Portage Lake
+  - slug: portage-valley-4
+    description: Moose Flats
+  - slug: portage-valley-5
+    description: Wetlands
 trailheads: []
-tags: ['hikes', 'chugach-national-forest']
+tags: ["hikes", "chugach-national-forest"]
 layout: layouts/hike.njk
 ---
+
 This is a highly recommended side trip on your way to the Kenai Peninsula or a great way to end your Sunday drive down Turnagain Arm.
 
 Along the Portage Road, there are several glaciers with short easy hikes to the base of the mountains from which they flow down. Middle glacier can actually be climbed to, as long as you're careful.
@@ -51,4 +52,4 @@ There is a federal campground on the premises; if you're lucky you can reserve a
 
 You can continue on through the tunnel to [Whittier, "The Strangest Town in Alaska"](http://kokogiak.com/strangetown/default.asp). The toll is $13 per vehicle, though you only pay going into Whittier, not leaving. It opens on the half hour from the Portage side, on the hour from the Whittier side. [More information on the Whittier tunnel can be found here](http://www.dot.state.ak.us/creg/whittiertunnel/index.shtml).
 
-If you'd like to educate yourself about glaciers and their awesome power, please visit [All About Glaciers](http://nsidc.org/glaciers/), a great introductory website. 
+If you'd like to educate yourself about glaciers and their awesome power, please visit [All About Glaciers](http://nsidc.org/glaciers/), a great introductory website.

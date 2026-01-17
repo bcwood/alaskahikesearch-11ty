@@ -1,37 +1,38 @@
 ---
 title: Ship Creek Trail
 park: Chugach State Park
-submittedBy: ''
+submittedBy: ""
 rating: 3
 difficultyRating: Somewhat easy
 difficultyDescription: since you can only travel this route in winter, the difficulty depends on trail conditions and your knowledge of snow travel. Otherwise, the trail is easy with little elevation gain.
 connectedHikes:
-- Indian Valley Trail
+  - Indian Valley Trail
 milesOneWay: 8.3
 milesFromAnchorage: 0.0
 directionsFromAnchorage: up Artic Valley Road, just below Alpenglow Ski Resort
-elevationGain: 
+elevationGain:
 seasonDescription: Winter route only; late October to April
 mapFilename: ship-creek-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: ship-creek-trail-4
 attachments:
-- slug: ship-creek-trail-1
-  description: Temptation Peak
-- slug: ship-creek-trail-2
-  description: Ship Creek
-- slug: ship-creek-trail-3
-  description: Along the trail
+  - slug: ship-creek-trail-1
+    description: Temptation Peak
+  - slug: ship-creek-trail-2
+    description: Ship Creek
+  - slug: ship-creek-trail-3
+    description: Along the trail
 trailheads:
-- name: Arctic Valley Trailhead
-  latitude: 61.2467223
-  longitude: -149.53491
-tags: ['hikes', 'chugach-state-park']
+  - name: Arctic Valley Trailhead
+    latitude: 61.2467223
+    longitude: -149.53491
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
-The trail is very muddy and boggy in summer so you can only use this trail in winter. However, it's one of the best winter trails near the city and one of the easiest ways to get into some unspoiled backcountry. The trail is not groomed so either cross country skis or snowshoes are recommended. 
+
+The trail is very muddy and boggy in summer so you can only use this trail in winter. However, it's one of the best winter trails near the city and one of the easiest ways to get into some unspoiled backcountry. The trail is not groomed so either cross country skis or snowshoes are recommended.
 
 Travel through spruce forest with many openings for views of this long glacial valley with endless mountains on both sides.
 
@@ -41,7 +42,7 @@ A popular trip in winter is to cross country ski right into Indian Valley with a
 
 ### Important Information
 
-Finding the trailhead can be difficult if the sign is buried in snow. The trail is about a 1/4 mile below the ski resort. As you near the top, slow down and look carefully to your left. There are usually a few parking spots plowed off to the side. If you are staying overnight, it would be wise to park in Alpenglow Ski Resort's lot and pay the $5 a day fee. Bring exact change. 
+Finding the trailhead can be difficult if the sign is buried in snow. The trail is about a 1/4 mile below the ski resort. As you near the top, slow down and look carefully to your left. There are usually a few parking spots plowed off to the side. If you are staying overnight, it would be wise to park in Alpenglow Ski Resort's lot and pay the $5 a day fee. Bring exact change.
 
 If there is too much snow on the ground making traveling difficult, you can salvage the trip and walk around the ski area.
 

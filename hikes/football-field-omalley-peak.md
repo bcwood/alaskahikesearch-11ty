@@ -1,56 +1,57 @@
 ---
 title: Football Field / O'Malley Peak
 park: Chugach State Park
-submittedBy: 
+submittedBy:
 rating: 3
 difficultyRating: Somewhat difficult
 difficultyDescription: the hike up O'Malley is very steep.  If you plan on going down the scree (to Black Lake), add another point of difficulty (as well as going back up).
 connectedHikes:
-- Williwaw Lakes
-- Powerline Pass
+  - Williwaw Lakes
+  - Powerline Pass
 milesOneWay: 4.0
 milesFromAnchorage: 0.0
 directionsFromAnchorage: about a 20 minute drive from downtown
-elevationGain: 
+elevationGain:
 seasonDescription: May to September
 mapFilename: football-field-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: football-field-5
 attachments:
-- slug: football-field-1
-  description: Black Lake
-- slug: football-field-2
-  description: Williwaw Valley
-- slug: football-field-3
-  description: Deep Lake
-- slug: football-field-4
-  description: Fall tree
-- slug: football-field-6
-  description: Hidden Tarn from O'Malley Peak. Photo by Ross Timm.
-- slug: football-field-7
-  description: Football Field
-- slug: football-field-8
-  description: Football Field
-- slug: football-field-9
-  description: Football Field
-- slug: football-field-10
-  description: Arctic ground squirrel
-- slug: football-field-11
-  description: Black Lake
-- slug: football-field-12
-  description: Deep Lake
-- slug: football-field-13
-  description: Black Lake and trail leading to Williwaw Valley.
+  - slug: football-field-1
+    description: Black Lake
+  - slug: football-field-2
+    description: Williwaw Valley
+  - slug: football-field-3
+    description: Deep Lake
+  - slug: football-field-4
+    description: Fall tree
+  - slug: football-field-6
+    description: Hidden Tarn from O'Malley Peak. Photo by Ross Timm.
+  - slug: football-field-7
+    description: Football Field
+  - slug: football-field-8
+    description: Football Field
+  - slug: football-field-9
+    description: Football Field
+  - slug: football-field-10
+    description: Arctic ground squirrel
+  - slug: football-field-11
+    description: Black Lake
+  - slug: football-field-12
+    description: Deep Lake
+  - slug: football-field-13
+    description: Black Lake and trail leading to Williwaw Valley.
 trailheads:
-- name: Glen Alps Trailhead
-  latitude: 61.1030702
-  longitude: -149.6831682
-tags: ['hikes', 'chugach-state-park']
+  - name: Glen Alps Trailhead
+    latitude: 61.1030702
+    longitude: -149.6831682
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
-Most people use this as a thru hike to get to Williwaw Lakes but it makes a fine day hike and overnighter in its own right. The climb up to the saddle of O'Malley is a bit tough, but once you get up there, the terrain and landscape features are very unique and spectacular, and worth the effort. First on the menu is a glacial valley that literally is almost as flat and wide as a football field. In the fall, it is a colorful mosaic of rock and scrub. *Note: Some people call this area the Ballpark.*
+
+Most people use this as a thru hike to get to Williwaw Lakes but it makes a fine day hike and overnighter in its own right. The climb up to the saddle of O'Malley is a bit tough, but once you get up there, the terrain and landscape features are very unique and spectacular, and worth the effort. First on the menu is a glacial valley that literally is almost as flat and wide as a football field. In the fall, it is a colorful mosaic of rock and scrub. _Note: Some people call this area the Ballpark._
 
 As you head further up the slope, you come to Deep Lake. It's quite interesting as it looks like a huge bowl that is half filled.
 
@@ -58,7 +59,7 @@ About a 1/4 mile from that, you will look down at Black Lake from a dizzying hei
 
 ### Important Information
 
-I am stating the obvious but be careful going down the scree to Black Lake. Always make sure the rock is secure before putting your weight on it. 
+I am stating the obvious but be careful going down the scree to Black Lake. Always make sure the rock is secure before putting your weight on it.
 
 Ascending the scree can be quite daunting looking at it from the bottom. Once you start climbing, you'll realize it's mostly in your head. Stay on the left side where there is less rock and more boulders to grab onto. Take your time and do a little Rocky Balboa dance when you get to the top.
 

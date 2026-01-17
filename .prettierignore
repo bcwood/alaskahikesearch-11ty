@@ -1,0 +1,12 @@
+_data
+_site
+css
+files
+img
+js
+node_modules
+static-root
+
+*.jpg
+*.png
+*.svg

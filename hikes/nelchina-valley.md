@@ -1,7 +1,7 @@
 ---
 title: Nelchina Valley
 park: Matanuska Valley
-submittedBy: ''
+submittedBy: ""
 rating: 4
 difficultyRating: Somewhat easy
 difficultyDescription: elevation wise- pretty easy; however, some parts of the trail are very muddy and boggy.
@@ -9,27 +9,28 @@ connectedHikes: []
 milesOneWay: 10.0
 milesFromAnchorage: 126.0
 directionsFromAnchorage: north of Anchorage on the Glenn Highway. You will see a dirt parking area to the right of the highway. The ATV trailhead should be obvious.
-elevationGain: 
+elevationGain:
 seasonDescription: June to September (may be hunters in late season)
 mapFilename: nelchina-valley-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: nelchina-valley-3
 attachments:
-- slug: nelchina-valley-1
-  description: Camp at Goober Lake
-- slug: nelchina-valley-2
-  description: View from Muskeg
+  - slug: nelchina-valley-1
+    description: Camp at Goober Lake
+  - slug: nelchina-valley-2
+    description: View from Muskeg
 trailheads: []
-tags: ['hikes', 'matanuska-valley']
+tags: ["hikes", "matanuska-valley"]
 layout: layouts/hike.njk
 ---
+
 You won't find this in any guidebook as this whole section is mainly ATV/Snowmobile trails but there is no reason why they should get exclusive right to all this great scenery.
 
 The first part of this hike sucks (although the views help). You hike through a marshy and boggy valley to get to the base of the Chugach Mountains. Not only are there places on the trail where you unknowingly sink shin deep into mud, the trail is mainly for ATV-using hunters. Based on this, the only trail I have ever shared with these people, my impression is that they don't have a lot of class, as evidenced by the litter they leave on the trail.
 
-But get past this (it's only a couple of miles) and you will be richly rewarded. The trail will dry out and firm up as you head up into the mountains. In my opinion, this is the most beautiful section of the Chugach Mountains. Hang a left and work your way down to the braided riverbed to Nelchina Glacier. 
+But get past this (it's only a couple of miles) and you will be richly rewarded. The trail will dry out and firm up as you head up into the mountains. In my opinion, this is the most beautiful section of the Chugach Mountains. Hang a left and work your way down to the braided riverbed to Nelchina Glacier.
 
 I am serious! These mountains are gorgeous and the bushwhacking is minor and won't inhibit you for off trail exploring. I can't wait to explore the riverbed someday.
 

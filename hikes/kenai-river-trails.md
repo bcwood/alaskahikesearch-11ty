@@ -1,7 +1,7 @@
 ---
 title: Kenai River Trails
 park: Kenai National Wildlife Refuge
-submittedBy: ''
+submittedBy: ""
 rating: 2
 difficultyRating: Easy
 difficultyDescription: no elevation gain whatsoever
@@ -9,31 +9,32 @@ connectedHikes: []
 milesOneWay: 6.3
 milesFromAnchorage: 120.0
 directionsFromAnchorage: near Kenai off of Skilak Lake Road
-elevationGain: 
+elevationGain:
 seasonDescription: May to October
 mapFilename: kenai-river-trails-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: kenai-river-trails-7
 attachments:
-- slug: kenai-river-trails-1
-  description: Primitive Trail
-- slug: kenai-river-trails-2
-  description: Kenai Mountains
-- slug: kenai-river-trails-3
-  description: View from high
-- slug: kenai-river-trails-4
-  description: Bend
-- slug: kenai-river-trails-5
-  description: View from cliff
-- slug: kenai-river-trails-6
-  description: Mallards take off
+  - slug: kenai-river-trails-1
+    description: Primitive Trail
+  - slug: kenai-river-trails-2
+    description: Kenai Mountains
+  - slug: kenai-river-trails-3
+    description: View from high
+  - slug: kenai-river-trails-4
+    description: Bend
+  - slug: kenai-river-trails-5
+    description: View from cliff
+  - slug: kenai-river-trails-6
+    description: Mallards take off
 trailheads: []
-tags: ['hikes', 'kenai-national-wildlife-refuge']
+tags: ["hikes", "kenai-national-wildlife-refuge"]
 layout: layouts/hike.njk
 ---
-*This Hike was totally rewritten on September 16, 2006 *
+
+_This Hike was totally rewritten on September 16, 2006 _
 
 The first time I ever did this hike was back in 1999 when I was visiting and still deciding whether I wanted to move here. I started working on this website 3 years later and didn't remember much, with the exception of how beautiful the river was with it's deep blue color.
 

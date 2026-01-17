@@ -6,36 +6,37 @@ rating: 5
 difficultyRating: Somewhat difficult
 difficultyDescription: glacier travel is involved, along with some fairly steep scrambling (both uphill and downhill).
 connectedHikes:
-- Golden Mint Trail
+  - Golden Mint Trail
 milesOneWay: 16.0
 milesFromAnchorage: 56.0
 directionsFromAnchorage: past Palmer towards Hatcher's Pass
-elevationGain: 
+elevationGain:
 seasonDescription: July to September
 mapFilename: mint-bomber-traverse-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: mint-bomber-traverse-2
 attachments:
-- slug: mint-bomber-traverse-1
-  description: Scree before gap. Photo by <a href='http://akolsens.home.att.net/olsen.html'>Martin Olsen</a>.
-- slug: mint-bomber-traverse-3
-  description: Tarn. Photo by <a href='http://akolsens.home.att.net/olsen.html'>Martin Olsen</a>.
-- slug: mint-bomber-traverse-4
-  description: Bomber. Photo by <a href='http://akolsens.home.att.net/olsen.html'>Martin Olsen</a>.
+  - slug: mint-bomber-traverse-1
+    description: Scree before gap. Photo by <a href='http://akolsens.home.att.net/olsen.html'>Martin Olsen</a>.
+  - slug: mint-bomber-traverse-3
+    description: Tarn. Photo by <a href='http://akolsens.home.att.net/olsen.html'>Martin Olsen</a>.
+  - slug: mint-bomber-traverse-4
+    description: Bomber. Photo by <a href='http://akolsens.home.att.net/olsen.html'>Martin Olsen</a>.
 trailheads:
-- name: Reed Lakes Trailhead
-  latitude: 61.8041865
-  longitude: -149.2027134
-tags: ['hikes', 'matanuska-valley']
+  - name: Reed Lakes Trailhead
+    latitude: 61.8041865
+    longitude: -149.2027134
+tags: ["hikes", "matanuska-valley"]
 layout: layouts/hike.njk
 ---
+
 With decent weather, this has all the trappings of one of those singularly memorable experiences one can have. Traversing glaciers in an Alpine wonderland with spectacular views the whole way is a wonderful way to spend 3 (or more) days.
 
 **Equipment needed:** crampons, ice axe.
 
-*Webmaster's note: Martin has a lot of experience on glaciers. Please do not attempt the following if you have no glacial traveling experience. Your risk of a fatal injury is high!*
+_Webmaster's note: Martin has a lot of experience on glaciers. Please do not attempt the following if you have no glacial traveling experience. Your risk of a fatal injury is high!_
 
 This is a 3-day hike but can be done in 2 by those fit and motivated enough. The trailhead is right near the Motherlode Lodge on Palmer-Fishhook Road (Mile 14). Basically, this is a very sharp "V" turn in the road, you cannot miss it on any map. (You may want to shuttle a car to the trailhead for the Reed Lakes hike.) If at all possible, go during the week to ensure that the hut will not be overrun by other mountaineers. Just in case it is, bring a tent or at least a bivvy sack!
 

@@ -6,44 +6,45 @@ rating: 3
 difficultyRating: Somewhat difficult
 difficultyDescription: climb, steepness, distance, loose rock. Navigation is not difficult because no real route finding is required and trail is close to popular trail.
 connectedHikes:
-- Powerline Pass
-- McHugh Trail / Rabbit Lake
+  - Powerline Pass
+  - McHugh Trail / Rabbit Lake
 milesOneWay: 5.0
 milesFromAnchorage: 0.0
 directionsFromAnchorage: about a 20 minute drive from downtown
 elevationGain: 3200
 seasonDescription: June to September
 mapFilename: ptarmigan-peak-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: ptarmigan-peak-1
 attachments:
-- slug: ptarmigan-peak-2
-  description: Hidden tarn. Photo by Ross Timm.
-- slug: ptarmigan-peak-3
-  description: View of Flat Top. Photo by Ross Timm.
-- slug: ptarmigan-peak-5
-  description: Middle of pass. Photo by Clark Russell.
-- slug: ptarmigan-peak-6
-  description: Summit boulders. Photo by Clark Russell.
-- slug: ptarmigan-peak-7
-  description: Trail to top. Photo by Clark Russell.
-- slug: ptarmigan-peak-4
-  description: South side of pass. Photo by Clark Russell.
+  - slug: ptarmigan-peak-2
+    description: Hidden tarn. Photo by Ross Timm.
+  - slug: ptarmigan-peak-3
+    description: View of Flat Top. Photo by Ross Timm.
+  - slug: ptarmigan-peak-5
+    description: Middle of pass. Photo by Clark Russell.
+  - slug: ptarmigan-peak-6
+    description: Summit boulders. Photo by Clark Russell.
+  - slug: ptarmigan-peak-7
+    description: Trail to top. Photo by Clark Russell.
+  - slug: ptarmigan-peak-4
+    description: South side of pass. Photo by Clark Russell.
 trailheads:
-- name: Glen Alps Trailhead
-  latitude: 61.1030702
-  longitude: -149.6831682
-- name: Prospect Heights Trailhead
-  latitude: 61.1389031
-  longitude: -149.7108881
-tags: ['hikes', 'chugach-state-park']
+  - name: Glen Alps Trailhead
+    latitude: 61.1030702
+    longitude: -149.6831682
+  - name: Prospect Heights Trailhead
+    latitude: 61.1389031
+    longitude: -149.7108881
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
-This is a great hard day hike for somebody in moderate shape who is not afraid of [loose rock and scrambling](/education/#scree). The book, *50 Hikes in Chugach State Park*, gives good directions, but I will add some info:
 
-First, I did this hike on a recent 75 degree August day, so it was hot (south exposure). 
+This is a great hard day hike for somebody in moderate shape who is not afraid of [loose rock and scrambling](/education/#scree). The book, _50 Hikes in Chugach State Park_, gives good directions, but I will add some info:
+
+First, I did this hike on a recent 75 degree August day, so it was hot (south exposure).
 
 You start on [Powerline Pass](/hikes/powerline-pass/ "Powerline Pass") from Glen Alps - the first try, a few weeks earlier, I started on foot and was burned out by the busy, flat powerline trail for the first 3 miles. This time, I mountain biked to the "trailhead" (it is unmarked and not real clear - again I recommend the book over my directions). Eliminating 1-1/2 hours from the hike was a very nice deal. I stowed my bike in the bushes. The ride back is especially nice - almost all downhill.
 
@@ -55,7 +56,7 @@ Both summits had the same weird bug phenomena I have witnessed on almost every o
 
 ### Important Information
 
-1) Not for young kids! 2) Only the best hiking dogs need attend - and it will be rough on their paws regardless. And 3) you are isolated - I saw only one other hiker on the upper peak, and only one on the hike from the Powerline Pass to Ptarmigan Pass, and this on a great August Saturday at 1pm. Let people know where you are going, especially if you are stashing a bike. Again, (see the O'Malley Peak description) kiss the Flattop crowds goodbye as you experience one of the closest real escapes into mountain solitude in the Anchorage foothills.
+1. Not for young kids! 2) Only the best hiking dogs need attend - and it will be rough on their paws regardless. And 3) you are isolated - I saw only one other hiker on the upper peak, and only one on the hike from the Powerline Pass to Ptarmigan Pass, and this on a great August Saturday at 1pm. Let people know where you are going, especially if you are stashing a bike. Again, (see the O'Malley Peak description) kiss the Flattop crowds goodbye as you experience one of the closest real escapes into mountain solitude in the Anchorage foothills.
 
 ### Etc.
 

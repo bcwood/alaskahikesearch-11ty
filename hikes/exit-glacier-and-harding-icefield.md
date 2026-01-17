@@ -1,7 +1,7 @@
 ---
 title: Exit Glacier & Harding Icefield
 park: Kenai Fjords National Park
-submittedBy: 
+submittedBy:
 rating: 5
 difficultyRating: Easy
 difficultyDescription: walking around the terminus (bottom of the glacier) is flat. However, the hike up to Harding Icefield is very steep and only people who are in reasonably good shape should attempt it.
@@ -9,52 +9,53 @@ connectedHikes: []
 milesOneWay: 4.5
 milesFromAnchorage: 112.0
 directionsFromAnchorage: just north of the Seward city limits
-elevationGain: 
+elevationGain:
 seasonDescription: July to September; expect snow at higher elevations as well as extremely windy and cold conditions (especially in September).
 mapFilename: exit-glacier-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: exit-glacier-banner
 attachments:
-- slug: exit-glacier-1
-  description: Walking on the icefield. Photo by Frank Baker.
-- slug: exit-glacier-2
-  description: Resting on the icefield. Photo by Frank Baker.
-- slug: exit-glacier-3
-  description: Crevasses. Photo by Katriina Ervest.
-- slug: exit-glacier-4
-  description: Exit Glacier. Photo by Katriina Ervest.
-- slug: exit-glacier-5
-  description: New snow. Photo by Phil Armitage.
-- slug: exit-glacier-6
-  description: Exit Glacier
-- slug: exit-glacier-7
-  description: First glimpse
-- slug: exit-glacier-8
-  description: Glacier's terminus
-- slug: exit-glacier-9
-  description: Glacier's terminus
-- slug: exit-glacier-10
-  description: Harding Icefield.
-- slug: exit-glacier-11
-  description: Exit Glacier Valley. Photo by Ross Timm.
-- slug: exit-glacier-12
-  description: Harding Icefield. Photo by Ross Timm.
-- slug: exit-glacier-13
-  description: Harding Icefield. Photo by Jon B.
+  - slug: exit-glacier-1
+    description: Walking on the icefield. Photo by Frank Baker.
+  - slug: exit-glacier-2
+    description: Resting on the icefield. Photo by Frank Baker.
+  - slug: exit-glacier-3
+    description: Crevasses. Photo by Katriina Ervest.
+  - slug: exit-glacier-4
+    description: Exit Glacier. Photo by Katriina Ervest.
+  - slug: exit-glacier-5
+    description: New snow. Photo by Phil Armitage.
+  - slug: exit-glacier-6
+    description: Exit Glacier
+  - slug: exit-glacier-7
+    description: First glimpse
+  - slug: exit-glacier-8
+    description: Glacier's terminus
+  - slug: exit-glacier-9
+    description: Glacier's terminus
+  - slug: exit-glacier-10
+    description: Harding Icefield.
+  - slug: exit-glacier-11
+    description: Exit Glacier Valley. Photo by Ross Timm.
+  - slug: exit-glacier-12
+    description: Harding Icefield. Photo by Ross Timm.
+  - slug: exit-glacier-13
+    description: Harding Icefield. Photo by Jon B.
 trailheads:
-- name: Exit Glacier Trailhead
-  latitude: 60.1844102
-  longitude: -149.65303
-tags: ['hikes', 'kenai-fjords-national-park']
+  - name: Exit Glacier Trailhead
+    latitude: 60.1844102
+    longitude: -149.65303
+tags: ["hikes", "kenai-fjords-national-park"]
 layout: layouts/hike.njk
 ---
-***One of the best day hikes in Alaska!***
+
+**_One of the best day hikes in Alaska!_**
 
 If you are visiting the area, I would put this at the top of my list - no kidding!
 
-This is the hike that clinched it for me to move up here. Mostly vertical, it can be a real A** whupper, but ohhhhh, the reward is sooooo worth it. The scenery is incredible as you hike up the mountain and get increasingly better views of the glacier and the Kenai Mountains. And then you get to the top where you will see the incredible Harding Icefield. Words cannot describe it. You'll feel like you're on the top of the world!
+This is the hike that clinched it for me to move up here. Mostly vertical, it can be a real A\*\* whupper, but ohhhhh, the reward is sooooo worth it. The scenery is incredible as you hike up the mountain and get increasingly better views of the glacier and the Kenai Mountains. And then you get to the top where you will see the incredible Harding Icefield. Words cannot describe it. You'll feel like you're on the top of the world!
 
 The chance of seeing bear, dall sheep, mountain goats, and eagles is extremely high.
 
@@ -66,9 +67,9 @@ There is a great interpretive center as well.
 
 ### Important Information
 
-If you pace yourself and you are in reasonably good shape, you should have no physical problem hiking to the Icefield. The real challenge is mental. Because of the way the mountain slopes from the glacial grinding, it seems like you are almost there and when you get higher you see more stretch of trail that was hidden. It can be quite daunting, but keep telling yourself that the reward will be worth it. You should keep on going, even if there's snow, until you get to the Icefield (trust me-you'll know it when you get there). **DON'T GIVE UP!** 
+If you pace yourself and you are in reasonably good shape, you should have no physical problem hiking to the Icefield. The real challenge is mental. Because of the way the mountain slopes from the glacial grinding, it seems like you are almost there and when you get higher you see more stretch of trail that was hidden. It can be quite daunting, but keep telling yourself that the reward will be worth it. You should keep on going, even if there's snow, until you get to the Icefield (trust me-you'll know it when you get there). **DON'T GIVE UP!**
 
-*Do not walk on the glacier!* Unless you're experienced in glacial hiking, you are putting your life in extreme risk. There are many deep crevasses that are covered with snow. If you fall in, it was nice knowing you.
+_Do not walk on the glacier!_ Unless you're experienced in glacial hiking, you are putting your life in extreme risk. There are many deep crevasses that are covered with snow. If you fall in, it was nice knowing you.
 
 The Icefield, especially if it's windy, can be winter like, even if the temperature is warm down at the terminus. Pack a warm coat or fleece, windbreaker and hat. If traveling in September, consider gloves and a hot thermos. To avoid hypothermia, change into dryer and/or warmer clothes at the emergency hut located 1/4 mile before the edge of the Icefield.
 

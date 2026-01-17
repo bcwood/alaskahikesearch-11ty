@@ -1,48 +1,49 @@
 ---
 title: Ermine Hill Trail
 park: Denali State Park
-submittedBy: 
+submittedBy:
 rating: 4
 difficultyRating: Somewhat easy
 difficultyDescription: some elevation gains but switch-backed.  Moderate if root stair is used.
 connectedHikes:
-- Kesugi Ridge
+  - Kesugi Ridge
 milesOneWay: 3.1
 milesFromAnchorage: 156.4
 directionsFromAnchorage: trailhead is just off the Parks Highway
-elevationGain: 
+elevationGain:
 seasonDescription: July to September
 mapFilename: ermine-hill-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: ermine-hill-trail-1
 attachments:
-- slug: ermine-hill-trail-2
-  description: Ermine Creek
-- slug: ermine-hill-trail-3
-  description: View of valley
-- slug: ermine-hill-trail-4
-  description: First glimpse of hill
-- slug: ermine-hill-trail-5
-  description: View of Denali on a clear day
-- slug: ermine-hill-trail-6
-  description: Ermine Hill area
-- slug: ermine-hill-trail-7
-  description: Ermine Lake
-- slug: ermine-hill-trail-8
-  description: Rock formation
-- slug: ermine-hill-trail-9
-  description: Rock formation
-- slug: ermine-hill-trail-10
-  description: Rock formation
+  - slug: ermine-hill-trail-2
+    description: Ermine Creek
+  - slug: ermine-hill-trail-3
+    description: View of valley
+  - slug: ermine-hill-trail-4
+    description: First glimpse of hill
+  - slug: ermine-hill-trail-5
+    description: View of Denali on a clear day
+  - slug: ermine-hill-trail-6
+    description: Ermine Hill area
+  - slug: ermine-hill-trail-7
+    description: Ermine Lake
+  - slug: ermine-hill-trail-8
+    description: Rock formation
+  - slug: ermine-hill-trail-9
+    description: Rock formation
+  - slug: ermine-hill-trail-10
+    description: Rock formation
 trailheads:
-- name: Ermine Hill Trailhead
-  latitude: 62.8274689
-  longitude: -149.9035288
-tags: ['hikes', 'denali-state-park']
+  - name: Ermine Hill Trailhead
+    latitude: 62.8274689
+    longitude: -149.9035288
+tags: ["hikes", "denali-state-park"]
 layout: layouts/hike.njk
 ---
+
 My original plan was to do Kesugi Ridge and add Upper Troublesome Creek for a 4 night/5 day trek. For the website, I was going to camp near the intersection of Kesugi Ridge and Ermine Hill and quickly head down to the highway and back up so I could give definitive information on the trail. However, the weather was horrible and instead I just did this as a day hike. Unfortunately, since it was a crappy day, I didn't get to see Denali (your chances are 30% on any give day - don't say I didn't warn you) but it was a nice pleasant hike nonetheless.
 
 For those who don't have the time, skill, and/or physical capabilities to do the whole Kesugi Ridge Trail, this is a great alternative. You still get to see Denali (fairly quickly, I might add) and at the end of the trail, you can explore the cool rock formations along the hills and along the Kesugi Trail before it descends down into the valley.

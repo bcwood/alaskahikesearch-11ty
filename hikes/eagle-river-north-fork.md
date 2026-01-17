@@ -9,34 +9,35 @@ connectedHikes: []
 milesOneWay: 0.5
 milesFromAnchorage: 20.0
 directionsFromAnchorage: Near Eagle River, about 5 miles up Eagle River Road
-elevationGain: 
+elevationGain:
 seasonDescription: All year
-mapFilename: ''
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+mapFilename: ""
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: north-fork1
 attachments:
-- slug: north-fork2
-  description: Photo by Tina Rick.
-- slug: north-fork3
-  description: Photo by Tina Rick.
-- slug: north-fork4
-  description: Photo by Tina Rick.
-- slug: north-fork5
-  description: Photo by Tina Rick.
-- slug: north-fork6
-  description: Photo by Tina Rick.
-- slug: north-fork7
-  description: Photo by Tina Rick.
-- slug: north-fork8
-  description: Photo by Tina Rick.
-- slug: north-fork9
-  description: Photo by Tina Rick.
+  - slug: north-fork2
+    description: Photo by Tina Rick.
+  - slug: north-fork3
+    description: Photo by Tina Rick.
+  - slug: north-fork4
+    description: Photo by Tina Rick.
+  - slug: north-fork5
+    description: Photo by Tina Rick.
+  - slug: north-fork6
+    description: Photo by Tina Rick.
+  - slug: north-fork7
+    description: Photo by Tina Rick.
+  - slug: north-fork8
+    description: Photo by Tina Rick.
+  - slug: north-fork9
+    description: Photo by Tina Rick.
 trailheads: []
-tags: ['hikes', 'chugach-state-park']
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 At the river, the views and photo ops are awesome!
 
 ### Finding the Trailhead

@@ -1,62 +1,63 @@
 ---
 title: Eagle and Symphony Lakes
 park: Chugach State Park
-submittedBy: 
+submittedBy:
 rating: 4
 difficultyRating: Easy
 difficultyDescription: very little elevation gain.  A stretch of boulders at the end commands caution while maneuvering through them.
 connectedHikes:
-- Eagle Peak
-- Hanging Valley
-- Flute Glacier
-- Rendezvous Peak
-- Triangle Peak
+  - Eagle Peak
+  - Hanging Valley
+  - Flute Glacier
+  - Rendezvous Peak
+  - Triangle Peak
 milesOneWay: 6.0
 milesFromAnchorage: 25.0
 directionsFromAnchorage: on the outskirts of the town of Eagle River
 elevationGain: 1500
 seasonDescription: June to September
 mapFilename: eagle-symphony-lakes-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: eagle-symphony-lakes-banner
 attachments:
-- slug: eagle-symphony-lakes-1
-  description: Eagle Lake in twilight. Photo by Conrad.
-- slug: eagle-symphony-lakes-2
-  description: Eagle Lake B/W. Photo by Conrad.
-- slug: eagle-symphony-lakes-3
-  description: Bear in the distance. Photo by Conrad.
-- slug: eagle-symphony-lakes-4
-  description: South Fork. Photo by Frank Baker.
-- slug: eagle-symphony-lakes-5
-  description: Symphony Lake. Photo by Frank Baker.
-- slug: eagle-symphony-lakes-6
-  description: Canyon in back of Eagle Lake
-- slug: eagle-symphony-lakes-7
-  description: Campsite
-- slug: eagle-symphony-lakes-8
-  description: Canyon in back of Symphony Lake
-- slug: eagle-symphony-lakes-9
-  description: View of Symphony Lake from Back Canyon
-- slug: eagle-symphony-lakes-10
-  description: Symphony Lake reflection
-- slug: eagle-symphony-lakes-11
-  description: Symphony Lake
-- slug: eagle-symphony-lakes-12
-  description: Hurdygurdy Mountain
-- slug: eagle-symphony-lakes-13
-  description: Symphony Lake campsite
-- slug: eagle-symphony-lakes-14
-  description: Eagle Lake
+  - slug: eagle-symphony-lakes-1
+    description: Eagle Lake in twilight. Photo by Conrad.
+  - slug: eagle-symphony-lakes-2
+    description: Eagle Lake B/W. Photo by Conrad.
+  - slug: eagle-symphony-lakes-3
+    description: Bear in the distance. Photo by Conrad.
+  - slug: eagle-symphony-lakes-4
+    description: South Fork. Photo by Frank Baker.
+  - slug: eagle-symphony-lakes-5
+    description: Symphony Lake. Photo by Frank Baker.
+  - slug: eagle-symphony-lakes-6
+    description: Canyon in back of Eagle Lake
+  - slug: eagle-symphony-lakes-7
+    description: Campsite
+  - slug: eagle-symphony-lakes-8
+    description: Canyon in back of Symphony Lake
+  - slug: eagle-symphony-lakes-9
+    description: View of Symphony Lake from Back Canyon
+  - slug: eagle-symphony-lakes-10
+    description: Symphony Lake reflection
+  - slug: eagle-symphony-lakes-11
+    description: Symphony Lake
+  - slug: eagle-symphony-lakes-12
+    description: Hurdygurdy Mountain
+  - slug: eagle-symphony-lakes-13
+    description: Symphony Lake campsite
+  - slug: eagle-symphony-lakes-14
+    description: Eagle Lake
 trailheads:
-- name: South Fork Trailhead
-  latitude: 61.2327938
-  longitude: -149.4561918
-tags: ['hikes', 'chugach-state-park']
+  - name: South Fork Trailhead
+    latitude: 61.2327938
+    longitude: -149.4561918
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 One of my favorite places to go! Very convenient to Anchorage and one of the most accessible ways to get into the backcountry. The trail starts over a ridge then descends into the valley. At the end, after climbing over the a slew of rocks and boulders from a long ago slide, are two lakes situated on both sides of a lateral moraine; Eagle Lake, which is a green milky color and Symphony Lake, a rich blue aquamarine color. The contrast in color is amazing and is one of the coolest sites in the park.
 
 While many hike to the Lakes as a day hike, plan an overnighter to allow time for exploring. The scenery is gorgeous whichever lake you decide to camp by. Some people choose to camp right on the spine of the moraine getting views of both lakes. On the ridge is a strange wooden structure that was supposedly the start of a cabin.

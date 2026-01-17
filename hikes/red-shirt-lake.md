@@ -1,7 +1,7 @@
 ---
 title: Red Shirt Lake
 park: Nancy Lake State Recreation Area
-submittedBy: ''
+submittedBy: ""
 rating: 3
 difficultyRating: Somewhat easy
 difficultyDescription: the trail is rolling hills with some slight elevation gain
@@ -9,27 +9,28 @@ connectedHikes: []
 milesOneWay: 3.0
 milesFromAnchorage: 67.5
 directionsFromAnchorage: a few miles north of Wasilla on the Parks Highway
-elevationGain: 
+elevationGain:
 seasonDescription: All year
 mapFilename: http://dnr.alaska.gov/parks/units/nancylk/nansumap
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: red-shirt-lake-2
 attachments:
-- slug: red-shirt-lake-1
-  description: Happy dog
-- slug: red-shirt-lake-3
-  description: Red Shirt Lake
-- slug: red-shirt-lake-4
-  description: South Rolly
+  - slug: red-shirt-lake-1
+    description: Happy dog
+  - slug: red-shirt-lake-3
+    description: Red Shirt Lake
+  - slug: red-shirt-lake-4
+    description: South Rolly
 trailheads:
-- name: Red Shirt Lake Trailhead
-  latitude: 61.6670768
-  longitude: -150.1413254
-tags: ['hikes', 'nancy-lake-state-recreation-area']
+  - name: Red Shirt Lake Trailhead
+    latitude: 61.6670768
+    longitude: -150.1413254
+tags: ["hikes", "nancy-lake-state-recreation-area"]
 layout: layouts/hike.njk
 ---
+
 The trail starts at South Rolly Lake Campground Parking Lot. With your back to South Rolly Lake there is a dirt road with a gate. The trail starts just before the gate and to your left. This trail is dry and mostly all forested with a few minor swamps just off the trail.
 
 At the end of the trail at Red Shirt Lake there are primitive campsites. Call ahead to reserve boats at the lake from [Tippecanoe Rentals](http://www.paddlealaska.com/).

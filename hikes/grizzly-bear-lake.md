@@ -4,45 +4,46 @@ park: Chugach National Forest
 submittedBy: Martin Olsen
 rating: 4
 difficultyRating: Difficult
-difficultyDescription: ''
+difficultyDescription: ""
 connectedHikes:
-- Crow Pass
-- Jewell Glacier
+  - Crow Pass
+  - Jewell Glacier
 milesOneWay: 9.0
 milesFromAnchorage: 50.0
 directionsFromAnchorage: above Girdwood
-elevationGain: 
+elevationGain:
 seasonDescription: June to September
 mapFilename: grizzly-bear-lake-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: grizzly-bear-lake-9
 attachments:
-- slug: grizzly-bear-lake-1
-  description: Panorama. Photo by Martin Olsen.
-- slug: grizzly-bear-lake-2
-  description: View of camp. Photo by Martin Olsen.
-- slug: grizzly-bear-lake-3
-  description: Paradise Pass. Photo by Martin Olsen.
-- slug: grizzly-bear-lake-4
-  description: Ridge. Photo by Martin Olsen.
-- slug: grizzly-bear-lake-5
-  description: Valley. Photo by Martin Olsen.
-- slug: grizzly-bear-lake-6
-  description: Dave at Grizzly Bear Lake. Photo by Frank Baker.
-- slug: grizzly-bear-lake-7
-  description: North Fork Ship Creek. Photo by Frank Baker.
-- slug: grizzly-bear-lake-8
-  description: Frank at Eagle Lake. Photo by Frank Baker.
+  - slug: grizzly-bear-lake-1
+    description: Panorama. Photo by Martin Olsen.
+  - slug: grizzly-bear-lake-2
+    description: View of camp. Photo by Martin Olsen.
+  - slug: grizzly-bear-lake-3
+    description: Paradise Pass. Photo by Martin Olsen.
+  - slug: grizzly-bear-lake-4
+    description: Ridge. Photo by Martin Olsen.
+  - slug: grizzly-bear-lake-5
+    description: Valley. Photo by Martin Olsen.
+  - slug: grizzly-bear-lake-6
+    description: Dave at Grizzly Bear Lake. Photo by Frank Baker.
+  - slug: grizzly-bear-lake-7
+    description: North Fork Ship Creek. Photo by Frank Baker.
+  - slug: grizzly-bear-lake-8
+    description: Frank at Eagle Lake. Photo by Frank Baker.
 trailheads:
-- name: Crow Pass Trailhead
-  latitude: 61.0281201
-  longitude: -149.1161674
-tags: ['hikes', 'chugach-national-forest']
+  - name: Crow Pass Trailhead
+    latitude: 61.0281201
+    longitude: -149.1161674
+tags: ["hikes", "chugach-national-forest"]
 layout: layouts/hike.njk
 ---
-Grizzly Bear Lake hike has been listed in Shepherd and Wozniak's book, *50 Hikes in Alaska's Chugach State Park*. Their description of the trail is accurate with one possible understatement regarding the steepness of the north side of Paradise Pass. It can be a little tricky, but if you take your time and choose your route carefully, it can be done by most anyone with decent scrambling skills. Once over the pass, it is a very pleasant and straightforward journey to the Lake. More on that in a moment...
+
+Grizzly Bear Lake hike has been listed in Shepherd and Wozniak's book, _50 Hikes in Alaska's Chugach State Park_. Their description of the trail is accurate with one possible understatement regarding the steepness of the north side of Paradise Pass. It can be a little tricky, but if you take your time and choose your route carefully, it can be done by most anyone with decent scrambling skills. Once over the pass, it is a very pleasant and straightforward journey to the Lake. More on that in a moment...
 
 **The Hike:**
 

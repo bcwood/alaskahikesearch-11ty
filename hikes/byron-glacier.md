@@ -9,37 +9,38 @@ connectedHikes: []
 milesOneWay: 1.2
 milesFromAnchorage: 40.0
 directionsFromAnchorage: Near Portage Glacier, just off the Seward Highway
-elevationGain: 
+elevationGain:
 seasonDescription: All year
-mapFilename: ''
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+mapFilename: ""
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: byron-glacier1
 attachments:
-- slug: byron-glacier2
-  description: Trail leading up to the glacier. Photo by Tina Rick.
-- slug: byron-glacier3
-  description: Trail leading up to the glacier. Photo by Tina Rick.
-- slug: byron-glacier4
-  description: Trail leading up to the glacier. Photo by Tina Rick.
-- slug: byron-glacier9
-  description: Photo by Tina Rick.
-- slug: byron-glacier5
-  description: Photo by Tina Rick.
-- slug: byron-glacier6
-  description: Photo by Tina Rick.
-- slug: byron-glacier7
-  description: Photo by Tina Rick.
-- slug: byron-glacier8
-  description: Photo by Tina Rick.
+  - slug: byron-glacier2
+    description: Trail leading up to the glacier. Photo by Tina Rick.
+  - slug: byron-glacier3
+    description: Trail leading up to the glacier. Photo by Tina Rick.
+  - slug: byron-glacier4
+    description: Trail leading up to the glacier. Photo by Tina Rick.
+  - slug: byron-glacier9
+    description: Photo by Tina Rick.
+  - slug: byron-glacier5
+    description: Photo by Tina Rick.
+  - slug: byron-glacier6
+    description: Photo by Tina Rick.
+  - slug: byron-glacier7
+    description: Photo by Tina Rick.
+  - slug: byron-glacier8
+    description: Photo by Tina Rick.
 trailheads:
-- name: Byron Glacier Trailhead
-  latitude: 60.7736707
-  longitude: -148.8460476
-tags: ['hikes', 'chugach-national-forest']
+  - name: Byron Glacier Trailhead
+    latitude: 60.7736707
+    longitude: -148.8460476
+tags: ["hikes", "chugach-national-forest"]
 layout: layouts/hike.njk
 ---
+
 Byron Glacier is a jewel! The views are awesome, and the trail is easy! Definitely a must see!
 
 ### Important Information

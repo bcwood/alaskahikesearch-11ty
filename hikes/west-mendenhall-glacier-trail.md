@@ -9,38 +9,39 @@ connectedHikes: []
 milesOneWay: 4.0
 milesFromAnchorage: 900.0
 directionsFromAnchorage: in the town of Juneau
-elevationGain: 
+elevationGain:
 seasonDescription: April to August
 mapFilename: west-glacier-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: west-glacier-trail-9
 attachments:
-- slug: west-glacier-trail-1
-  description: Mendenhall Glacier. Photo by Jenny Raduski.
-- slug: west-glacier-trail-2
-  description: Mendenhall Glacier. Photo by Jenny Raduski.
-- slug: west-glacier-trail-3
-  description: Mendenhall Glacier. Photo by Jenny Raduski.
-- slug: west-glacier-trail-5
-  description: Mendenhall Glacier. Photo by Turner Vail.
-- slug: west-glacier-trail-6
-  description: Mendenhall Glacier. Photo by Turner Vail.
-- slug: west-glacier-trail-7
-  description: Waterfall. Photo by Turner Vail.
-- slug: west-glacier-trail-8
-  description: Tongass trail. Photo by Turner Vail.
-- slug: west-glacier-trail-4
-  description: Mendenhall Glacier. Photo by Jenny Raduski.
+  - slug: west-glacier-trail-1
+    description: Mendenhall Glacier. Photo by Jenny Raduski.
+  - slug: west-glacier-trail-2
+    description: Mendenhall Glacier. Photo by Jenny Raduski.
+  - slug: west-glacier-trail-3
+    description: Mendenhall Glacier. Photo by Jenny Raduski.
+  - slug: west-glacier-trail-5
+    description: Mendenhall Glacier. Photo by Turner Vail.
+  - slug: west-glacier-trail-6
+    description: Mendenhall Glacier. Photo by Turner Vail.
+  - slug: west-glacier-trail-7
+    description: Waterfall. Photo by Turner Vail.
+  - slug: west-glacier-trail-8
+    description: Tongass trail. Photo by Turner Vail.
+  - slug: west-glacier-trail-4
+    description: Mendenhall Glacier. Photo by Jenny Raduski.
 trailheads:
-- name: West Mendenhall Glacier Trailhead
-  latitude: 58.4256107
-  longitude: -134.5839964
-tags: ['hikes', 'tongass-national-forest']
+  - name: West Mendenhall Glacier Trailhead
+    latitude: 58.4256107
+    longitude: -134.5839964
+tags: ["hikes", "tongass-national-forest"]
 layout: layouts/hike.njk
 ---
-*Note from the webmaster: technically this is too far away from Anchorage (greater than a 4 hour car ride) to grant inclusion on this site but since many visitors to my site would be interested, it seemed appropriate to publish and have available.*
+
+_Note from the webmaster: technically this is too far away from Anchorage (greater than a 4 hour car ride) to grant inclusion on this site but since many visitors to my site would be interested, it seemed appropriate to publish and have available._
 
 This is the trail you want to take if you’re looking to see a real Alaskan glacier. The view at the top affords incredible views of what seems to be an ocean of ice that makes up Mendenhall Glacier. The pictures included in this review give a glimpse of what I mean. I went off on this trail not really knowing how much I would love it. It took me 2 hours to get up it (I stopped for pictures like 10 times) only to spend an hour taking in the glacier. I actually got cellular reception and was able to call my uncle, who is a geologist, from the top.
 
@@ -54,7 +55,7 @@ In the 4 years of hiking in Alaska I have never startled a bear; on this trail I
 
 If you start up McGuinnis Trail know that it gets very rocky and the trail hugs some very steep cliffs. It is also very difficult to locate so make sure you take some mental notes and know how to get back to West Glacier Trail. I have never taken the unmarked trail that leads down to the glacier but from what I understand it too is fairly dangerous. I hear it involves some bushwhacking and climbing equipment. Do some research before you attempt to try either of these trails.
 
-*The following was added by the webmaster September 29, 2008:*
+_The following was added by the webmaster September 29, 2008:_
 
 Came down for a 4 day weekend to Juneau and hiked this trail. To add to the comments above; the last 1/2 mile is full of boulders that you must scramble upon and can be quite slippery in the rain. Take your time and be careful! Once you get out of the trees to the scraped glacial rock, getting to the actual glacier is easy if you follow the cairns.
 

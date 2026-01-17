@@ -6,54 +6,55 @@ rating: 4
 difficultyRating: Somewhat difficult
 difficultyDescription: distance and Slope near the end of the hike. Approximately 5,000ft Elevation Gain. I highly suggest going with someone who's at least previously been to the Snowhawk Cabins as it is very easy to get l
 connectedHikes:
-- Tanaina Lake
+  - Tanaina Lake
 milesOneWay: 8.5
 milesFromAnchorage: 5.0
 directionsFromAnchorage: off Arctic Valley Road
-elevationGain: 
+elevationGain:
 seasonDescription: All year
 mapFilename: temptation-peak-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: temptation-peak-3
 attachments:
-- slug: temptation-peak-1
-  description: Eerie summit. Photo by Paul 'Kegger' Koecher.
-- slug: temptation-peak-2
-  description: Get down Joe. Photo by Paul 'Kegger' Koecher.
-- slug: temptation-peak-4
-  description: Saddle above the tarn. Photo by Paul 'Kegger' Koecher.
-- slug: temptation-peak-5
-  description: Spine. Photo by Paul 'Kegger' Koecher.
-- slug: temptation-peak-6
-  description: Me and Dave on the summit. Photo by Paul 'Kegger' Koecher.
-- slug: temptation-peak-7
-  description: Upper cabin. Photo by Paul 'Kegger' Koecher.
-- slug: temptation-peak-8
-  description: Walk the plank. Photo by Paul 'Kegger' Koecher.
-- slug: temptation-peak-9
-  description: Cabin ruins. Photo by Paul 'Kegger' Koecher.
-- slug: temptation-peak-10
-  description: Coming up to the cabin. Photo by Kathy.
-- slug: temptation-peak-11
-  description: Loki at summit. Photo by Kathy.
-- slug: temptation-peak-12
-  description: Loki. Photo by Kathy.
-- slug: temptation-peak-13
-  description: Night view from cabin. Photo by Kathy.
-- slug: temptation-peak-14
-  description: Tanaina Lake. Photo by Kathy.
-- slug: temptation-peak-15
-  description: Tanaina Lake. Photo by Kathy.
+  - slug: temptation-peak-1
+    description: Eerie summit. Photo by Paul 'Kegger' Koecher.
+  - slug: temptation-peak-2
+    description: Get down Joe. Photo by Paul 'Kegger' Koecher.
+  - slug: temptation-peak-4
+    description: Saddle above the tarn. Photo by Paul 'Kegger' Koecher.
+  - slug: temptation-peak-5
+    description: Spine. Photo by Paul 'Kegger' Koecher.
+  - slug: temptation-peak-6
+    description: Me and Dave on the summit. Photo by Paul 'Kegger' Koecher.
+  - slug: temptation-peak-7
+    description: Upper cabin. Photo by Paul 'Kegger' Koecher.
+  - slug: temptation-peak-8
+    description: Walk the plank. Photo by Paul 'Kegger' Koecher.
+  - slug: temptation-peak-9
+    description: Cabin ruins. Photo by Paul 'Kegger' Koecher.
+  - slug: temptation-peak-10
+    description: Coming up to the cabin. Photo by Kathy.
+  - slug: temptation-peak-11
+    description: Loki at summit. Photo by Kathy.
+  - slug: temptation-peak-12
+    description: Loki. Photo by Kathy.
+  - slug: temptation-peak-13
+    description: Night view from cabin. Photo by Kathy.
+  - slug: temptation-peak-14
+    description: Tanaina Lake. Photo by Kathy.
+  - slug: temptation-peak-15
+    description: Tanaina Lake. Photo by Kathy.
 trailheads:
-- name: Snow Hawk Trailhead
-  latitude: 61.2253661
-  longitude: -149.6512922
-tags: ['hikes', 'chugach-state-park']
+  - name: Snow Hawk Trailhead
+    latitude: 61.2253661
+    longitude: -149.6512922
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
-Once you get on this small trail, stay to the right initially (there's yet another fork right after you get on the trail...go right). From this point on, follow the *extremely small* yellow "Trail" signs that have been placed on trees as well as the little ribbons.
+
+Once you get on this small trail, stay to the right initially (there's yet another fork right after you get on the trail...go right). From this point on, follow the _extremely small_ yellow "Trail" signs that have been placed on trees as well as the little ribbons.
 
 Although the trail can be hiked year round, I suggest spring to early summer, as the trail can get very overgrown which makes it even harder to find your path. If you've done things right, you'll make it past the majority of the mud and get to the burned down cabin after about 2 miles. The trail goes to the right of the cabin, back toward the valley...at this point the "trail" sign was behind a tree, so if you went up close to the wreckage of the cabin, just back track slightly and head toward the valley (away from Anchorage).
 

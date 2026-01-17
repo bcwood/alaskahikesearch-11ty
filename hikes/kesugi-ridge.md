@@ -1,94 +1,95 @@
 ---
 title: Kesugi Ridge
 park: Denali State Park
-submittedBy: 
+submittedBy:
 rating: 5
 difficultyRating: Somewhat difficult
 difficultyDescription: both trailheads start with an extreme uphill slope to the ridge.  There is also a major uphill slope in the middle.  They're tough but doable.  The ridge itself is easy.
 connectedHikes:
-- Ermine Hill Trail
-- Upper Troublesome Creek Trail
+  - Ermine Hill Trail
+  - Upper Troublesome Creek Trail
 milesOneWay: 30.0
 milesFromAnchorage: 147.0
-directionsFromAnchorage: 'Byers Lake Trailhead: 147 <br />Little Coal Creek Trailhead: 164'
+directionsFromAnchorage: "Byers Lake Trailhead: 147 <br />Little Coal Creek Trailhead: 164"
 elevationGain: 6400
 seasonDescription: July to September
 mapFilename: kesugi-ridge-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: kesugi-ridge-18
 attachments:
-- slug: kesugi-ridge-1
-  description: First part of ridge
-- slug: kesugi-ridge-2
-  description: First part of ridge
-- slug: kesugi-ridge-3
-  description: First part of ridge
-- slug: kesugi-ridge-4
-  description: First night camp (2004)
-- slug: kesugi-ridge-5
-  description: Creek chasm
-- slug: kesugi-ridge-6
-  description: Rock formation
-- slug: kesugi-ridge-7
-  description: Rock formation
-- slug: kesugi-ridge-8
-  description: Rock formation
-- slug: kesugi-ridge-9
-  description: Rock formation
-- slug: kesugi-ridge-10
-  description: Rock formation
-- slug: kesugi-ridge-11
-  description: Rock formation
-- slug: kesugi-ridge-12
-  description: Rock formation
-- slug: kesugi-ridge-13
-  description: Going back up
-- slug: kesugi-ridge-14
-  description: Tundra scrub
-- slug: kesugi-ridge-15
-  description: Skinny Lake. Photo by Frank Baker.
-- slug: kesugi-ridge-16
-  description: Frank at Tarn Point. Photo by Frank Baker.
-- slug: kesugi-ridge-17
-  description: Dave at Troublesome Creek. Photo by Frank Baker.
-- slug: kesugi-ridge-19
-  description: Mile 7 view
-- slug: kesugi-ridge-20
-  description: Ermine Hill
-- slug: kesugi-ridge-21
-  description: Endless tundra
-- slug: kesugi-ridge-22
-  description: 2nd night camp (2003)
-- slug: kesugi-ridge-23
-  description: Boulder Valley
-- slug: kesugi-ridge-24
-  description: Father and son on Ermine Hill. Photo by B. Schwellinger.
-- slug: kesugi-ridge-25
-  description: Made it to the ridge
-- slug: kesugi-ridge-26
-  description: Cascade
-- slug: kesugi-ridge-27
-  description: First night camp (2003)
-- slug: kesugi-ridge-28
-  description: Skinny Lake
+  - slug: kesugi-ridge-1
+    description: First part of ridge
+  - slug: kesugi-ridge-2
+    description: First part of ridge
+  - slug: kesugi-ridge-3
+    description: First part of ridge
+  - slug: kesugi-ridge-4
+    description: First night camp (2004)
+  - slug: kesugi-ridge-5
+    description: Creek chasm
+  - slug: kesugi-ridge-6
+    description: Rock formation
+  - slug: kesugi-ridge-7
+    description: Rock formation
+  - slug: kesugi-ridge-8
+    description: Rock formation
+  - slug: kesugi-ridge-9
+    description: Rock formation
+  - slug: kesugi-ridge-10
+    description: Rock formation
+  - slug: kesugi-ridge-11
+    description: Rock formation
+  - slug: kesugi-ridge-12
+    description: Rock formation
+  - slug: kesugi-ridge-13
+    description: Going back up
+  - slug: kesugi-ridge-14
+    description: Tundra scrub
+  - slug: kesugi-ridge-15
+    description: Skinny Lake. Photo by Frank Baker.
+  - slug: kesugi-ridge-16
+    description: Frank at Tarn Point. Photo by Frank Baker.
+  - slug: kesugi-ridge-17
+    description: Dave at Troublesome Creek. Photo by Frank Baker.
+  - slug: kesugi-ridge-19
+    description: Mile 7 view
+  - slug: kesugi-ridge-20
+    description: Ermine Hill
+  - slug: kesugi-ridge-21
+    description: Endless tundra
+  - slug: kesugi-ridge-22
+    description: 2nd night camp (2003)
+  - slug: kesugi-ridge-23
+    description: Boulder Valley
+  - slug: kesugi-ridge-24
+    description: Father and son on Ermine Hill. Photo by B. Schwellinger.
+  - slug: kesugi-ridge-25
+    description: Made it to the ridge
+  - slug: kesugi-ridge-26
+    description: Cascade
+  - slug: kesugi-ridge-27
+    description: First night camp (2003)
+  - slug: kesugi-ridge-28
+    description: Skinny Lake
 trailheads:
-- name: Byers Lake Trailhead
-  latitude: 62.7430437
-  longitude: -150.1269574
-- name: Ermine Hill Trailhead
-  latitude: 62.8274689
-  longitude: -149.9035288
-- name: Little Coal Creek Trailhead
-  latitude: 62.8921755
-  longitude: -149.7465986
-- name: Upper Troublesome Creek Trailhead
-  latitude: 62.630615
-  longitude: -150.2281732
-tags: ['hikes', 'denali-state-park']
+  - name: Byers Lake Trailhead
+    latitude: 62.7430437
+    longitude: -150.1269574
+  - name: Ermine Hill Trailhead
+    latitude: 62.8274689
+    longitude: -149.9035288
+  - name: Little Coal Creek Trailhead
+    latitude: 62.8921755
+    longitude: -149.7465986
+  - name: Upper Troublesome Creek Trailhead
+    latitude: 62.630615
+    longitude: -150.2281732
+tags: ["hikes", "denali-state-park"]
 layout: layouts/hike.njk
 ---
+
 If you're coming up here in July or August, and you're looking for a good 3-4 day trail to backpack, this should be your number one choice.
 
 The reason I say this is Denali. The trail basically runs along the side of Kesugi Mountain which makes it a primo location to view North America's largest mountain. Now I want to warn you upfront. Due to the weather conditions Denali creates in itself, you only have a 30% chance of seeing the mountain unobscured by clouds. But if you have good weather, and you have 3-4 days to increase your odds, you will be richly rewarded on your journey.
@@ -117,7 +118,7 @@ The third and last day, I spent most of the time walking through far as the eye 
 
 Soon you will head down the trail where you will see the intersection for the Troublesome Creek Trail.
 
-Pretty soon, you're below tree line and coming down a steep canyon. You'll head through buggy forest and end up at the Byers Lake Campground where you will either hitchhike back or have a ferried car waiting. Luckily I met some really nice people on the trail (*thanks to Chad, Colleen, Jenna, and Sharon! who helped me get back*).
+Pretty soon, you're below tree line and coming down a steep canyon. You'll head through buggy forest and end up at the Byers Lake Campground where you will either hitchhike back or have a ferried car waiting. Luckily I met some really nice people on the trail (_thanks to Chad, Colleen, Jenna, and Sharon! who helped me get back_).
 
 It was by far one of the best backpacking experiences of my life, not to mention in Alaska. I urge you to put this on your list.
 

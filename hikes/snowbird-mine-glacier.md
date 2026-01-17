@@ -6,52 +6,53 @@ rating: 4
 difficultyRating: Moderate
 difficultyDescription: the section from the mine to the glacier is not too steep but the trail is easy to lose and there may be some scrambling involved.
 connectedHikes:
-- Reed Lakes
-- Archangel Valley
+  - Reed Lakes
+  - Archangel Valley
 milesOneWay: 5.0
 milesFromAnchorage: 56.0
 directionsFromAnchorage: near Hatcher's Pass
-elevationGain: 
+elevationGain:
 seasonDescription: June to September
 mapFilename: snowbird-mine-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: snowbird-mine-13
 attachments:
-- slug: snowbird-mine-1
-  description: Scree
-- slug: snowbird-mine-2
-  description: Star and tussocks
-- slug: snowbird-mine-3
-  description: Lake
-- slug: snowbird-mine-4
-  description: Boulders
-- slug: snowbird-mine-5
-  description: Reed Valley
-- slug: snowbird-mine-6
-  description: Boulders
-- slug: snowbird-mine-7
-  description: Lake
-- slug: snowbird-mine-8
-  description: Granite Peaks
-- slug: snowbird-mine-9
-  description: Star at rest
-- slug: snowbird-mine-10
-  description: Mine Ruins
-- slug: snowbird-mine-11
-  description: Mine Ruins
-- slug: snowbird-mine-12
-  description: Mine Ruins
-- slug: snowbird-mine-14
-  description: Star and mine ruins
+  - slug: snowbird-mine-1
+    description: Scree
+  - slug: snowbird-mine-2
+    description: Star and tussocks
+  - slug: snowbird-mine-3
+    description: Lake
+  - slug: snowbird-mine-4
+    description: Boulders
+  - slug: snowbird-mine-5
+    description: Reed Valley
+  - slug: snowbird-mine-6
+    description: Boulders
+  - slug: snowbird-mine-7
+    description: Lake
+  - slug: snowbird-mine-8
+    description: Granite Peaks
+  - slug: snowbird-mine-9
+    description: Star at rest
+  - slug: snowbird-mine-10
+    description: Mine Ruins
+  - slug: snowbird-mine-11
+    description: Mine Ruins
+  - slug: snowbird-mine-12
+    description: Mine Ruins
+  - slug: snowbird-mine-14
+    description: Star and mine ruins
 trailheads:
-- name: Reed Lakes Trailhead
-  latitude: 61.8041865
-  longitude: -149.2027134
-tags: ['hikes', 'matanuska-valley']
+  - name: Reed Lakes Trailhead
+    latitude: 61.8041865
+    longitude: -149.2027134
+tags: ["hikes", "matanuska-valley"]
 layout: layouts/hike.njk
 ---
+
 We took this hike as an overnight trip to the mine with a side trip to the glacier. The area just above the mine is very flat and a good place for camping. There is plenty of room for exploration, with a mine entrance on the hillside and a hanging valley with a lake in it.
 The trip up to the glacier is not incredibly difficult, but the trail was easy to lose as you are making your way through a boulder field. We ended up going off to the right in the valley, and hanging off the side of some pretty steep sections. Oops. So if you're going up to the glacier, stick to the left (south) side of the valley.
 
@@ -59,19 +60,19 @@ Snowbird glacier is really a glacier remnant, so not as impressive as [Exit Glac
 
 It's a pretty easy hike with a couple steep bits. A good trip to bring people who are in shape but not familiar with Alaska backpacking. Of course, it can get windy and cold so the right gear is a must (just like any Alaska hike).
 
-*The following was added July 4, 2006:*
+_The following was added July 4, 2006:_
 
 I've been meaning to get to this area for years and finally went this past Sunday. The whole Archangel Valley is beautiful. Since I needed pictures for this hike, I headed left after the broke down hut instead of straight to Reed Lakes. I'm glad I did because I could not believe how many people were hiking there. For every one person going to Snowbird, there were easily 10-15 going to Reed Lakes.
 
 I didn't get to the Glacier as I didn't want to put my dog through having to navigate those boulders. From what Louise says above, I think you would be better off with Jewell Glacier. I did go as far as the lake, which was still half frozen, and then went down and back up to the other canyon. This hike, besides the scenery, is really about the mine ruins, which is a great way to experience Alaska's heritage. This would be a great place to base camp and day hike around. You could do Reed Lakes early in the morning the next day before the crowds start coming.
 
-*The following was added July 25, 2009:*
+_The following was added July 25, 2009:_
 
 Last weekend, I finally had a chance to overnight here! This time it was snow free and boy!, what a great place to hang out. The gray, granite, jagged peaks are really cool to look at, especially with all the boulders around. What's really amazing about this valley is the abundance on creeks and streams, with a fair amount of it underground due to all the tundra growing over the scree and talus.
 
 I set my tent up right by the lake. The area right by the post and rocks is the flattest place to set up, trust me. After I set up, I headed over to the pass to get to the glacier. I did get into the pass but did not go all the way to the glacier. It's really receded and while doable, it is a schlep scrambling thru boulders and moraines. My dog is getting old and when she wedged her paw between two boulders and it took awhile to get her unstuck, I decided it wasn't worth it and headed back to camp. Really, going to the glacier is very optional and does not have to be the highlight of your hike, especially as there are so many other glaciers that are easier to get to.
 
-After dinner that night, I spent a couple of hours really walking around the upper valley and moraines. What a great place to explore! The upper valley west of the lake has many small creeks that run down the flat side of boulders creating some really beautiful patterns. 
+After dinner that night, I spent a couple of hours really walking around the upper valley and moraines. What a great place to explore! The upper valley west of the lake has many small creeks that run down the flat side of boulders creating some really beautiful patterns.
 
 Coming down the next day, I headed over to the mine ruins and really looked around. Once again, be careful coming back down the trail as some parts are really eroded and slippery.
 

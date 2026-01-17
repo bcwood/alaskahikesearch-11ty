@@ -4,34 +4,35 @@ park: Chugach State Park
 submittedBy: Rollin Dalpiaz
 rating: 5
 difficultyRating: Somewhat difficult
-difficultyDescription: 'length of hike and short day length may cause trouble late in the Fall, up down, up again: travel light.'
+difficultyDescription: "length of hike and short day length may cause trouble late in the Fall, up down, up again: travel light."
 connectedHikes:
-- The Dome
-- Knoya Peak
-- Near Point
-- Canyon Creek
+  - The Dome
+  - Knoya Peak
+  - Near Point
+  - Canyon Creek
 milesOneWay: 7.0
 milesFromAnchorage: 0.0
 directionsFromAnchorage: about a 20 minute drive from downtown
 elevationGain: 5000
 seasonDescription: May to August
 mapFilename: tkishla-peak-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: tkishla-peak-1
 attachments: []
 trailheads:
-- name: Prospect Heights Trailhead
-  latitude: 61.1389031
-  longitude: -149.7108881
-- name: Basher Trailhead
-  latitude: 61.1515809
-  longitude: -149.7143492
-tags: ['hikes', 'chugach-state-park']
+  - name: Prospect Heights Trailhead
+    latitude: 61.1389031
+    longitude: -149.7108881
+  - name: Basher Trailhead
+    latitude: 61.1515809
+    longitude: -149.7143492
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
-*Webmaster's Note: Rollin is remembering when he hiked this in 1972*
+
+_Webmaster's Note: Rollin is remembering when he hiked this in 1972_
 
 We drove to the Prospect Heights trail head from Elmendorf United States Air Force Base. Turn left under the powerlines and follow the old homesteader's trail into and down to the Middle fork of Campbell Creek. Ignore trails to the right and stop where the Wolverine Peak trail and the Near Point Trail diverge. Here we, David Henney and I, parked our VW that special day.
 Go over Near Point to the North Fork of Campbell Creek (I took a color side there of David Henney and the Valley and our goal which was published on the cover of the Alaska-Yukon section of the Alaska Magazine).
@@ -64,4 +65,4 @@ T'Kishla is on military land. You will need to get a permit to hike there and le
 
 ### Etc.
 
-The Prospect Heights Parking Lot requires a $5 parking fee (bring exact amount). The price for an annual parking pass is $60. You can purchase a pass at the Federal Building at 4th and F or the Atwood Building on 7th and E, 13th Floor. 
+The Prospect Heights Parking Lot requires a $5 parking fee (bring exact amount). The price for an annual parking pass is $60. You can purchase a pass at the Federal Building at 4th and F or the Atwood Building on 7th and E, 13th Floor.

@@ -1,48 +1,49 @@
 ---
 title: Black Tail Rocks
 park: Chugach State Park
-submittedBy: 
+submittedBy:
 rating: 4
 difficultyRating: Moderate
 difficultyDescription: steep but manageable when going up Black Tail proper.
 connectedHikes:
-- Ptarmigan Valley Trail
-- Round Top
-- Mt. Baldy
+  - Ptarmigan Valley Trail
+  - Round Top
+  - Mt. Baldy
 milesOneWay: 2.5
 milesFromAnchorage: 15.0
 directionsFromAnchorage: near the town of Eagle River
-elevationGain: 
+elevationGain:
 seasonDescription: May to September
 mapFilename: black-tail-rocks-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: black-tail-rocks-1
 attachments:
-- slug: black-tail-rocks-2
-  description: Round Top
-- slug: black-tail-rocks-3
-  description: Baldy
-- slug: black-tail-rocks-4
-  description: Eagle River Valley
-- slug: black-tail-rocks-5
-  description: Through the rocks
-- slug: black-tail-rocks-6
-  description: Ptarmigan Valley
-- slug: black-tail-rocks-7
-  description: Vista
-- slug: black-tail-rocks-8
-  description: Round Top
-- slug: black-tail-rocks-9
-  description: Mt. Magnificent
+  - slug: black-tail-rocks-2
+    description: Round Top
+  - slug: black-tail-rocks-3
+    description: Baldy
+  - slug: black-tail-rocks-4
+    description: Eagle River Valley
+  - slug: black-tail-rocks-5
+    description: Through the rocks
+  - slug: black-tail-rocks-6
+    description: Ptarmigan Valley
+  - slug: black-tail-rocks-7
+    description: Vista
+  - slug: black-tail-rocks-8
+    description: Round Top
+  - slug: black-tail-rocks-9
+    description: Mt. Magnificent
 trailheads:
-- name: Mt. Baldy Trailhead
-  latitude: 61.3380357
-  longitude: -149.5116133
-tags: ['hikes', 'chugach-state-park']
+  - name: Mt. Baldy Trailhead
+    latitude: 61.3380357
+    longitude: -149.5116133
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 After Dan submitted [Baldy](/hikes/mt-baldy/ "Mt. Baldy") to me last year, I've been itching to check it out and proceed further on to the other mountains nearby. I finally had a chance last weekend to check some out.
 
 This was a relatively easy hike and I'm really glad I did it. Black Tail looks really intimidating from a distance but I was up by the rocks in no time. As you go up, The views are really spectacular and you can really see into the glacial valleys that comprise the Eagle River area. Besides that, you have great views of Knik Arm and if it had been sunny when I went, Denali and the Alaska Range, Sleeping Lady and Cook Inlet. When you get to the top, there are really great views of Mt. Magnificent and Round Top in the clefts of the big rocks on top.

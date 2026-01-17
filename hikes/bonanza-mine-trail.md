@@ -9,46 +9,47 @@ connectedHikes: []
 milesOneWay: 4.5
 milesFromAnchorage: 320.0
 directionsFromAnchorage: in the Kennicott Mine/McCarthy area
-elevationGain: 
+elevationGain:
 seasonDescription: June to September
 mapFilename: bonanza-mine-trail-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: bonanza-mine-trail-14
 attachments:
-- slug: bonanza-mine-trail-1
-  description: Mine. Photo by Jon B.
-- slug: bonanza-mine-trail-2
-  description: End of trail. Photo by Jon B.
-- slug: bonanza-mine-trail-3
-  description: Rivers and Chugach Mountains. Photo by Jon B.
-- slug: bonanza-mine-trail-4
-  description: Side view of mine. Photo by Jon B.
-- slug: bonanza-mine-trail-6
-  description: Tree line. Photo by Jon B.
-- slug: bonanza-mine-trail-7
-  description: Lower part of trail. Photo by Jon B.
-- slug: bonanza-mine-trail-8
-  description: Panorama
-- slug: bonanza-mine-trail-9
-  description: Near top. Photo by Ross Timm.
-- slug: bonanza-mine-trail-10
-  description: Cool scree pattern. Photo by Ross Timm.
-- slug: bonanza-mine-trail-11
-  description: Landslide. Photo by Ross Timm.
-- slug: bonanza-mine-trail-12
-  description: Copper. Photo by Ross Timm.
-- slug: bonanza-mine-trail-15
-  description: Power building. Photo by Ross Timm.
-- slug: bonanza-mine-trail-16
-  description: Jumbo tram. Photo by Ross Timm.
-- slug: bonanza-mine-trail-13
-  description: Glacier valley. Photo by Ross Timm.
+  - slug: bonanza-mine-trail-1
+    description: Mine. Photo by Jon B.
+  - slug: bonanza-mine-trail-2
+    description: End of trail. Photo by Jon B.
+  - slug: bonanza-mine-trail-3
+    description: Rivers and Chugach Mountains. Photo by Jon B.
+  - slug: bonanza-mine-trail-4
+    description: Side view of mine. Photo by Jon B.
+  - slug: bonanza-mine-trail-6
+    description: Tree line. Photo by Jon B.
+  - slug: bonanza-mine-trail-7
+    description: Lower part of trail. Photo by Jon B.
+  - slug: bonanza-mine-trail-8
+    description: Panorama
+  - slug: bonanza-mine-trail-9
+    description: Near top. Photo by Ross Timm.
+  - slug: bonanza-mine-trail-10
+    description: Cool scree pattern. Photo by Ross Timm.
+  - slug: bonanza-mine-trail-11
+    description: Landslide. Photo by Ross Timm.
+  - slug: bonanza-mine-trail-12
+    description: Copper. Photo by Ross Timm.
+  - slug: bonanza-mine-trail-15
+    description: Power building. Photo by Ross Timm.
+  - slug: bonanza-mine-trail-16
+    description: Jumbo tram. Photo by Ross Timm.
+  - slug: bonanza-mine-trail-13
+    description: Glacier valley. Photo by Ross Timm.
 trailheads: []
-tags: ['hikes', 'wrangell--st-elias-national-park']
+tags: ["hikes", "wrangell--st-elias-national-park"]
 layout: layouts/hike.njk
 ---
+
 This is a great hike up into the mountains above Kennicott. It combines amazing views, including views of the Kennicott and Root Glaciers, with the opportunity to see some of the mining history of the area.
 
 The hike starts in downtown Kennicott. It follows an old mining road the whole way up to the mine. Perhaps the one downside to the hike is that it takes a bit longer to get above tree line than the typical Alaska hike; probably somewhere between mile 2 and 3. Below tree line there are occasional views of the valley; once you get above, the views get pretty impressive. There are lots of old mine-related structures near the trail and nestled in the surrounding hills. Most interesting are the remains of a tram system that carried the ore down to Kennicott from the mines. Bonanza mine itself is a very cool, partially collapsed structure perched just below the ridge. Relics of the early twentieth century are strewn all over. The ridge just above the mine has some great views to the north that are not otherwise visible on the trail. Just be prepared for less than a 360 degree view: the actual summit of Bonanza Ridge towers another 1,000 feet or so above the ridge that the mine is perched on. It doesn't look possible to get to the true summit without climbing gear.

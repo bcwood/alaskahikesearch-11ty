@@ -9,18 +9,19 @@ connectedHikes: []
 milesOneWay: 4.6
 milesFromAnchorage: 23.0
 directionsFromAnchorage: take the Mirror Lake exit driving north from Anchorage. The parking lot for the trailhead is the first on the left.
-elevationGain: 
+elevationGain:
 seasonDescription: All year
-mapFilename: 
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+mapFilename:
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: edmonds-lake
 attachments: []
 trailheads: []
-tags: ['hikes', 'chugach-state-park']
+tags: ["hikes", "chugach-state-park"]
 layout: layouts/hike.njk
 ---
+
 I believe this series of trails is meant more for cross country skiing as one trail suggestion actually routes over Edmonds Lake (that, and the trail is a bit muddy still even in mid May 2015 when we did this hike. I'm guessing there is always some mud)
 
 The trail starts at the far east end of the parking lot (toward the direction of Palmer). Once on the trail for a few hundred feet, a signpost next to an intersection can be seen with a few options:

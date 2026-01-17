@@ -4,38 +4,39 @@ park: Chugach National Forest
 submittedBy: Ross Timm
 rating: 4
 difficultyRating: Somewhat difficult
-difficultyDescription: 
+difficultyDescription:
 connectedHikes: []
 milesOneWay: 2.0
 milesFromAnchorage: 40.0
 directionsFromAnchorage: in the town of Girdwood at the Alyeska Ski Resort
-elevationGain: 
+elevationGain:
 seasonDescription: June through September
 mapFilename: alyeska-topo.jpg
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: alyeska-roundhouse-5
 attachments:
-- slug: alyeska-roundhouse-1
-  description: Paragliders coming down from the top of the mountain.
-- slug: alyeska-roundhouse-2
-  description: Descending back down the mountain.
-- slug: alyeska-roundhouse-3
-  description: View of the tram.
-- slug: alyeska-roundhouse-4
-  description: Fireweed
-- slug: alyeska-roundhouse-6
-  description: The path back.
-- slug: alyeska-roundhouse-7
-  description: The view up the mountain.
+  - slug: alyeska-roundhouse-1
+    description: Paragliders coming down from the top of the mountain.
+  - slug: alyeska-roundhouse-2
+    description: Descending back down the mountain.
+  - slug: alyeska-roundhouse-3
+    description: View of the tram.
+  - slug: alyeska-roundhouse-4
+    description: Fireweed
+  - slug: alyeska-roundhouse-6
+    description: The path back.
+  - slug: alyeska-roundhouse-7
+    description: The view up the mountain.
 trailheads:
-- name: Alyeska Trailhead
-  latitude: 60.9697352
-  longitude: -149.0952829
-tags: ['hikes', 'chugach-national-forest']
+  - name: Alyeska Trailhead
+    latitude: 60.9697352
+    longitude: -149.0952829
+tags: ["hikes", "chugach-national-forest"]
 layout: layouts/hike.njk
 ---
+
 This hike is a great one for a visitor to do rather than Flattop. For one, you get the drive to Girdwood. Second, you get great views, a good hike with varying levels of steepness, and a interesting juxtaposition of ski-lift technology, history, and rugged outdoors. Third, you get to mingle with fine diners and tourists on the tram chalet's deck (ok-- not always a bonus). Fourth- you have a bathroom and a tram down! Great for guests to see it all! Oh yeah-- you have Chair 5 to get a burger, beer, and/or pizza on the bottom.
 Anyway, I started doing this hike with friends who liked a challenge of racing to the top along the straight up path. It kills. But it is a good training route for other steep climbs. You start at the end of the old condos to the right of the Stizmark. You can park there for free, like most areas in Girdwood that I know of.
 

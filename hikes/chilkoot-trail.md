@@ -9,32 +9,33 @@ connectedHikes: []
 milesOneWay: 33.0
 milesFromAnchorage: 850.0
 directionsFromAnchorage: near Skagway in southeast Alaska
-elevationGain: 
+elevationGain:
 seasonDescription: May to September
 mapFilename: http://www.trailmonkey.com/USpages/alaska/maps/Chi
-topoFilename: 
-elevationFilename: 
-gpxFilename: 
+topoFilename:
+elevationFilename:
+gpxFilename:
 bannerImage: chilkoot-trail-1
 attachments:
-- slug: chilkoot-trail-2
-  description: Lindeman Canyon. Photo by Barb Cary A.
-- slug: chilkoot-trail-3
-  description: Boulder field. Photo by Barb Cary A.
-- slug: chilkoot-trail-4
-  description: Approaching the Golden Stairs. Photo by Barb Cary A.
-- slug: chilkoot-trail-5
-  description: Top of Golden Stairs. Photo by Barb Cary A.
-- slug: chilkoot-trail-6
-  description: Canadian border. Photo by Barb Cary A.
+  - slug: chilkoot-trail-2
+    description: Lindeman Canyon. Photo by Barb Cary A.
+  - slug: chilkoot-trail-3
+    description: Boulder field. Photo by Barb Cary A.
+  - slug: chilkoot-trail-4
+    description: Approaching the Golden Stairs. Photo by Barb Cary A.
+  - slug: chilkoot-trail-5
+    description: Top of Golden Stairs. Photo by Barb Cary A.
+  - slug: chilkoot-trail-6
+    description: Canadian border. Photo by Barb Cary A.
 trailheads:
-- name: Chilkoot Trail Trailhead
-  latitude: 59.511806
-  longitude: -135.3466516
-tags: ['hikes', 'klondike-gold-rush-national-historical-park']
+  - name: Chilkoot Trail Trailhead
+    latitude: 59.511806
+    longitude: -135.3466516
+tags: ["hikes", "klondike-gold-rush-national-historical-park"]
 layout: layouts/hike.njk
 ---
-*Note from the webmaster: technically this is too far away from Anchorage (greater than a 4 hour car ride) to grant inclusion on this site but since many visitors to my site would be interested, it seemed appropriate to publish and have available.*
+
+_Note from the webmaster: technically this is too far away from Anchorage (greater than a 4 hour car ride) to grant inclusion on this site but since many visitors to my site would be interested, it seemed appropriate to publish and have available._
 
 I hiked the Chilkoot with 3 other women June 27 - July 1, 2006. All of us are in pretty good condition and experienced backpackers. We did it in 5 days, four nights. It can be done in fewer days, but we like to be able to take our time and enjoy the journey. The availability of tent space at the established campgrounds along the trail also dictates your trip length; you can only camp in the established campgrounds, and must reserve your spaces in advance. This limits the number of people on the trail at any one time - which is a good thing.
 The first day took us 7.5 miles from the Dyea trailhead near Skagway to Canyon City Camp through coastal rain forest habitat. It was easy hiking with little elevation gain. The trail was very well-maintained with plank bridges over any creeks that couldn't easily be stepped across. Be prepared for rain - it's wet even if it isn't really raining, and it's hard to tell in a rainforest of large dripping hemlocks and spruce whether its raining or not. It makes for dozens of waterfalls, clear streams, fern-covered floors . . . beautiful. Canyon City Camp has a large old log cabin hikers can share to dry out, cook in, and warm up, and there are also bear lockers for storing food.
@@ -65,4 +66,4 @@ Most hikers go from AK to Canada - we only met one group of hikers going the oth
 
 ### Etc.
 
-You have to plan this trip well in advance. You must get trail passes and reserve campsites. That sounds like a pain, but it controls the number of people who use the trail, and is really a good thing. You also must have ID (passports preferably), if you are going on the train, because you cross the US/Canada border. 
+You have to plan this trip well in advance. You must get trail passes and reserve campsites. That sounds like a pain, but it controls the number of people who use the trail, and is really a good thing. You also must have ID (passports preferably), if you are going on the train, because you cross the US/Canada border.
