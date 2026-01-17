@@ -1,11 +1,6 @@
 @use "colors";
 
 .home {
-        .stats strong::after {
-            content: "\A";
-            white-space: pre;
-        }
-
   .callout {
     font-size: 1.1em;
     padding: 60px 0;
