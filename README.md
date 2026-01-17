@@ -1,7 +1,7 @@
 # Alaska Hike Search
 
-Build the site locally:
-`npx @11ty/eleventy`
+Build the site locally, including SCSS, JS, etc.:
+`npm run build`
 
 Serve the site locally:
-`npx @11ty/eleventy --serve`
+`npm run start`

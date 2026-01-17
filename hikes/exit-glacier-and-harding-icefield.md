@@ -15,7 +15,7 @@ mapFilename: exit-glacier-topo.jpg
 topoFilename: 
 elevationFilename: 
 gpxFilename: 
-bannerImage: exit-glacier-9
+bannerImage: exit-glacier-banner
 attachments:
 - slug: exit-glacier-1
   description: Walking on the icefield. Photo by Frank Baker.
@@ -32,6 +32,8 @@ attachments:
 - slug: exit-glacier-7
   description: First glimpse
 - slug: exit-glacier-8
+  description: Glacier's terminus
+- slug: exit-glacier-9
   description: Glacier's terminus
 - slug: exit-glacier-10
   description: Harding Icefield.

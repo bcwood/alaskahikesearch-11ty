@@ -11,19 +11,21 @@ connectedHikes:
 - Mint Valley to Reed Lake
 milesOneWay: 4.5
 milesFromAnchorage: 56.0
-directionsFromAnchorage: near Hatcher's Pass
+directionsFromAnchorage: near Hatcher Pass
 elevationGain: 
 seasonDescription: All year (ski or snowshoe in winter)
 mapFilename: reed-lakes-topo.jpg
 topoFilename: 
 elevationFilename: 
 gpxFilename: 
-bannerImage: reed-lakes-3
+bannerImage: reed-lakes-banner
 attachments:
 - slug: reed-lakes-1
   description: Waterfall. Photo by Dan Couture.
 - slug: reed-lakes-2
   description: Boulder scramble. Photo by Dan Couture.
+- slug: reed-lakes-3
+  description: 'Reed Lake. Photo by Dan Couture.'
 - slug: reed-lakes-4
   description: Camp. Photo by Dan Couture.
 - slug: reed-lakes-5

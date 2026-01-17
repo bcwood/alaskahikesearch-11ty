@@ -3,7 +3,7 @@ title: Resurrection Pass
 park: Chugach National Forest
 submittedBy: ''
 rating: 4
-difficultyRating: Somewhat easy
+difficultyRating: Moderate
 difficultyDescription: northern portion is easy. Gradual elevation gain going south for half the trip.  More dramatic elevation gain heading North.
 connectedHikes:
 - Russian Lake

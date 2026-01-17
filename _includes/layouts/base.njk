@@ -3,7 +3,7 @@
     <head>
         <title>{{ title }} &ndash; Alaska Hike Search</title>
 
-        {% include 'head.njk' %}
+        {% include 'header.njk' %}
         {% block header %}{% endblock %}
     </head>
     <body>
@@ -13,7 +13,7 @@
             {{ content | safe }}
         {% endblock %}
 
-        {% include 'foot.njk' %}
+        {% include 'footer.njk' %}
         {% block footer %}{% endblock %}
     </body>
 </html>

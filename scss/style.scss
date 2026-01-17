@@ -1,7 +1,7 @@
-@import "variables";
-@import "layout";
-@import "nav";
-@import "pages";
-@import "hikes";
-@import "home";
-@import "map";
+
+@use "layout";
+@use "nav";
+@use "pages";
+@use "hikes";
+@use "home";
+@use "map";

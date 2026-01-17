@@ -1,6 +1,7 @@
+@use "colors";
+
 .page {
     background-color: #fff;
-    /*    box-shadow: 0 4px 6px 8px rgba(0, 0, 0, 0.4);*/
     padding-top: 20px;
 
     h1 {
@@ -17,7 +18,7 @@
 }
 
 .page.education #edu-menu {
-    background-color: $light-background-color;
+    background-color: colors.$light-background-color;
     font-size: 1.0em;
     float: right;
     list-style-type: none;
@@ -32,7 +33,7 @@
 }
 
 .page.parks .park {
-    border-top: 4px dotted $light-border-color;
+    border-top: 4px dotted colors.$light-border-color;
     padding: 30px 0;
 }
 

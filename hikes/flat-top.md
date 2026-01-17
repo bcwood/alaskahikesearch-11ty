@@ -1,5 +1,5 @@
 ---
-title: Flat Top
+title: Flattop
 park: Chugach State Park
 submittedBy: 
 rating: 3
@@ -15,15 +15,17 @@ mapFilename: flat-top-topo.jpg
 topoFilename: 
 elevationFilename: 
 gpxFilename: 
-bannerImage: flat-top-6
+bannerImage: flat-top-banner
 attachments:
 - slug: flat-top-2
   description: Summit in winter. Photo by Ross Timm.
 - slug: flat-top-3
-  description: The peaks of Flat Top
+  description: The peaks of Flattop
 - slug: flat-top-4
   description: On top
 - slug: flat-top-5
+  description: ''
+- slug: flat-top-6
   description: ''
 - slug: flat-top-7
   description: Wind shelter
@@ -57,7 +59,7 @@ On the night of the summer solstice (June 20), people camp up at the summit over
 
 There is a short hike that loops from the parking lot with a viewing deck overlooking the Anchorage bowl. 
 
-You can also just hike to Blueberry Hill (you may find some freedom), the first part of the Flat Top Trail. If you come in late August, early September, bring some Tupperware to hold all the blueberries that you're going to want to pick.
+You can also just hike to Blueberry Hill (you may find some freedom), the first part of the Flattop Trail. If you come in late August, early September, bring some Tupperware to hold all the blueberries that you're going to want to pick.
 
 [Flattop Mountain Shuttle/Downtown Bicycle Rental](http://www.hike-anchorage-alaska.com/) currently shoots to run a shuttle at 1 p.m. The Shuttle goes up when 7 or more people sign up. The cost is $22. It's a new business and will probably add more shuttles as it grows.
 

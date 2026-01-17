@@ -3,33 +3,202 @@ permalink: /index.html
 ---
 {% extends "layouts/home.njk" %}
 
-{% block header %}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.min.css" integrity="sha512-oIQ0EBio8LJupRpgmDsIsvm0Fsr6c3XNHLB7at5xb+Cf6eQuCX9xuX8XXGRIcokNgdqL1ms7nqbQ6ryXMGxXpg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-{% endblock %}
-
 {% block content %}
-    <div class="cover">
-        <h2 class="cover-heading">Find Your Next Adventure</h2>
-        <form class="select-hike-form" action="/select-hike.html" method="get">
-            <select name="hike" id="hike" class="form-control">
-                <option>Select a hike...</option>
-                
-                {%- for hike in collections.hikes | sort(attribute='data.title') %}
-                    <option value="{{ hike.fileSlug }}">{{ hike.data.title }}</option>
-                {%- endfor %}
-            </select>
-            <button type="submit" class="btn btn-success">Go!</button>
-        </form>
+    <div class="container-fluid cover callout">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h2>Find Your Next <span>Adventure</span></h2>
+                <p>
+                    Discover Alaska's most spectacular hiking trails - complete with maps, elevation profiles, 
+                    and tips from local adventurers.
+                </p>
+            </div>
+        </div>
 
-        <div id="map" class="map-home"></div>
-        <noscript>Please enable JavaScript to view the trailhead map.</noscript>
+        <div class="row stats">
+            <div class="col-sm-2 offset-sm-3">
+                <strong>130+</strong> Trails
+            </div>
+            <div class="col-sm-2">
+                <strong>14</strong> Parks
+            </div>
+            <div class="col-sm-2">
+                <strong>&infin;</strong> Adventures
+            </div>
+        </div>
+
+        <a class="btn btn-browse-hikes" href="/hikes" role="button">Browse All Hikes</a>
     </div>
-{% endblock %}
 
-{% block footer %}
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.8.0/leaflet.min.js" integrity="sha512-TL+GX2RsOUlTndpkgHVnSQ9r6zldqHzfyECrdabkpucdFroZ3/HAhMmP2WYaPjsJCoot+0McmdPOLjmmicG9qg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script type="text/javascript" src="/js/maps.min.js?v={{ buildTimestamp }}"></script>
-    <script type="text/javascript">
-        map_home();
-    </script>
+    <div class="container callout">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <h2>Most Popular <span>Hikes</span></h2>
+                <p>
+                    Not sure where to start for planning your next Alaskan adventure?
+                    Check out our most popular hikes, loved by locals and visitors alike.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container hike-cards">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
+            <div class="col">
+                <div class="card">
+                    <div>
+                        <img class="card-img-top" src="/img/hikes/eagle-symphony-lakes-banner.jpg" />
+                        <div class="badge badge-pill badge-light">Moderate</div>                    
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/hikes/eagle-and-symphony-lakes">Eagle &amp; Symphony Lakes</a></h5>
+                        <h6 class="card-subtitle text-muted">Chugach State Park</h6>
+                        
+                        <p class="card-text">
+                            A beautiful hike to two stunning alpine lakes nestled in the Chugach Mountains, 
+                            offering breathtaking views and serene surroundings.
+                        </p>                        
+                    </div>
+                    <div class="card-footer">
+                        <div class="row hike-stats">
+                            <div class="col-md-6">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#route"></use></svg></div> 12.0 miles
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#mountain"></use></svg></div> 1,500 ft
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div>
+                        <img class="card-img-top" src="/img/hikes/exit-glacier-banner.jpg" />
+                        <div class="badge badge-pill badge-light">Easy</div>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/hikes/exit-glacier-and-harding-icefield">Exit Glacier &amp; Harding Icefield</a></h5>
+                        <h6 class="card-subtitle text-muted">Kenai Fjords National Park</h6>
+
+                        <p class="card-text">
+                            A scenic hike into the Kenai Fjords National Park, offering spectacular views of glaciers and wildlife.
+                        </p>                        
+                    </div>
+                    <div class="card-footer">
+                        <div class="row hike-stats">
+                            <div class="col-md-6">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#route"></use></svg></div> 4.5 miles
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div>
+                        <img class="card-img-top" src="/img/hikes/flat-top-banner.jpg" />
+                        <div class="badge badge-pill badge-light">Moderate</div>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/hikes/flat-top">Flattop</a></h5>
+                        <h6 class="card-subtitle text-muted">Chugach State Park</h6>
+                        
+                        <p class="card-text">
+                            Probably the most popular hike for visitors to Anchorage, Flattop offers a challenging climb
+                            that rewards hikers with panoramic views of the city below.
+                        </p>                        
+                    </div>
+                    <div class="card-footer">
+                        <div class="row hike-stats">
+                            <div class="col-md-6">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#route"></use></svg></div> 1.5 miles
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#mountain"></use></svg></div> 1,350 ft
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div>
+                        <img class="card-img-top" src="/img/hikes/resurrection-pass-banner.jpg" />
+                        <div class="badge badge-pill badge-light">Moderate</div>                    
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/hikes/resurrection-pass">Resurrection Pass</a></h5>
+                        <h6 class="card-subtitle text-muted">Chugach National Forest</h6>
+
+                        <p class="card-text">
+                            A premier backcountry route through the Chugach National Forest, offering a diverse journey across 
+                            alpine tundras, lush forests, and scenic mountain passes.
+                        </p>                        
+                    </div>
+                    <div class="card-footer">
+                        <div class="row hike-stats">
+                            <div class="col-md-6">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#route"></use></svg></div> 38 miles
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#mountain"></use></svg></div> 3,800 ft
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div>
+                        <img class="card-img-top" src="/img/hikes/reed-lakes-banner.jpg" />
+                        <div class="badge badge-pill badge-light">Somewhat easy</div>                    
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/hikes/reed-lakes">Reed Lakes</a></h5>
+                        <h6 class="card-subtitle text-muted">Matanuska Valley</h6>
+                        
+                        <p class="card-text">
+                            A visually stunning trek in Hatcher Pass that transitions from lush meadows and historic mining ruins 
+                            to a challenging boulder scramble, ultimately revealing two alpine lakes.
+                        </p>                        
+                    </div>
+                    <div class="card-footer">
+                        <div class="row hike-stats">
+                            <div class="col-md-6">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#route"></use></svg></div> 4.5 miles
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div>
+                        <img class="card-img-top" src="/img/hikes/crow-pass-banner.jpg" />
+                        <div class="badge badge-pill badge-light">Somewhat difficult</div>                        
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/hikes/crow-pass">Crow Pass</a></h5>
+                        <h6 class="card-subtitle text-muted">Chugach National Forest</h6>
+                        
+                        <p class="card-text">
+                            A classic route following the historic Iditarod Trail through the Chugach Mountains, challenging hikers 
+                            with a glacial river ford while rewarding them with breathtaking views, alpine lakes, and gold-mining ruins.
+                        </p>                        
+                    </div>
+                    <div class="card-footer">
+                        <div class="row hike-stats">
+                            <div class="col-md-6">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#route"></use></svg></div> 23 miles
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <div class="hike-icon"><svg><use xlink:href="/img/hike-icons.svg#mountain"></use></svg></div> 3,400 ft
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 {% endblock %}
