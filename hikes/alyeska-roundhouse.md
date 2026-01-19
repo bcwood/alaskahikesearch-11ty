@@ -15,7 +15,7 @@ mapFilename: alyeska-topo.jpg
 topoFilename:
 elevationFilename:
 gpxFilename:
-bannerImage: alyeska-roundhouse-5
+bannerImage: alyeska-roundhouse-banner
 attachments:
   - slug: alyeska-roundhouse-1
     description: Paragliders coming down from the top of the mountain.
@@ -25,6 +25,8 @@ attachments:
     description: View of the tram.
   - slug: alyeska-roundhouse-4
     description: Fireweed
+  - slug: alyeska-roundhouse-5
+    description: View of the ski lift and the inlet below.
   - slug: alyeska-roundhouse-6
     description: The path back.
   - slug: alyeska-roundhouse-7
