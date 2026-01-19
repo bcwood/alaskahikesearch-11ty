@@ -9,7 +9,7 @@ layout: "layouts/page.njk"
 	or a leisurely stroll, there's something here for every outdoor enthusiast. 
 </p>
 
-<div class="container hike-cards">
+<div class="hike-cards">
 	<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
 		{%- for hike in collections.hikes | sort(attribute='data.title') %}
 			<div class="col">

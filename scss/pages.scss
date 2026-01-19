@@ -4,6 +4,10 @@
 	background-color: #fff;
 	padding: 40px 0;
 
+	.row {
+		margin: 0;
+	}
+
 	h1 {
 		font-size: 2.3em;
 		font-weight: bold;
@@ -18,6 +22,12 @@
 	h3 {
 		margin-top: 30px;
 	}
+}
+
+.page.container,
+.page.container-xl {
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 .page.browse .hike-cards {

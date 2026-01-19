@@ -28,8 +28,12 @@
 		background: url(../img/banners/banner4.jpg) no-repeat center top;
 		background-size: cover;
 		color: #fff;
-		font-size: 1.5em;
+		font-size: 1.2em;
 		text-shadow: 0 2px 3px rgba(0, 0, 0, 0.9);
+
+		@media (min-width: 576px) {
+			font-size: 1.5em;
+		}
 
 		.stats strong {
 			font-size: 1.4em;
