@@ -1,5 +1,9 @@
 @use "colors";
 
+.page.hike {
+	padding-top: 0;
+}
+
 .hike {
 	h2 {
 		font-size: 1.5em;
@@ -37,7 +41,6 @@
 	height: 200px;
 	background-position: 50% 30%;
 	background-size: cover;
-	margin: -20px -15px 0 -15px;
 	padding: 0;
 
 	@media (min-width: 768px) {
@@ -46,9 +49,7 @@
 }
 
 .hike-header {
-	background-color: colors.$light-background-color;
-	margin: 0 -15px;
-	padding: 5px 15px !important;
+	padding: 20px 15px 0 15px !important;
 
 	h1 {
 		font-size: 1.8em;
