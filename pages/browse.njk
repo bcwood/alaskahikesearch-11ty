@@ -15,7 +15,7 @@ layout: "layouts/page.njk"
 			<div class="col">
 				<div class="card">
 					<div>
-						<img class="card-img-top" src="/img/hikes/{{ hike.data.bannerImage }}.jpg" />
+						<a href="/hikes/{{ hike.fileSlug }}"><img class="card-img-top" src="/img/hikes/{{ hike.data.bannerImage }}.jpg" /></a>
 						<div class="badge badge-pill badge-light">{{ hike.data.difficultyRating }}</div>                    
 					</div>
 					<div class="card-body">
